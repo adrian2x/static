@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"CLBT",
+"SHR",
+144000000.0,
+9000000.0,
+16.0,
+1.0,
+0.0
+]
+]
+}

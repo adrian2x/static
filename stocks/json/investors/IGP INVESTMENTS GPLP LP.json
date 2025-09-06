@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-03-31",
+"VLN",
+"WNT",
+7058400.0,
+3460000.0,
+2.0,
+1.0,
+null
+]
+]
+}

@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"FLRT",
+"FND",
+1423500.0,
+30000.0,
+47.0,
+1.0,
+null
+]
+]
+}

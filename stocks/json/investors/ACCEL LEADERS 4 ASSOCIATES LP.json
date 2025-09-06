@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"NBIS",
+"SHR",
+253464074.0,
+4580952.0,
+55.0,
+1.0,
+0.0
+]
+]
+}

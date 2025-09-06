@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"CVLC",
+"FND",
+206478743.0,
+2697658.0,
+76.0,
+1.0,
+0.0
+]
+]
+}

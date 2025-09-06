@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"MDXH",
+"SHR",
+10341005.0,
+4700457.0,
+2.0,
+1.0,
+0.0
+]
+]
+}

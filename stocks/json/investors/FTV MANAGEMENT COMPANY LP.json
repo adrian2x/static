@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"CWAN",
+"SHR",
+5411052.0,
+246742.0,
+21.0,
+1.0,
+null
+]
+]
+}

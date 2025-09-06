@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"FIHL",
+"SHR",
+119415029.0,
+7202354.0,
+16.0,
+1.0,
+0.0
+]
+]
+}

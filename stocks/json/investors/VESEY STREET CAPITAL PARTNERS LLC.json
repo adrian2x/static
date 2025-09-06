@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"AIRS",
+"SHR",
+146465789.0,
+30324180.0,
+4.0,
+1.0,
+0.0341
+]
+]
+}

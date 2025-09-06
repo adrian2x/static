@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"ESGV",
+"FND",
+128578665.0,
+1172735.0,
+109.0,
+1.0,
+-0.1353
+]
+]
+}

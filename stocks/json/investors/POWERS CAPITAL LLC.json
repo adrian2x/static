@@ -1,0 +1,34 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"XLK",
+"FND",
+0.0,
+7195.0,
+null,
+null,
+0.0
+],
+[
+"2025-06-30",
+"VOO",
+"FND",
+0.0,
+350822.0,
+null,
+null,
+-0.0132
+]
+]
+}

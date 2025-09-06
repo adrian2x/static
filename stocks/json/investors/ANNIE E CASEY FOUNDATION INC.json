@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"UPS",
+"SHR",
+42499374.0,
+421036.0,
+100.0,
+1.0,
+0.0
+]
+]
+}

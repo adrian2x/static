@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"LQD",
+"FND",
+269295328.0,
+2456850.0,
+109.0,
+1.0,
+0.0
+]
+]
+}

@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"U10D",
+"UND",
+968628771.0,
+7965880.0,
+121.0,
+1.0,
+0.3478
+]
+]
+}

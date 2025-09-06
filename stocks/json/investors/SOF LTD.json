@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"NWSA",
+"SHR",
+335616371.0,
+9781882.0,
+34.0,
+1.0,
+0.0
+]
+]
+}

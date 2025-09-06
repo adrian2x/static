@@ -1,0 +1,24 @@
+{
+"columns": [
+"calendardate",
+"ticker",
+"securitytype",
+"value",
+"units",
+"price",
+"pct",
+"chg"
+],
+"data": [
+[
+"2025-06-30",
+"ABNB",
+"SHR",
+255523792.0,
+1930813.0,
+132.0,
+1.0,
+-0.0085
+]
+]
+}
