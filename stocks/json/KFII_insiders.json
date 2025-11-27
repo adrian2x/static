@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KFII", "2025-02-06 00:00:00.000000", "KF GROWTH ACQUISITION LLC II", "10% Owner", "P", 10.0, 495447, 4954470.0, "Class A ordinary shares"]]}

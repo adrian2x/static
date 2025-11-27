@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CSRSX", "2025-09-30", "STEIGERWALD GORDON KOCH INC", "FND", 0.0, null, 325.0, 22090.0, 67.0], ["CSRSX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 13.0, 864.0, 66.0]]}

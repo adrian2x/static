@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OAK", "2024-06-05 00:00:00.000000", "PERRY MANSCO III", "Director", "S", 21.65, -1000, 21650.0, "Series A Preferred"]]}

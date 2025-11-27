@@ -1,1 +1,1 @@
-{"ticker":{},"date":{},"transactionvalue":{},"transactionshares":{},"securitytitle":{},"transactioncode":{},"securityadcode":{},"issuername":{},"ownername":{},"officertitle":{},"isofficer":{},"isdirector":{},"istenpercentowner":{},"transactionpricepershare":{}}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LXU", "2025-11-11 00:00:00.000000", "MAGUIRE CHERYL", "EVP and CFO", "D", 9.81, -19600, 192276.0, "Common Stock"]]}

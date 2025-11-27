@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VWNDX", "2025-09-30", "DALE Q RICE INVESTMENT MANAGEMENT LTD", "FND", 0.0034, -0.0011, 21308.0, 475392.0, 22.0], ["VWNDX", "2025-09-30", "KELLEHER FINANCIAL ADVISORS", "FND", 0.0003, null, 5701.0, 127074.0, 22.0]]}

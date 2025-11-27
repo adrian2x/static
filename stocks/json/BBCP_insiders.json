@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BBCP", "2025-03-14 00:00:00.000000", "ALARCON STEPHEN", "Director", "P", 5.45, 200, 1090.0, "Common Stock"]]}

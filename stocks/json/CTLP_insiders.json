@@ -1,1 +1,1 @@
-{"ticker":{},"date":{},"transactionvalue":{},"transactionshares":{},"securitytitle":{},"transactioncode":{},"securityadcode":{},"issuername":{},"ownername":{},"officertitle":{},"isofficer":{},"isdirector":{},"istenpercentowner":{},"transactionpricepershare":{}}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CTLP", "2025-09-22 00:00:00.000000", "SINGAL GAURAV", "Chief Technology Officer", "S", 10.61, -14544, 154312.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CYTH", "2024-12-23 00:00:00.000000", "RAFAEL HOLDINGS INC", "10% Owner", "C", 0.63, 3968254, 2500000.0, "Common Stock"]]}

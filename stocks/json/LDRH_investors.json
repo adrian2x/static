@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LDRH", "2025-09-30", "BLACKROCK INC", "FND", 0.0, -0.9091, 3000.0, 75434.0, 25.0], ["LDRH", "2025-09-30", "SUNBELT SECURITIES INC", "FND", 0.0, null, 161.0, 4048.0, 25.0]]}

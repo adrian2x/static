@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ENRT", "2025-08-19 00:00:00.000000", "MCALLISTER ROBERT", "PRESIDENT CEO", "P", 0.1, 150000, 15000.0, "COMMON SHARES"]]}

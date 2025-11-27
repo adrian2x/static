@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SCOR", "2025-11-14 00:00:00.000000", "LIVEK WILLIAM PAUL", "Director", "S", 6.55, -9900, 64845.0, "Common Stock"]]}

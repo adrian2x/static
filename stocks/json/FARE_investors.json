@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FARE", "2025-09-30", "RFP FINANCIAL GROUP LLC", "SHR", 0.0, null, 10000.0, 0.0, 0.0], ["FARE", "2025-09-30", "MOLONEY SECURITIES ASSET MANAGEMENT LLC", "SHR", 0.0, 0.0, 700000.0, 0.0, 0.0]]}

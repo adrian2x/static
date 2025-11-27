@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["WPAY", "2025-09-30", "TD WATERHOUSE CANADA INC", "FND", 0.0, null, 3700.0, 199095.0, 53.0], ["WPAY", "2025-09-30", "SIGNATUREFD LLC", "FND", 0.0, null, 38.0, 2031.0, 53.0]]}

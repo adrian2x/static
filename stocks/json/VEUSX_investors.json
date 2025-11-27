@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VEUSX", "2025-09-30", "KELLEHER FINANCIAL ADVISORS", "FND", 0.0023, null, 9086.0, 909322.0, 100.0], ["VEUSX", "2025-09-30", "DEMPZE NANCY E", "FND", 0.0016, 0.0, 2922.0, 292450.0, 100.0]]}

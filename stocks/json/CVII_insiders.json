@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CVII", "2024-08-20 00:00:00.000000", "MAGNETAR FINANCIAL LLC", "10% Owner", "J", 10.85, -8306005, 90086931.0, "Class A Common Stock"]]}

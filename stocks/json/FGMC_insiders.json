@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FGMC", "2025-01-30 00:00:00.000000", "FG MERGER INVESTORS II LLC", "10% Owner", "P", 15.0, 1000000, 15000000.0, "15 Exercise Price Warrants"]]}

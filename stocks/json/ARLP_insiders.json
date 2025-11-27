@@ -1,1 +1,1 @@
-{"ticker":{},"date":{},"transactionvalue":{},"transactionshares":{},"securitytitle":{},"transactioncode":{},"securityadcode":{},"issuername":{},"ownername":{},"officertitle":{},"isofficer":{},"isdirector":{},"istenpercentowner":{},"transactionpricepershare":{}}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ARLP", "2025-03-14 00:00:00.000000", "WHELAN TIMOTHY J", "SENIOR VICE PRESIDENT SALES", "S", 25.13, -50000, 1256500.0, "Common unit"]]}

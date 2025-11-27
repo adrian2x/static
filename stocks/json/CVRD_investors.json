@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CVRD", "2025-09-30", "MADISON ASSET MANAGEMENT LLC", "FND", 0.0045, -0.0407, 2205000.0, 40946189.0, 18.0], ["CVRD", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0002, 3.8634, 58798.0, 1091861.0, 18.0]]}

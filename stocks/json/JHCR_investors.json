@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JHCR", "2025-09-30", "MANUFACTURERS LIFE INSURANCE COMPANY THE", "FND", 0.0001, 0.8939, 714000.0, 18210570.0, 25.0], ["JHCR", "2025-09-30", "ADVISORY SERVICES NETWORK LLC", "FND", 0.0001, 2.9858, 35733.0, 911370.0, 25.0]]}

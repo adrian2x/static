@@ -1,1 +1,1 @@
-{"ticker":{},"date":{},"transactionvalue":{},"transactionshares":{},"securitytitle":{},"transactioncode":{},"securityadcode":{},"issuername":{},"ownername":{},"officertitle":{},"isofficer":{},"isdirector":{},"istenpercentowner":{},"transactionpricepershare":{}}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HHH", "2025-09-26 00:00:00.000000", "WILLIAMS ANTHONY", "Director", "S", 79.58, -1100, 87538.0, "Common stock 0.01 par value"]]}

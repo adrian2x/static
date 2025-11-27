@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACCO", "2025-05-06 00:00:00.000000", "TEDFORD THOMAS W", "President  CEO", "P", 3.43, 5715, 19620.0, "Common Stock"]]}

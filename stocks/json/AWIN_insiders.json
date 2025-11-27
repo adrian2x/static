@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AWIN", "2024-06-26 00:00:00.000000", "KOMATSU SHUHEI", "10% Owner", "S", 0.5, -140848, 70142.0, "Common Stock"]]}

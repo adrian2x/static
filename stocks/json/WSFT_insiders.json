@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WSFT", "2025-08-01 00:00:00.000000", "FUSION FUEL GREEN PLC", "10% Owner", "P", 0.02, 2000000, 40000.0, "Common Stock"]]}

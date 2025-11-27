@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["INVN", "2025-09-30", "COMMONWEALTH EQUITY SERVICES LLC", "FND", 0.0, 0.6887, 62493.0, 1306000.0, 20.0], ["INVN", "2025-09-30", "HIGHTOWER ADVISORS LLC", "FND", 0.0, -0.2247, 31550.0, 659389.0, 20.0]]}

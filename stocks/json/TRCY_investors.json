@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TRCY", "2025-09-30", "SIENA CAPITAL PARTNERS GP LLC", "SHR", 0.0069, 0.0, 146455.0, 2403327.0, 16.0], ["TRCY", "2025-09-30", "BANC FUNDS CO LLC", "SHR", 0.0019, -0.3133, 65076.0, 1067897.0, 16.0]]}

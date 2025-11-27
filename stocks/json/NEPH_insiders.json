@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NEPH", "2025-08-11 00:00:00.000000", "NETTIS LISA MARIE", "Director", "A", 4.49, 13229, 59398.0, "Stock Option right to buy"]]}

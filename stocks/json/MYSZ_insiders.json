@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MYSZ", "2025-11-25 00:00:00.000000", "LUZON RONEN", "Chief Executive Officer", "P", 0.9, 14000, 12530.0, "Common Stock"]]}

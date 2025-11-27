@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["COOK", "2025-06-06 00:00:00.000000", "ANDRUS JEREMY", "Chief Executive Officer", "P", 1.46, 176425, 256875.0, "Common Stock"]]}

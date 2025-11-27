@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MYMG", "2025-09-30", "CWM LLC", "FND", 0.0, 0.0, 12068.0, 299000.0, 24.0], ["MYMG", "2025-09-30", "MUTUAL ADVISORS LLC", "FND", 0.0, null, 8387.0, 207275.0, 24.0]]}

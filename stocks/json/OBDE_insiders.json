@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OBDE", "2024-08-26 00:00:00.000000", "WOOLRIDGE VICTOR", "Director", "P", 14.64, 6830, 99991.0, "Common Stock"]]}

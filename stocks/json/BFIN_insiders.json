@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BFIN", "2024-02-08 00:00:00.000000", "OCONNOR AARON J", "Director", "P", 10.38, 1000, 10380.0, "Common Stock"]]}

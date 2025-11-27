@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HUSA", "2025-06-17 00:00:00.000000", "LONGO PETER F", "CEO and President", "A", 10.6, 1415, 15000.0, "Stock option right to buy"]]}

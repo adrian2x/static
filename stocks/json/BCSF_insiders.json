@@ -1,1 +1,1 @@
-{"ticker":{},"date":{},"transactionvalue":{},"transactionshares":{},"securitytitle":{},"transactioncode":{},"securityadcode":{},"issuername":{},"ownername":{},"officertitle":{},"isofficer":{},"isdirector":{},"istenpercentowner":{},"transactionpricepershare":{}}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCSF", "2025-03-17 00:00:00.000000", "RICHER CLARE STACK", "Director", "P", 16.43, 1530, 25138.0, "Common Stock"]]}

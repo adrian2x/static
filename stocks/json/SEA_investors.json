@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SEA", "2025-09-30", "CORECAP ADVISORS LLC", "FND", 0.0001, null, 13559.0, 192524.0, 14.0], ["SEA", "2025-09-30", "LGT FINANCIAL ADVISORS LLC", "FND", 0.0002, 0.0, 648.0, 9201.0, 14.0]]}

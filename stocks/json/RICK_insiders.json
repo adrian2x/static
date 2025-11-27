@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RICK", "2025-08-18 00:00:00.000000", "LANGAN ERIC SCOTT", "President and CEO", "P", 36.74, 1370, 50335.0, "Common Stock"]]}

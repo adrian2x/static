@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UNB", "2025-05-01 00:00:00.000000", "VAN DYKE CORNELIUS JOHN", "Chairman", "J", 33.11, 15, 502.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BIVI", "2025-08-07 00:00:00.000000", "DO CUONG V", "President  CEO", "P", 2.5, 5000, 12500.0, "Warrants right to buy"]]}

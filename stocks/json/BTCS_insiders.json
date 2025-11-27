@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BTCS", "2025-11-19 00:00:00.000000", "ALLEN CHARLES W", "CEO", "P", 2.84, 71001, 204878.0, "Common Stock"]]}

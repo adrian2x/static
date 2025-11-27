@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RC", "2025-03-12 00:00:00.000000", "AHLBORN ANDREW", "Chief Financial Officer", "P", 5.04, 10000, 50400.0, "Common Stock"]]}

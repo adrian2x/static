@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GHI", "2025-11-03 00:00:00.000000", "BAEVSKY JEFFREY", "Director", "P", 8.3, 300, 2490.0, "Beneficial Unit Certficiates"]]}

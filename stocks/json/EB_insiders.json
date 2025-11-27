@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EB", "2025-11-19 00:00:00.000000", "GANDHI ANAND", "Chief Financial Officer", "F", 2.56, -150454, 385162.0, "Class A Common Stock"]]}

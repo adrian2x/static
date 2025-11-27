@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OCAX", "2023-12-21 00:00:00.000000", "OWL CREEK ASSET MANAGEMENT LP", "10% Owner", "S", 10.79, -345309, 3726634.0, "Class A Common Stock par value 0.0001 per share"]]}

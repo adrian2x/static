@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FCO", "2024-07-10 00:00:00.000000", "PORTER RAHN K", "Director", "P", 5.92, 1000, 5920.0, "Common Stock"]]}

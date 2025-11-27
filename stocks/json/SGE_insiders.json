@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SGE", "2023-12-11 00:00:00.000000", "ROBERSON MARK D", "CEO and Director", "P", 1.43, 500, 715.0, "Class A Common Voting Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FIP", "2025-08-21 00:00:00.000000", "FLETCHER CARL RUSSELL IV", "CFO and CAO", "P", 4.48, 10000, 44800.0, "Common Stock par value 0.01 per share"]]}

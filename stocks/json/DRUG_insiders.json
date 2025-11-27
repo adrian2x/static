@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DRUG", "2024-11-04 00:00:00.000000", "CORMORANT ASSET MANAGEMENT LP", "10% Owner", "P", 21.7, 184331, 3999983.0, "Common Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GDRZF", "2025-04-24 00:00:00.000000", "CAMAC CAPITAL LLC", "10% Owner", "P", 1.6, 19700, 31520.0, "Common Stock"]]}

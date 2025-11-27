@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DUFRY", "2025-09-30", "SALOMON LUDWIN LLC", "SHR", 0.0, 46.4706, 1614.0, 8651.0, 5.0], ["DUFRY", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, null, 1256.0, 6757.0, 5.0]]}

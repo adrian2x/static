@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PTRAQ", "2024-01-02 00:00:00.000000", "JOYCE GARETH T", "CEO and President", "S", 0.02, -16643, 316.0, "Common Stock"]]}

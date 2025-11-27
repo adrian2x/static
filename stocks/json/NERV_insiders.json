@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NERV", "2025-11-14 00:00:00.000000", "KAUL INDERJIT", "Director", "A", 4.11, 9500, 39045.0, "Stock Option right to buy"]]}

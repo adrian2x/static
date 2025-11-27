@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VERI", "2025-08-12 00:00:00.000000", "STEELBERG RYAN", "PRESIDENT AND CEO", "A", 2.73, 366300, 999999.0, "Common Stock"]]}

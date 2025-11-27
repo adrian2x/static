@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TYGO", "2025-11-25 00:00:00.000000", "SPLINTER MICHAEL R", "Director", "A", 1.79, 20949, 37499.0, "Common Stock"]]}

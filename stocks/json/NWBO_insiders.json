@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NWBO", "2024-08-29 00:00:00.000000", "BOYNTON ALTON L", "CHIEF SCIENTIFIC OFFICER", "G", 0.23, -1000000, 230000.0, "STOCK OPTIONS"]]}

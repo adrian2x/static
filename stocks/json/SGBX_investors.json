@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SGBX", "2025-09-30", "BLACKROCK INC", "SHR", 0.0, -0.9846, 107.0, 767.0, 7.0], ["SGBX", "2025-09-30", "DANSKE BANK A", "SHR", 0.0, null, 1.0, 7.0, 7.0]]}

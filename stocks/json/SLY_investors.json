@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SLY", "2025-09-30", "MATHES COMPANY INC", "FND", 0.0017, 0.0, 9998.0, 463000.0, 46.0], ["SLY", "2025-09-30", "HUNTINGTON NATIONAL BANK", "FND", 0.0, 0.0, 1.0, 85.0, 85.0]]}

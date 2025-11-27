@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CGTL", "2025-09-30", "MAREX GROUP PLC", "SHR", 0.0, -0.0562, 117513.0, 65866.0, 0.0], ["CGTL", "2025-09-30", "VIRTU FINANCIAL LLC", "SHR", 0.0, null, 12340.0, 7000.0, 0.0]]}

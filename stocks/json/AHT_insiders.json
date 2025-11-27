@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AHT", "2025-07-01 00:00:00.000000", "ZSIGRAY STEPHEN", "President  CEO", "F", 6.02, -6677, 40196.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CBDS", "2025-09-08 00:00:00.000000", "TOBIAS DAVID", "CEO", "S", 0.03, -250229, 7510.0, "Common"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FEBO", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 15435.0, 10331.0, 0.0], ["FEBO", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, null, 15033.0, 10000.0, 0.0]]}

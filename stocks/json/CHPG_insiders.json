@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CHPG", "2025-05-27 00:00:00.000000", "SNYDER WILLIAM WALTER", "10% Owner", "P", 0.0, 20000, 80.0, "Class B Ordinary Share"]]}

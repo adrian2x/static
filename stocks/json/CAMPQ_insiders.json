@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CAMPQ", "2024-06-05 00:00:00.000000", "COHENOUR JASON", "Director", "S", 0.83, -8640, 7180.0, "Common Stock"]]}

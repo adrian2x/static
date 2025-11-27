@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NKPH", "2025-03-18 00:00:00.000000", "SAVOV DIMITAR SLAVCHEV", "CEO CFO President", "S", 0.25, -2000000, 500000.0, "Common Stock"]]}

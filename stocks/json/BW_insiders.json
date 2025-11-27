@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BW", "2025-11-21 00:00:00.000000", "BARTOLI HENRY E", "Director", "M", 6.08, 85000, 516800.0, "Common Stock"]]}

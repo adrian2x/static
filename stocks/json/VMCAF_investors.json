@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VMCAF", "2025-09-30", "CROSSINGBRIDGE ADVISORS LLC", "SHR", 0.0036, 0.0, 57558.0, 699905.0, 12.0], ["VMCAF", "2025-09-30", "METEORA CAPITAL LLC", "WNT", 0.0, null, 121460.0, 3899.0, 0.0]]}

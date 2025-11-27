@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GSHR", "2025-03-24 00:00:00.000000", "GESHER ACQUISITION SPONSOR II LLC", null, "P", 10.0, 403125, 4031250.0, "Class A Ordinary Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["XFLX", "2025-09-30", "ONE CAPITAL MANAGEMENT LLC", "FND", 0.0136, -0.0191, 1747332.0, 42669851.0, 24.0], ["XFLX", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0003, -0.5121, 29634.0, 723662.0, 24.0]]}

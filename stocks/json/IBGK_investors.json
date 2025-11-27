@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IBGK", "2025-09-30", "BLACKROCK INC", "FND", 0.0, 0.0, 40000.0, 965740.0, 24.0], ["IBGK", "2025-09-30", "WEALTHSPIRE ADVISORS LLC", "FND", 0.0, null, 221.0, 5336.0, 24.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IFBD", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, null, 12337.0, 12000.0, 0.0], ["IFBD", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, 0.0, 100.0, 103.0, 1.0], ["IFBD", "2025-09-30", "ACADIAN ASSET MANAGEMENT LLC", "SHR", 0.0, 0.0, 8.0, 0.0, 0.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GENE", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, -0.2066, 2650.0, 2026.0, 0.0], ["GENE", "2025-09-30", "BESSEMER GROUP INC", "SHR", 0.0, null, 24.0, 0.0, 0.0]]}

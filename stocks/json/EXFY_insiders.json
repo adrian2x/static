@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EXFY", "2025-11-11 00:00:00.000000", "CHRISTEN TIMOTHY L", "Director", "P", 1.43, 40000, 57200.0, "Class A Common Stock"]]}

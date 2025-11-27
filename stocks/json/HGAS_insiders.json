@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HGAS", "2023-12-21 00:00:00.000000", "DUNE ACQUISITION HOLDINGS LLC", "Director", "A", 11.5, 4850000, 55775000.0, "Warrants Right to Buy"]]}

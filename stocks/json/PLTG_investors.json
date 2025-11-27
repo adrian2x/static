@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PLTG", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, 0.6544, 21392.0, 764764.0, 35.0], ["PLTG", "2025-09-30", "AUSTIN WEALTH MANAGEMENT LLC", "FND", 0.0011, null, 21918.0, 713431.0, 32.0]]}

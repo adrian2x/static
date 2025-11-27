@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLOQ", "2025-09-30 00:00:00.000000", "HURST EDWIN LEON", "Director", "P", 0.22, 37337, 8463.0, "Common Stock"]]}

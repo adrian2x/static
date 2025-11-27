@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CBKM", "2025-10-22 00:00:00.000000", "LOBER RALPH J II", "CEO  President", "P", 23.45, 500, 11725.0, "Common Stock"]]}

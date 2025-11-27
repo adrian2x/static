@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EPIX", "2025-08-05 00:00:00.000000", "BVF PARTNERS L P", "10% Owner", "S", 1.88, -156, 293.0, "Common Stock"]]}

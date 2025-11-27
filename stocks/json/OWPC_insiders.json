@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OWPC", "2025-03-25 00:00:00.000000", "PETERSON TODD A", "Chief Financial Officer", "A", 0.02, 694445, 15278.0, "Common Stock"]]}

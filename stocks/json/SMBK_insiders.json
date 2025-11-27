@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SMBK", "2025-11-18 00:00:00.000000", "JORDAN RHETT D", "EVP  CHIEF CREDIT OFFICER", "S", 35.0, -250, 8750.0, "Common Stock"]]}

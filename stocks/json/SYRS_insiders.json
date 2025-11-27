@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SYRS", "2024-12-02 00:00:00.000000", "SIMONIAN NANCY A", "Director", "S", 0.27, -37070, 10009.0, "Common Stock"]]}

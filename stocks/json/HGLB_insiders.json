@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HGLB", "2024-06-28 00:00:00.000000", "POWELL ETHAN", "Director", "P", 7.47, 6750, 50422.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BHYIX", "2025-06-30", "PSI ADVISORS LLC", "FND", 0.0004, null, 12690.0, 91245.0, 7.0], ["BHYIX", "2025-06-30", "BROOKLYN INVESTMENT GROUP", "FND", 0.0, null, 694.0, 4983.0, 7.0]]}

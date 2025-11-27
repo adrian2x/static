@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ADVB", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 52235.0, 23407.0, 0.0], ["ADVB", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, null, 35681.0, 15000.0, 0.0], ["ADVB", "2025-09-30", "VIRTU FINANCIAL LLC", "SHR", 0.0, 0.32, 32048.0, 14000.0, 0.0]]}

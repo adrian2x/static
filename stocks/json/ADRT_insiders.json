@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADRT", "2024-09-30 00:00:00.000000", "AULT MILTON C III", "Director", "S", 11.5, -10000, 115000.0, "Warrants"]]}

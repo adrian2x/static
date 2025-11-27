@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KORE", "2025-08-14 00:00:00.000000", "TOTTON RONALD", "President  CEO", "S", 2.43, -5016, 12189.0, "Common Stock"]]}

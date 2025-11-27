@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["POGAX", "2025-09-30", "NORTH STAR ASSET MANAGEMENT INC", "FND", 0.0001, -0.0783, 3119.0, 246065.0, 78.0], ["POGAX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0001, null, 2417.0, 190616.0, 78.0]]}

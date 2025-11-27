@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RKMIX", "2025-07-18 00:00:00.000000", "ROCKEFELLER CO LLC", "10% Owner", "D", 18.95, -5100, 96646.0, "Common Shares"]]}

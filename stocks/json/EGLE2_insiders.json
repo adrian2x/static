@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EGLE2", "2024-04-04 00:00:00.000000", "CASTOR MARITIME INC", "10% Owner", "P", 63.02, 100000, 6292331.0, "Common Stock"]]}

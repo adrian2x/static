@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VASO", "2024-11-21 00:00:00.000000", "MA JUN 2", "Chief Exec Officer  President", "P", 0.13, 200000, 26000.0, "Common Stock"]]}

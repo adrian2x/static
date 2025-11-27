@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BEMB", "2025-09-30", "BLACKROCK INC", "FND", 0.0, 0.0, 570000.0, 30803484.0, 54.0], ["BEMB", "2025-09-30", "PARTNERS", "FND", 0.0, -0.9365, 4227.0, 228432.0, 54.0], ["BEMB", "2025-09-30", "NVWM LLC", "FND", 0.0, null, 79.0, 4292.0, 54.0]]}

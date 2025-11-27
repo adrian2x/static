@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VANI", "2025-11-15 00:00:00.000000", "WILLIAMS GREGG", "Director", "P", 1.19, 1737764, 1983333.0, "Common Stock"]]}

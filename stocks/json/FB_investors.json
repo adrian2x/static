@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FB", "2025-09-30", "SUMITOMO MITSUI TRUST GROUP INC", "FND", 0.0, -0.1951, 95543.0, 3951248.0, 41.0], ["FB", "2025-09-30", "FARTHER FINANCE ADVISORS LLC", "FND", 0.0, null, 4.0, 165.0, 41.0]]}

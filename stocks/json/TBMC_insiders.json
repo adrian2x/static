@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TBMC", "2024-10-11 00:00:00.000000", "AQR CAPITAL MANAGEMENT HOLDINGS LLC", "10% Owner", "S", 11.02, -190000, 2093799.0, "Common Stock"]]}

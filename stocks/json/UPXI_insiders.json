@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UPXI", "2025-11-20 00:00:00.000000", "SALKIND GENE", "Director", "P", 2.55, 50000, 127500.0, "Common Stock"]]}

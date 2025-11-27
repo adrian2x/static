@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["QTRRF", "2025-11-06 00:00:00.000000", "ALFORD TONY L", "Director", "P", 0.1, 14507772, 1407254.0, "Warrants"]]}

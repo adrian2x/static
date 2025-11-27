@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ODITX", "2024-12-12 00:00:00.000000", "MCFARLAND STUART A", "Director", "P", 9.33, 2700, 25191.0, "Common Stock"]]}

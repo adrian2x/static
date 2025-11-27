@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FASMX", "2025-09-30", "NEVILLE RODIE SHAW INC", "FND", 0.0003, -0.0104, 15895.0, 361000.0, 22.0], ["FASMX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0001, null, 1010.0, 22000.0, 21.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LUNA", "2025-09-30", "GENEOS WEALTH MANAGEMENT INC", "SHR", 0.0001, 0.0, 191600.0, 203096.0, 1.0], ["LUNA", "2025-09-30", "MURPHY MULLICK CAPITAL MANAGEMENT CORP", "SHR", 0.0, 0.0, 100.0, 175.0, 1.0]]}

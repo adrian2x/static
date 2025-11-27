@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FLYYQ", "2024-12-17 00:00:00.000000", "DUNKERLEY MARK B", "Director", "S", 0.59, -20217, 11928.0, "Common Stock"]]}

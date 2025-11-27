@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PODC", "2025-11-19 00:00:00.000000", "MERRIMAN D JONATHAN", "Director", "P", 2.2, 11000, 24200.0, "Common Stock 0.00001 par value"]]}

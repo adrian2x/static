@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CBFV", "2025-11-18 00:00:00.000000", "SHARP BRUCE A", "SEVP  Chief Comm Loan Officer", "P", 32.8, 1000, 32800.0, "Common Stock"]]}

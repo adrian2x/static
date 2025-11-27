@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PKOH", "2025-11-12 00:00:00.000000", "CLARKE ANDREW C", "Director", "P", 19.75, 600, 11850.0, "Common Stock"]]}

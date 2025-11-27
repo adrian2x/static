@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GORV", "2025-11-19 00:00:00.000000", "DEVINCENZI ROBERT THOMAS", "Director", "S", 1.08, -1714, 1851.0, "Common Stock"]]}

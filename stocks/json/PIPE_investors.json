@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PIPE", "2025-09-30", "INVESCO LTD", "FND", 0.0001, 0.9135, 1990000.0, 48818879.0, 24.0], ["PIPE", "2025-09-30", "CAPITAL ANALYSTS LLC", "FND", 0.0, 0.0, 605.0, 15000.0, 24.0]]}

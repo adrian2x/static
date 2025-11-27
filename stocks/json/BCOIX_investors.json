@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BCOIX", "2025-09-30", "MENGIS CAPITAL MANAGEMENT INC", "FND", 0.0002, 0.0001, 11374.0, 117375.0, 10.0], ["BCOIX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0, null, 810.0, 8362.0, 10.0]]}

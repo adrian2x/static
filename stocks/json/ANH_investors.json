@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ANH", "2025-09-30", "VSM WEALTH ADVISORY LLC", "PRF", 0.0, 0.0, 670.0, 10781.0, 16.0], ["ANH", "2025-09-30", "CIBC PRIVATE WEALTH GROUP LLC", "PRF", 0.0, null, 350.0, 5635.0, 16.0]]}

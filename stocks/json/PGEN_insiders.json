@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PGEN", "2025-11-21 00:00:00.000000", "KIRK RANDAL J", "Director", "S", 3.83, -937308, 3589890.0, "Common Stock"]]}

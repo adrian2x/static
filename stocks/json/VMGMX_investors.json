@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VMGMX", "2025-09-30", "FULTON BANK NA", "FND", 0.0005, -0.0559, 10288.0, 1300385.0, 126.0], ["VMGMX", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "FND", 0.0002, 0.0018, 1658.0, 209537.0, 126.0]]}

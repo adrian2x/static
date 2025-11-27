@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XRX", "2025-08-02 00:00:00.000000", "BANDROWCZAK STEVEN JOHN", "CEO", "F", 3.94, -27837, 109678.0, "Common Stock"]]}

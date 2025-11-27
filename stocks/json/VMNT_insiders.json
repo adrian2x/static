@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VMNT", "2024-12-20 00:00:00.000000", "TRAN TAN", "President CEO CSO", "J", 0.08, -800000, 60800.0, "Series B Convertible Preferred Stock"]]}

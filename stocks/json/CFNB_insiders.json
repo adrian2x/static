@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CFNB", "2024-06-04 00:00:00.000000", "PADDON PATRICK E", "CEO", "G", 16.25, -1300000, 21125000.0, "Common Stock"]]}

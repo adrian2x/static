@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HF", "2025-09-30", "DOLIVER ADVISORS LP", "FND", 0.0468, -0.0062, 858469.0, 18079351.0, 21.0], ["HF", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, 0.4482, 18183.0, 382934.0, 21.0]]}

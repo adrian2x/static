@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SRHQ", "2025-09-30", "SRH ADVISORS LLC", "FND", 0.4862, -0.0003, 4308340.0, 166534154.0, 38.0], ["SRHQ", "2025-09-30", "FMR LLC", "FND", 0.0, null, 1.0, 39.0, 39.0]]}

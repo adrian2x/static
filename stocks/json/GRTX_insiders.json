@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRTX", "2025-11-20 00:00:00.000000", "SORENSEN MEL", "President and CEO", "S", 0.02, -70000, 1400.0, "Common Stock"]]}

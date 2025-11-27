@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TMED", "2025-09-30", "FLOW TRADERS US LLC", "FND", 0.0005, null, 47196.0, 1259000.0, 26.0], ["TMED", "2025-09-30", "ESSEX FINANCIAL SERVICES INC", "FND", 0.0001, null, 9100.0, 242779.0, 26.0]]}

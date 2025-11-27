@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FRTX", "2024-06-10 00:00:00.000000", "EXPLORATION CAPITAL LLC", "10% Owner", "P", 0.94, 86185, 81014.0, "Common Stock"]]}

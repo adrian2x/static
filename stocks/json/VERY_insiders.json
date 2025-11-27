@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VERY", "2024-06-28 00:00:00.000000", "APEX HOLDCO LP", "10% Owner", "S", 11.43, -11373352, 129997413.0, "Common Stock"]]}

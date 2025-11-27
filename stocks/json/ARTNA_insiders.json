@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ARTNA", "2025-08-28 00:00:00.000000", "THAEDER JOHN M", "Senior Vice President", "S", 33.37, -1000, 33370.0, "Class A Non-voting Common Stock"]]}

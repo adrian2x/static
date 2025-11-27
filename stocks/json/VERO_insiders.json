@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VERO", "2024-12-03 00:00:00.000000", "NATALE ANTHONY", "Director", "S", 0.31, -42768, 13173.0, "Common Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VSTD", "2025-09-30", "VANGUARD GROUP INC", "SHR", 0.0, null, 58204.0, 93708.0, 1.0], ["VSTD", "2025-09-30", "GEODE CAPITAL MANAGEMENT LLC", "SHR", 0.0, null, 35848.0, 57715.0, 1.0]]}

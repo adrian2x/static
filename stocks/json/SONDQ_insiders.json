@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SONDQ", "2023-12-06 00:00:00.000000", "BOWEN ADAM", "Chief Accounting Officer", "P", 2.89, 10000, 28900.0, "Common Stock"]]}

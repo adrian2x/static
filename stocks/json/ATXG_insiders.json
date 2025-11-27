@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATXG", "2025-09-08 00:00:00.000000", "HAMILTON ALEX P", "Director", "S", 0.52, -23095, 12009.0, "Common Stock"]]}

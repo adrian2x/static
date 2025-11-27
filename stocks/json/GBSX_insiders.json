@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GBSX", "2023-12-21 00:00:00.000000", "BRAEDEN LICHTI", "10% Owner", "C", 0.1, -3815294, 381529.0, "Common stock"]]}

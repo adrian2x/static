@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PANG", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, 0.1981, 12501.0, 197933.0, 15.0], ["PANG", "2025-09-30", "VIRTU FINANCIAL LLC", "FND", 0.0001, -0.1175, 12169.0, 193000.0, 15.0]]}

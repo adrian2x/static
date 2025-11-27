@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FTEK", "2025-06-04 00:00:00.000000", "JONES SHARON L", "Director", "S", 1.67, -12627, 21049.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MIGI", "2025-08-26 00:00:00.000000", "SALOOM KALISTE", "ICEO General Counsel  CS", "F", 0.43, -9885, 4251.0, "Common Stock"]]}

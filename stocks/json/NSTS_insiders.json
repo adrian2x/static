@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NSTS", "2024-12-19 00:00:00.000000", "ANSANI EMILY E", "Director", "A", 11.34, 23000, 260820.0, "Stock Option"]]}

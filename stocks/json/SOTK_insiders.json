@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SOTK", "2025-10-23 00:00:00.000000", "COCCIO CHRISTOPHER L", "Director", "S", 4.78, -12320, 58890.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CHY", "2025-08-11 00:00:00.000000", "MICKEY MARK", "FormerChief Compliance Officer", "S", 10.9, -2000, 21802.0, "Common Stock"]]}

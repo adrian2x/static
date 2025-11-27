@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CELZ", "2025-02-19 00:00:00.000000", "FINGER MICHAEL H", "Director", "S", 5.75, -750, 4312.0, "Common Stock"]]}

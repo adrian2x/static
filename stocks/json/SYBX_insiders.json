@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SYBX", "2025-10-29 00:00:00.000000", "DOOLEY MARY BETH", "Principal Executive Officer and Principal Financial Officer", "S", 1.81, -157, 284.0, "Common Stock"]]}

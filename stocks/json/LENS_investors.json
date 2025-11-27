@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LENS", "2025-09-30", "MIRAE ASSET SECURITIES USA INC", "FND", 0.0001, null, 9896.0, 333167.0, 33.0], ["LENS", "2025-09-30", "STEGENT EQUITY ADVISORS INC", "FND", 0.0023, -0.2218, 8423.0, 283575.0, 33.0]]}

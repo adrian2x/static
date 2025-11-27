@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GEND", "2025-09-30", "ENVESTNET ASSET MANAGEMENT INC", "FND", 0.0, null, 162084.0, 1838888.0, 11.0], ["GEND", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, null, 13933.0, 158070.0, 11.0]]}

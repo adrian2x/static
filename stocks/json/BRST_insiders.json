@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BRST", "2024-09-30 00:00:00.000000", "SPIRITOS SAMUEL M", "Director", "L", 0.3, 3000, 900.0, "Common Stock"]]}

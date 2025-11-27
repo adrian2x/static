@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VXRT", "2025-11-17 00:00:00.000000", "HERON ELAINE J", "Director", "P", 0.4, 40000, 15921.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LPRO", "2025-11-19 00:00:00.000000", "SATHER MATTHEW", "Chief Underwriting Officer", "P", 1.52, 40000, 60800.0, "Common Stock par value 0.01 per share"]]}

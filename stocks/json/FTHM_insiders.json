@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FTHM", "2025-09-30 00:00:00.000000", "FREGENAL MARCO", "Chief Executive Officer", "A", 1.8, 23611, 42500.0, "Common Stock"]]}

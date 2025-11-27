@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FGL", "2025-09-30", "TWO SIGMA SECURITIES LLC", "SHR", 0.0, null, 32488.0, 15221.0, 0.0], ["FGL", "2025-09-30", "MAREX GROUP PLC", "SHR", 0.0, null, 31900.0, 14674.0, 0.0], ["FGL", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 17836.0, 8356.0, 0.0]]}

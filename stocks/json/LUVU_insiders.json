@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LUVU", "2024-07-01 00:00:00.000000", "KNAUF CHRISTOPHER ALBERT", "Chief Financial Officer", "A", 0.08, 200000, 16000.0, "Stock Options Right to Buy"]]}

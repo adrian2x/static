@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["APHP", "2025-06-27 00:00:00.000000", "MACGREGOR BANNOR MICHAEL", "CEO", "P", 0.19, 100, 19.0, "Common"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FANAX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0002, null, 2366.0, 113074.0, 47.0], ["FANAX", "2025-09-30", "LUMINIST CAPITAL LLC", "FND", 0.0, 0.0, 3.0, 149.0, 49.0]]}

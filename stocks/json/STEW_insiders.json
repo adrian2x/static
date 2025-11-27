@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STEW", "2025-04-10 00:00:00.000000", "MOORE THOMAS JACK", "Director", "P", 16.23, 3080, 49976.0, "Common Stock"]]}

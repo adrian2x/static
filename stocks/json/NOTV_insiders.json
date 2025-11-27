@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NOTV", "2025-11-03 00:00:00.000000", "NEFF R MATTHEW", "Director", "S", 1.24, -2000, 2486.0, "Common Stock"]]}

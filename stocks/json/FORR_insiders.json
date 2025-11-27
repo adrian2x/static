@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FORR", "2025-10-01 00:00:00.000000", "FINN LEO CHRISTIAN", "Chief Financial Officer", "F", 9.94, -1479, 14701.0, "Common Stock"]]}

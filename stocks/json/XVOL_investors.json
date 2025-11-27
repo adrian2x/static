@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["XVOL", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, null, 11302.0, 264975.0, 23.0], ["XVOL", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0, -0.3872, 10109.0, 237005.0, 23.0]]}

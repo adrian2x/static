@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GHYIX", "2025-09-30", "MEADOWBROOK WEALTH MANAGEMENT LLC", "FND", 0.0055, null, 58848.0, 532575.0, 9.0], ["GHYIX", "2025-09-30", "HURLEY CAPITAL LLC", "FND", 0.0001, null, 1695.0, 15338.0, 9.0]]}

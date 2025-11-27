@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MSFW", "2025-09-30", "EXCHANGE TRADED CONCEPTS LLC", "FND", 0.0007, null, 185409.0, 8691028.0, 46.0], ["MSFW", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 8416.0, 394499.0, 46.0]]}

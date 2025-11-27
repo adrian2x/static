@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["USOI", "2025-09-30", "HRT FINANCIAL LP", "FND", 0.0, null, 5096.0, 260000.0, 51.0], ["USOI", "2025-09-30", "ASPECT PARTNERS LLC", "FND", 0.0, 0.0, 20.0, 1021.0, 51.0]]}

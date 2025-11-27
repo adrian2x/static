@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VSTS", "2025-10-01 00:00:00.000000", "SEWARD WILLIAM J", "EVP  Chief Operating Officer", "F", 4.53, -14479, 65590.0, "Common Stock par value 0.01 per share"]]}

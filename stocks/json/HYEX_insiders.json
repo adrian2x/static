@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HYEX", "2025-07-19 00:00:00.000000", "SWANSON DONALD WILLIAM", "President", "P", 1.8, 13075920, 23536656.0, "Common Stock"]]}

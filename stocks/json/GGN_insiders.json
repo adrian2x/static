@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GGN", "2024-02-22 00:00:00.000000", "BALL JOHN CHESTER", "President  Treasurer", "P", 3.73, 68, 253.0, "Common Shares Par Value 0.001"]]}

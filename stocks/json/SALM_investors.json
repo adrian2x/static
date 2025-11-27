@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SALM", "2025-09-30", "MINK BROOK ASSET MANAGEMENT LLC", "SHR", 0.0006, -0.6737, 115705.0, 96440.0, 0.0], ["SALM", "2025-09-30", "BYRNE ASSET MANAGEMENT LLC", "SHR", 0.0001, 0.0789, 20503.0, 17089.0, 0.0]]}

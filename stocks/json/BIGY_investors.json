@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BIGY", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0002, 0.2094, 18743.0, 983175.0, 52.0], ["BIGY", "2025-09-30", "ZEGA INVESTMENTS LLC", "FND", 0.0004, null, 5843.0, 306498.0, 52.0]]}

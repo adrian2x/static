@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PACB", "2025-08-18 00:00:00.000000", "VAN OENE MARK", "Chief Operating Officer", "S", 1.31, -26836, 35182.0, "Common Stock"]]}

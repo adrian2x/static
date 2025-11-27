@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACV", "2025-10-02 00:00:00.000000", "METLIFE INVESTMENT MANAGEMENT LLC", "10% Owner", "J", 25.0, -1200000, 30000000.0, "Series A Mandatory Redeemable Preferred Shares"]]}

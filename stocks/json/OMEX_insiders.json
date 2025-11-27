@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OMEX", "2025-10-20 00:00:00.000000", "GORDON MARK", "Chief Executive Officer", "S", 3.56, -30000, 106890.0, "Common Stock"]]}

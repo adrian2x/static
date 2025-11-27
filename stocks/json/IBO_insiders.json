@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IBO", "2025-05-27 00:00:00.000000", "DSS INC", "10% Owner", "S", 0.54, -45400, 24516.0, "Common Stock"]]}

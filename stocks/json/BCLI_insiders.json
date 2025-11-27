@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCLI", "2024-10-01 00:00:00.000000", "LEBOVITS CHAIM", "President  CEO", "P", 3.43, 1836, 6292.0, "Common Stock"]]}

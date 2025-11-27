@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ELSE", "2024-04-24 00:00:00.000000", "GABBARD SCOTT A", "Director", "A", 4.13, 25000, 103250.0, "Stock Option Right-to-Buy"]]}

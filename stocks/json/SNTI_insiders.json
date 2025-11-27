@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SNTI", "2025-07-18 00:00:00.000000", "BAUM BRYAN DANIEL", "Director", "A", 1.95, 43900, 85605.0, "Stock Option Right to Buy"]]}

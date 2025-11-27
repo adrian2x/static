@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HVAC", "2025-09-30", "SALEM INVESTMENT COUNSELORS INC", "FND", 0.0, null, 100.0, 3074.0, 30.0], ["HVAC", "2025-09-30", "CIBC PRIVATE WEALTH GROUP LLC", "FND", 0.0, null, 33.0, 1014.0, 30.0]]}

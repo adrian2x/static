@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IEMFX", "2025-09-30", "DIVERSIFIED TRUST CO", "FND", 0.0, -0.1474, 6417.0, 248997.0, 38.0], ["IEMFX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0001, null, 907.0, 35211.0, 38.0]]}

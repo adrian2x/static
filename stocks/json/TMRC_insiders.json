@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TMRC", "2025-10-16 00:00:00.000000", "HULSE DONALD EDWARD", "Director", "A", 1.25, 10536, 13170.0, "Common Stock"]]}

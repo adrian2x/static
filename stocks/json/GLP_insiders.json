@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GLP", "2025-11-25 00:00:00.000000", "GLOBAL GP LLC", "", "P", 42.88, 2228, 95537.0, "Common units representing limited partner interests"]]}

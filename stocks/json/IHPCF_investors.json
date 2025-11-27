@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IHPCF", "2025-09-30", "SIERRA CAPITAL LLC", "FND", 0.0045, -0.012, 62000.0, 4106000.0, 66.0], ["IHPCF", "2025-09-30", "BIGSUR WEALTH MANAGEMENT LLC", "FND", 0.004, null, 24570.0, 1626955.0, 66.0]]}

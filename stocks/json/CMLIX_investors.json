@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CMLIX", "2025-09-30", "CONGRESS ASSET MANAGEMENT CO", "FND", 0.0021, -0.0079, 588666.0, 31063886.0, 52.0], ["CMLIX", "2025-09-30", "JACKSON WEALTH MANAGEMENT LLC", "FND", 0.0008, 0.0, 14442.0, 762000.0, 52.0]]}

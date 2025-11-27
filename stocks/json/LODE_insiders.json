@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LODE", "2024-08-14 00:00:00.000000", "DROZDOFF LEO M", "Director", "P", 0.15, 200000, 29200.0, "Common Stock"]]}

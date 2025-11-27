@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRST", "2024-11-21 00:00:00.000000", "GREENE EILEEN MARIA", "", "P", 0.0, 10000000, 10000.0, "Common Stock"]]}

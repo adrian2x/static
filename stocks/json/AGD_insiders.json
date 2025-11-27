@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AGD", "2025-01-07 00:00:00.000000", "REIT TODD", "Director", "P", 9.96, 100, 996.0, "Common Stock"]]}

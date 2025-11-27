@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DAIO", "2025-09-01 00:00:00.000000", "DIBONA CHARLES JOSEPH", "Vice President  CFO", "A", 3.15, 100000, 315400.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LIQT", "2025-09-12 00:00:00.000000", "CHEN FEI", "Chief Executive Officer", "F", 2.34, -13021, 30469.0, "Common Stock"]]}

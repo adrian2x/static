@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DHCIX", "2025-07-01 00:00:00.000000", "KELLYJONES JOHN T", "Director", "P", 10.55, 10880, 114789.0, "Class R Shares"]]}

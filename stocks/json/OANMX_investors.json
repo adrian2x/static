@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["OANMX", "2025-09-30", "TRANSCE3ND LLC", "FND", 0.0282, -0.1055, 2460.0, 315149.0, 128.0], ["OANMX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 91.0, 15119.0, 166.0]]}

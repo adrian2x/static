@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STIM", "2025-08-08 00:00:00.000000", "MADRYN ASSET MANAGEMENT LP", "10% Owner", "S", 3.72, -3500000, 13020000.0, "Common Stock"]]}

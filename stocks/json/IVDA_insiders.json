@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IVDA", "2025-10-21 00:00:00.000000", "GILLEN ROBERT", "Director", "D", 1.28, -20331, 26024.0, "Common Stock"]]}

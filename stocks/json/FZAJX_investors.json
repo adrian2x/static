@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FZAJX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0001, null, 2152.0, 50373.0, 23.0], ["FZAJX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 17.0, 397.0, 23.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MFCO", "2023-12-02 00:00:00.000000", "KENNEDY JOHN JOSEPH JR", "Director", "A", 0.48, 1000, 480.0, "COMMON STOCK"]]}

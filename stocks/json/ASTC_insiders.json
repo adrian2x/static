@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ASTC", "2025-10-03 00:00:00.000000", "LEONARD BRADEN MICHAEL", "10% Owner", "S", 6.48, -229576, 1624961.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MSAI", "2025-10-24 00:00:00.000000", "FRIEDBERG DANIEL M", "Director", "A", 0.41, 6970892, 2851095.0, "Warrants to purchase common stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DGEIX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0418, -0.0166, 447505.0, 17545000.0, 39.0], ["DGEIX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0001, null, 1068.0, 41889.0, 39.0]]}

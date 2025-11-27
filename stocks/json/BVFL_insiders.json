@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BVFL", "2025-07-23 00:00:00.000000", "GALLI JOSEPH S", "Director", "S", 16.17, -15250, 246562.0, "Common Stock"]]}

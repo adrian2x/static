@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ENBP", "2025-11-14 00:00:00.000000", "ZIMMERMAN ROGER L", "Director", "P", 22.32, 400, 8928.0, "Common Stock"]]}

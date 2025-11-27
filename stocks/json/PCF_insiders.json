@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PCF", "2025-04-09 00:00:00.000000", "SELL MORITZ A", "Director", "P", 5.95, 789, 4695.0, "Common Stock"]]}

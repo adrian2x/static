@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PRPL", "2025-05-02 00:00:00.000000", "COLISEUM CAPITAL MANAGEMENT LLC", "Director", "A", 1.5, 6557377, 9836066.0, "Warrant"]]}

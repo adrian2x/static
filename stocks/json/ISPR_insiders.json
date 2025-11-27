@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ISPR", "2025-11-20 00:00:00.000000", "FARGIS JOHN", "Director", "S", 1.95, -7500, 14625.0, "Common Stock"]]}

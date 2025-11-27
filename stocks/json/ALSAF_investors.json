@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ALSAF", "2025-09-30", "PARKWOOD LLC", "WNT", 0.0001, 0.0, 400600.0, 100000.0, 0.0], ["ALSAF", "2025-09-30", "METEORA CAPITAL LLC", "WNT", 0.0, null, 40000.0, 800.0, 0.0]]}

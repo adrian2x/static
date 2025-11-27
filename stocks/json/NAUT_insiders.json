@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NAUT", "2025-11-06 00:00:00.000000", "SUZUKI KENTARO", "Chief Marketing Officer", "P", 1.49, 4000, 5960.0, "Common Stock"]]}

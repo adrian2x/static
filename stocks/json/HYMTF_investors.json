@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HYMTF", "2025-09-30", "BOSTON COMMON ASSET MANAGEMENT LLC", "SHR", 0.0014, -0.165, 33219.0, 5090399.0, 153.0], ["HYMTF", "2025-09-30", "PACER ADVISORS INC", "SHR", 0.0, 0.0165, 1543.0, 236446.0, 153.0]]}

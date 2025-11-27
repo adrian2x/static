@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FNCH", "2024-03-28 00:00:00.000000", "SMISEK JEFFERY A", "Director", "S", 2.59, -8242, 21246.0, "Common Stock"]]}

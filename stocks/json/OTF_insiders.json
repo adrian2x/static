@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OTF", "2025-11-20 00:00:00.000000", "BISSONNETTE ERIK", "President", "P", 13.27, 12500, 165825.0, "Common Stock"]]}

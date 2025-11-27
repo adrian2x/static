@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AZTD", "2025-09-30", "SCOTIA CAPITAL INC", "FND", 0.0, 0.0, 12000.0, 340188.0, 28.0], ["AZTD", "2025-09-30", "FLOW TRADERS US LLC", "FND", 0.0001, -0.2107, 10956.0, 311000.0, 28.0]]}

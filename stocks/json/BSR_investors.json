@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BSR", "2025-09-30", "BEACON CAPITAL MANAGEMENT INC", "FND", 0.0139, 0.0, 975994.0, 29054073.0, 29.0], ["BSR", "2025-09-30", "ENVESTNET ASSET MANAGEMENT INC", "FND", 0.0, -0.1843, 33808.0, 1006420.0, 29.0]]}

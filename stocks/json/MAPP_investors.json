@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MAPP", "2025-09-30", "ARCHFORD CAPITAL STRATEGIES LLC", "FND", 0.0022, null, 70281.0, 1844736.0, 26.0], ["MAPP", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, -0.3237, 8308.0, 218068.0, 26.0]]}

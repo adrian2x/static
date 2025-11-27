@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CVEO", "2025-08-19 00:00:00.000000", "FRASER ANDREW", "President Canada", "D", 22.08, -6657, 146987.0, "Common Shares"]]}

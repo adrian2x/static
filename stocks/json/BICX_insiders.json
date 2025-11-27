@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BICX", "2024-03-28 00:00:00.000000", "GRANIER BRADY JAMES", "Director", "A", 0.9, 16698, 15028.0, "Stock Option"]]}

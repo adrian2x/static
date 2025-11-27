@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AKBA", "2025-06-30 00:00:00.000000", "OSTROWSKI ERIK", "SVP CFO CBO  Treasurer", "S", 3.67, -41314, 151622.0, "Common Stock"]]}

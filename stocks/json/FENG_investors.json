@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FENG", "2025-09-30", "ACADIAN ASSET MANAGEMENT LLC", "SHR", 0.0, 0.0, 48774.0, 133000.0, 2.0], ["FENG", "2025-09-30", "MAREX GROUP PLC", "SHR", 0.0, null, 35000.0, 98700.0, 2.0]]}

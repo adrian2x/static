@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RENEF", "2025-09-30", "CROSSINGBRIDGE ADVISORS LLC", "SHR", 0.0087, -0.4899, 140587.0, 1708132.0, 12.0], ["RENEF", "2025-09-30", "METEORA CAPITAL LLC", "WNT", 0.0, null, 250000.0, 30000.0, 0.0]]}

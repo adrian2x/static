@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AASP", "2025-03-06 00:00:00.000000", "CABLE SHAWN COREY", "CFO", "A", 1.7, 100000, 170000.0, "Common Stock Purchase Warrants"]]}

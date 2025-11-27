@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PRKR", "2025-11-18 00:00:00.000000", "TITTERTON LEWIS H JR", "Director", "P", 0.21, 4761905, 1000000.0, "Common Stock"]]}

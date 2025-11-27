@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GXIG", "2025-09-30", "MIRAE ASSET GLOBAL INVESTMENTS CO LTD", "FND", 0.0025, 21.6741, 3033800.0, 78587555.0, 25.0], ["GXIG", "2025-09-30", "FLOW TRADERS US LLC", "FND", 0.0005, null, 44404.0, 1150000.0, 25.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADAPY", "2025-09-02 00:00:00.000000", "WOOD GAVIN", "Chief Financial Officer", "S", 0.01, -96000, 960.0, "Ordinary Shares with a nominal value of GBP0.001 per share"]]}

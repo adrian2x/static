@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AVK", "2025-05-01 00:00:00.000000", "STUEBE NANCY E", "Director", "P", 11.21, 600, 6726.0, "Common Stock"]]}

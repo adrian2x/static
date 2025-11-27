@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["QOMO", "2023-12-22 00:00:00.000000", "WOLVERINE ASSET MANAGEMENT LLC", "", "S", 10.88, -216312, 2353475.0, "Common Stock"]]}

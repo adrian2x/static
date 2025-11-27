@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GWAV", "2025-02-28 00:00:00.000000", "ADELMAN JASON T", "Director", "S", 0.25, -100000, 25000.0, "Common Stock"]]}

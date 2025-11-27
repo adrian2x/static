@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["REIPX", "2025-09-30", "KELLEHER FINANCIAL ADVISORS", "FND", 0.0004, null, 4415.0, 166494.0, 37.0], ["REIPX", "2025-09-30", "HURLEY CAPITAL LLC", "FND", 0.0, null, 57.0, 2153.0, 37.0]]}

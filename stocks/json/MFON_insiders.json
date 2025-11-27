@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MFON", "2024-12-31 00:00:00.000000", "AKIN THOMAS B", "Director", "P", 0.25, 936986, 235183.0, "common stock"]]}

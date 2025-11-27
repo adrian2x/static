@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HLLY", "2025-09-18 00:00:00.000000", "LOBEL DAVID S", "Director", "S", 2.63, -2100000, 5523000.0, "Common Stock"]]}

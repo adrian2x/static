@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HCAT", "2025-09-05 00:00:00.000000", "LANDRY BENJAMIN", "General Counsel", "S", 3.35, -6175, 20705.0, "Common Stock"]]}

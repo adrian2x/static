@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FORFX", "2025-06-30 00:00:00.000000", "FISK DARREN", "Director", "P", 9.72, 51440, 500000.0, "Founders Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BEEX", "2025-09-30", "CANNELL SPEARS LLC", "FND", 0.0134, 0.0167, 2779180.0, 71137559.0, 25.0], ["BEEX", "2025-09-30", "MIRAE ASSET SECURITIES USA INC", "FND", 0.0002, 0.2169, 27844.0, 712712.0, 25.0]]}

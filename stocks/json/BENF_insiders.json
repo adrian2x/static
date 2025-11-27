@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BENF", "2025-03-04 00:00:00.000000", "WELDAY JEFF", "Global Head of Organizations and Distribution", "S", 0.34, -941, 320.0, "Class A Common Stock"]]}

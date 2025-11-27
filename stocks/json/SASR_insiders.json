@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SASR", "2025-04-01 00:00:00.000000", "COOK KENNETH C", "Director", "D", 15.25, -106644, 1603938.0, "Stock Options Right to Buy"]]}

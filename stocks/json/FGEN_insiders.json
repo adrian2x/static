@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FGEN", "2025-11-17 00:00:00.000000", "WETTIG THANE", "CEO", "P", 9.1, 2700, 24570.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TVC", "2025-09-30", "IAT REINSURANCE CO LTD", "DBT", 0.0319, 0.6842, 640000.0, 15131800.0, 23.0], ["TVC", "2025-09-30", "10ELMS LLP", "DBT", 0.0009, -0.1985, 4037.0, 96323.0, 23.0]]}

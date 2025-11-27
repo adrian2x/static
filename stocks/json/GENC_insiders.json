@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GENC", "2024-02-12 00:00:00.000000", "ELLIOTT MARC G", "President", "S", 16.48, -20000, 329600.0, "common stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AHL2", "2025-09-30", "IAT REINSURANCE CO LTD", "PRF", 0.0042, 0.0, 80000.0, 2012288.0, 25.0], ["AHL2", "2025-09-30", "THOMPSON INVESTMENT MANAGEMENT INC", "PRF", 0.0, 0.0, 1000.0, 21430.0, 21.0]]}

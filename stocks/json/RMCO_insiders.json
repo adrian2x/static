@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RMCO", "2025-01-02 00:00:00.000000", "SAUVE THOMAS M", "Chief Executive Officer", "P", 1.04, 7500, 7837.0, "Common Stock"]]}

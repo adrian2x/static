@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WTI", "2025-10-02 00:00:00.000000", "KROHN TRACY W", "Chairman CEO  President", "P", 1.84, 250000, 459250.0, "Common Stock"]]}

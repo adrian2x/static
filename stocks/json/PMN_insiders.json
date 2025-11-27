@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PMN", "2025-10-22 00:00:00.000000", "ABG MANAGEMENT LTD", "10% Owner", "A", 0.45, 40000, 18000.0, "Option right to buy"]]}

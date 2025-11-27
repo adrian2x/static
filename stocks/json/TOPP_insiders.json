@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TOPP", "2025-05-21 00:00:00.000000", "FELICIANO JOHN III", "Director", "A", 1.56, 1150000, 1794000.0, "Stock Option right to buy"]]}

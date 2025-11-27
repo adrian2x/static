@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["KAUFX", "2025-09-30", "MOODY LYNN LIEBERSON LLC", "FND", 0.0001, 0.1957, 20509.0, 127774.0, 6.0], ["KAUFX", "2025-09-30", "FIRST MERCHANTS CORP", "FND", 0.0, null, 10902.0, 67917.0, 6.0]]}

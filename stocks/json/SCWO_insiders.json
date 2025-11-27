@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SCWO", "2025-10-23 00:00:00.000000", "NAGAR YAACOV", "10% Owner", "S", 0.43, -473211, 205374.0, "Common Stock"]]}

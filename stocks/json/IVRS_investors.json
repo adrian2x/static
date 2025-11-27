@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IVRS", "2025-09-30", "BLACKROCK INC", "FND", 0.0, 0.0, 150000.0, 6412845.0, 42.0], ["IVRS", "2025-09-30", "SPIRE WEALTH MANAGEMENT", "FND", 0.0, -0.3155, 217.0, 9261.0, 42.0]]}

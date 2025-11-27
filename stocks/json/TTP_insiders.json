@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TTP", "2024-01-09 00:00:00.000000", "CICCOTELLO CONRAD S", "Director", "P", 28.57, 400, 11428.0, "Common Shares"]]}

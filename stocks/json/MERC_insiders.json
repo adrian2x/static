@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MERC", "2025-08-18 00:00:00.000000", "WELTY LINDA J", "Director", "P", 3.09, 10000, 30870.0, "Common Stock"]]}

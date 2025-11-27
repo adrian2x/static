@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MAGE", "2025-08-26 00:00:00.000000", "GOLD EXPRESS MINES INC", "10% Owner", "S", 0.01, -3000000, 30000.0, "Common Stock"]]}

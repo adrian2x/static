@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GPE", "2025-09-30", "BOYD WATTERSON ASSET MANAGEMENT LLC", "DBT", 0.0, 0.0, 125.0, 2931.0, 23.0], ["GPE", "2025-09-30", "NBC SECURITIES INC", "DBT", 0.0, null, 14.0, 329.0, 23.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GORO", "2025-03-21 00:00:00.000000", "REYES ALBERTO", "Chief Operating Officer", "F", 0.55, -10772, 5925.0, "Common Stock"]]}

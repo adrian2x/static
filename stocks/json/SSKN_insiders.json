@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SSKN", "2025-11-18 00:00:00.000000", "RUBINSTEIN SAMUEL", "Director", "P", 1.4, 5000, 7028.0, "Common Stock"]]}

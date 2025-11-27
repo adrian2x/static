@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HQI", "2024-11-12 00:00:00.000000", "HAGENBUCH LAWRENCE F", "Director", "P", 14.53, 1200, 17441.0, "Common Stock"]]}

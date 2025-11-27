@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["INM", "2025-10-17 00:00:00.000000", "KLOMPAS NEIL A", "Director", "A", 2.1, 3500, 7350.0, "Employee Stock Option Right to Buy"]]}

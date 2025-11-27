@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IMMX", "2025-09-17 00:00:00.000000", "RACHMAN ILYA M", "CEO and Chairman", "P", 2.02, 2500, 5050.0, "Common Stock"]]}

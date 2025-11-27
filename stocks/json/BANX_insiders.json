@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BANX", "2025-04-09 00:00:00.000000", "STAGGS DANA", "President", "P", 18.37, 149, 2737.0, "Common Stock"]]}

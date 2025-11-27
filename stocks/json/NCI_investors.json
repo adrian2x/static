@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["NCI", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, null, 26000.0, 47000.0, 1.0], ["NCI", "2025-09-30", "CLEAR STREET GROUP INC", "SHR", 0.0, null, 1400.0, 2562.0, 1.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TWOH", "2024-03-14 00:00:00.000000", "ELITUV NADAV", "CEO Pres Sec  Treasurer", "A", 0.04, 8000000, 296000.0, "Common Stock"]]}

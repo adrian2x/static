@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NXGL", "2025-11-06 00:00:00.000000", "LEVY ADAM R", "Chief Executive Officer", "S", 2.52, -4000, 10084.0, "Common Stock"]]}

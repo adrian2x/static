@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EGHA", "2025-05-12 00:00:00.000000", "EGH SPONSOR LLC", "10% Owner", "P", 10.0, 350000, 3500000.0, "Class A Ordinary Shares"]]}

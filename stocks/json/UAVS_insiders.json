@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UAVS", "2025-11-19 00:00:00.000000", "BEGLEY GRANT A", "Chairman of the Board", "A", 1.17, 10000, 11700.0, "Common Stock"]]}

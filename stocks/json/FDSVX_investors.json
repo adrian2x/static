@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FDSVX", "2025-09-30", "CARRET ASSET MANAGEMENT LLC", "FND", 0.0003, 0.0166, 4233.0, 293059.0, 69.0], ["FDSVX", "2025-09-30", "MOODY LYNN LIEBERSON LLC", "FND", 0.0001, null, 3006.0, 208121.0, 69.0]]}

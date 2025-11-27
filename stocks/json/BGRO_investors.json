@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BGRO", "2025-09-30", "BLACKROCK INC", "FND", 0.0, 0.0, 170000.0, 6584593.0, 38.0], ["BGRO", "2025-09-30", "TRUST CO OF VERMONT", "FND", 0.0, null, 1171.0, 45356.0, 38.0]]}

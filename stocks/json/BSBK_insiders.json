@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BSBK", "2025-06-18 00:00:00.000000", "MASTERSON JOHN J", "Director", "P", 7.55, 1200, 9060.0, "Common Stock"]]}

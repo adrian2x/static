@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GPMT", "2025-11-12 00:00:00.000000", "KASNET STEPHEN G", "Director", "S", 2.69, -45000, 121050.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TPIC", "2025-05-23 00:00:00.000000", "MILLER RYAN D", "Chief Financial Officer", "F", 1.2, -1760, 2112.0, "Common Stock"]]}

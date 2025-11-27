@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BIGGQ", "2025-08-28 00:00:00.000000", "SCHLONSKY MICHAEL ALLEN", "Executive Vice President", "S", 0.0, -63167, 126.0, "Common Stock"]]}

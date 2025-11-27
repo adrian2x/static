@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ARCM", "2025-09-30", "ARROW INVESTMENT ADVISORS LLC", "FND", 0.4525, 0.0, 409003.0, 40986190.0, 100.0], ["ARCM", "2025-09-30", "AXIM PLANNING WEALTH", "FND", 0.0168, 0.4596, 21209.0, 2125354.0, 100.0]]}

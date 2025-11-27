@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RAPH", "2025-03-10 00:00:00.000000", "ELIYA YEHUDA", "Director", "A", 1.0, 200000, 200000.0, "Warrant to purchase Common Stock"]]}

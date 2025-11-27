@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MDWK", "2025-08-11 00:00:00.000000", "BLACKSTONE RICHARD 1", "Director", "A", 0.22, 44874, 9872.0, "Common Stock"]]}

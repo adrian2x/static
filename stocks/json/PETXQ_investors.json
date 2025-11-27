@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PETXQ", "2025-09-30", "RIVERNORTH CAPITAL MANAGEMENT LLC", "WNT", 0.0, 0.0, 600000.0, 3300.0, 0.0], ["PETXQ", "2025-09-30", "ROCKEFELLER CAPITAL MANAGEMENT LP", "SHR", 0.0, null, 1350.0, 8.0, 0.0]]}

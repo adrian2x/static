@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PRMRF", "2025-09-30", "BAHL GAYNOR INC", "SHR", 0.0, 0.0, 18206.0, 293299.0, 16.0], ["PRMRF", "2025-09-30", "ANCORA ADVISORS LLC", "SHR", 0.0, null, 1000.0, 16142.0, 16.0]]}

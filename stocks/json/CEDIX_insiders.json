@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CEDIX", "2025-04-21 00:00:00.000000", "WATSON ROBERT A", "President", "S", 21.67, -5000, 108350.0, "Class I Shares"]]}

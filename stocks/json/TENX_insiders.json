@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TENX", "2025-11-20 00:00:00.000000", "GIORDANO CHRISTOPHER THOMAS", "CEO", "P", 7.59, 538, 4083.0, "Common Stock"]]}

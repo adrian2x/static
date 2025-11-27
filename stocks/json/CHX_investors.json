@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CHX", "2025-09-30", "SUMMIT WEALTH GROUP LLC", "SHR", 0.0024, null, 20524.0, 731065.0, 35.0], ["CHX", "2025-09-30", "VAN ECK ASSOCIATES CORP", "SHR", 0.0, -0.9875, 23855.0, 584000.0, 24.0]]}

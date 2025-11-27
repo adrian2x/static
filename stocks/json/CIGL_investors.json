@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CIGL", "2025-09-30", "SOFTBANK GROUP CORP", "SHR", 0.0, null, 259082.0, 725430.0, 2.0], ["CIGL", "2025-09-30", "BLACKROCK INC", "SHR", 0.0, null, 83210.0, 232988.0, 2.0]]}

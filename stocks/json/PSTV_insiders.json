@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PSTV", "2025-11-04 00:00:00.000000", "SIMS ANDREW JOHN HUGH MACINTYRE", "Chief Financial Officer", "P", 0.51, 20000, 10200.0, "Common Stock"]]}

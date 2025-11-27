@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TOON", "2025-06-13 00:00:00.000000", "DAVIS GRAY", "Director", "P", 0.81, 6200, 4991.0, "Common Stock"]]}

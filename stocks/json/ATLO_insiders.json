@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATLO", "2025-11-21 00:00:00.000000", "SWARTZ KEVIN L", "Director", "P", 20.8, 200, 4160.0, "Common Stock"]]}

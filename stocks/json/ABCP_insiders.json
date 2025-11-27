@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ABCP", "2024-04-30 00:00:00.000000", "BARC INVESTMENTS LLC", "10% Owner", "P", 0.21, 909691, 191035.0, "Common Stock par value 0.01"]]}

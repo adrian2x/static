@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ONEXF", "2025-09-30", "WILLIAMS JONES WEALTH MANAGEMENT LLC", "SHR", 0.0051, -0.0006, 500686.0, 44417898.0, 88.0], ["ONEXF", "2025-09-30", "BECK MACK OLIVER LLC", "SHR", 0.0, 0.0, 2535.0, 226857.0, 89.0]]}

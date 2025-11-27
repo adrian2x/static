@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["OAKC", "2025-09-30", "OAKWORTH CAPITAL INC", "SHR", 0.0038, null, 200885.0, 6502145.0, 32.0], ["OAKC", "2025-09-30", "CHICKASAW CAPITAL MANAGEMENT LLC", "SHR", 0.0026, 0.0, 197699.0, 6399000.0, 32.0]]}

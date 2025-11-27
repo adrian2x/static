@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MPW", "2025-11-19 00:00:00.000000", "STEWART MICHAEL G", "Director", "S", 5.02, -59000, 296180.0, "Common stock par value 0.001"]]}

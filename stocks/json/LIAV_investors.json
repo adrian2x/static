@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LIAV", "2025-06-30", "STONE RIDGE HOLDINGS GROUP LP", "FND", 0.0099, null, 11600.0, 2784635.0, 240.0], ["LIAV", "2025-06-30", "PORTER WHITE INVESTMENT ADVISORS INC", "FND", 0.0013, null, 1130.0, 271262.0, 240.0]]}

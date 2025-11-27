@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLNE", "2025-09-18 00:00:00.000000", "CORBUS BARCLAY", "SVP STRATEGIC DEVELOPMENT", "S", 2.63, -105300, 276939.0, "Common Stock"]]}

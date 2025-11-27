@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HEES", "2025-06-30", "DEKABANK DEUTSCHE GIROZENTRALE", "SHR", 0.0, null, 5150.0, 273000.0, 53.0], ["HEES", "2025-06-30", "BROOKLYN INVESTMENT GROUP", "SHR", 0.0, null, 4.0, 379.0, 94.0]]}

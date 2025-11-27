@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PHOE", "2025-09-30", "GEODE CAPITAL MANAGEMENT LLC", "SHR", 0.0, 0.0, 12645.0, 110137.0, 8.0], ["PHOE", "2025-09-30", "VALLEY NATIONAL ADVISERS INC", "SHR", 0.0, null, 1000.0, 8000.0, 8.0]]}

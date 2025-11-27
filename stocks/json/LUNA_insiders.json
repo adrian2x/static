@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LUNA", "2024-10-25 00:00:00.000000", "CHANLEY DAVID", "Director", "M", 1000.0, -3000, 3000000.0, "Option right to buy"]]}

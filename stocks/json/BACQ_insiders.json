@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BACQ", "2024-11-04 00:00:00.000000", "BLEICHROEDER SPONSOR 1 LLC", "10% Owner", "P", 10.0, 425000, 4250000.0, "Class A ordinary shares"]]}

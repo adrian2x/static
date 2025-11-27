@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AFHIQ", "2023-12-31 00:00:00.000000", "WOLLNEY SCOTT D", "President  CEO", "J", 0.19, 473970, 90054.0, "Common Shares"]]}

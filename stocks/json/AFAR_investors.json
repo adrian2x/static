@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AFAR", "2025-09-30", "METEORA CAPITAL LLC", "SHR", 0.0016, null, 123389.0, 1522620.0, 12.0], ["AFAR", "2025-09-30", "METEORA CAPITAL LLC", "WNT", 0.0, -0.5126, 60145.0, 601.0, 0.0]]}

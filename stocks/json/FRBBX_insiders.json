@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FRBBX", "2025-05-01 00:00:00.000000", "FINNEN PAUL E", "Director", "P", 21.46, 46598, 1000000.0, "Common Shares of Beneficial Interest"]]}

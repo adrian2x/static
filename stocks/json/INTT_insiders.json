@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["INTT", "2025-11-19 00:00:00.000000", "MAGINNIS GERALD J", "Director", "P", 7.44, 6000, 44640.0, "Common Stock"]]}

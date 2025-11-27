@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TSI", "2024-11-11 00:00:00.000000", "TARICA ANDREW", "Director", "S", 5.08, -10799, 54867.0, "common stock"]]}

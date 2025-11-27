@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MEDE", "2024-09-01 00:00:00.000000", "LEONG WENG FONG", "CEO CFO Director  Secretary", "P", 0.1, 4300000, 434300.0, "Common Stock"]]}

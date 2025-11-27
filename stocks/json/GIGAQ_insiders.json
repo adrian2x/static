@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GIGAQ", "2024-06-25 00:00:00.000000", "HYPERSCALE DATA INC", "10% Owner", "P", 0.13, 5000, 630.0, "Common Stock"]]}

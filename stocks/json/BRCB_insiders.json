@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BRCB", "2025-09-11 00:00:00.000000", "BOOTH RODDERICK FREDRICK", "Chief Financial Officer", "A", 20.0, 76219, 1524380.0, "Stock Option"]]}

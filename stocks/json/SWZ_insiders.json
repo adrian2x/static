@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SWZ", "2025-10-27 00:00:00.000000", "SELL MORITZ A", "Director", "P", 6.05, 1000, 6055.0, "Common Stock"]]}

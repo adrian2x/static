@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HQH", "2024-07-16 00:00:00.000000", "DIMARTINO ROSE", "Director", "P", 18.88, 1000, 18880.0, "Common Stock"]]}

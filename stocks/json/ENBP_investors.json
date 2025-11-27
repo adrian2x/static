@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ENBP", "2025-09-30", "KERR FINANCIAL PLANNING CORP", "SHR", 0.0015, null, 5000.0, 110000.0, 22.0], ["ENBP", "2025-09-30", "COMPREHENSIVE FINANCIAL PLANNING INC", "SHR", 0.0006, 0.2934, 4629.0, 91423.0, 19.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BIS", "2025-09-30", "CMT CAPITAL MARKETS TRADING GMBH", "PUT", 0.0004, 18.9907, 215900.0, 4249000.0, 19.0], ["BIS", "2025-09-30", "CSENGE ADVISORY GROUP", "FND", 0.0001, null, 12421.0, 162510.0, 13.0]]}

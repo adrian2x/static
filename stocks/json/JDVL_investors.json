@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JDVL", "2025-09-30", "BOSTON PARTNERS", "FND", 0.0002, null, 754093.0, 20047640.0, 26.0], ["JDVL", "2025-09-30", "MANUFACTURERS LIFE INSURANCE COMPANY THE", "FND", 0.0001, null, 400000.0, 10634040.0, 26.0]]}

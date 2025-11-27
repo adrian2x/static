@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OLP", "2025-09-09 00:00:00.000000", "RICKETTS LAWRENCE", "Exec.Vice President and COO", "D", 23.03, -3996, 92028.0, "Common Stock"]]}

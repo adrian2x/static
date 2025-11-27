@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MSUXX", "2025-09-30", "REIK CO LLC", "FND", 0.0507, -0.0395, 19750470.0, 19750470.0, 1.0], ["MSUXX", "2025-09-30", "MAIN MANAGEMENT LLC", "FND", 0.0001, 0.0103, 155755.0, 156000.0, 1.0]]}

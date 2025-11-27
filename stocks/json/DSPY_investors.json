@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DSPY", "2025-09-30", "BROWN ADVISORY INC", "FND", 0.0098, null, 13158560.0, 751761705.0, 57.0], ["DSPY", "2025-09-30", "MIRAE ASSET SECURITIES USA INC", "FND", 0.001, 0.952, 57216.0, 3268807.0, 57.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PBL", "2025-09-30", "CARY STREET PARTNERS FINANCIAL LLC", "FND", 0.0095, 0.1359, 1178345.0, 36540242.0, 31.0], ["PBL", "2025-09-30", "WOLVERINE TRADING LLC", "FND", 0.0, null, 17408.0, 537582.0, 30.0]]}

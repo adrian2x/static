@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["EMPG", "2025-09-30", "QUADRATURE CAPITAL LTD", "SHR", 0.0, null, 23854.0, 401224.0, 16.0], ["EMPG", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, null, 19086.0, 321000.0, 16.0]]}

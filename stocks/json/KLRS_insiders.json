@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KLRS", "2025-11-03 00:00:00.000000", "GALL MATTHEW", "Chief Financial Officer", "A", 4.99, 235000, 1172650.0, "Stock Option Right to Buy"]]}

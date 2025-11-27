@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PIII", "2025-06-04 00:00:00.000000", "CHICAGO PACIFIC FOUNDERS UGP III LLC", "10% Owner", "P", 10.34, 1428129, 14766854.0, "Warrants to Purchase Class A Common Stock"]]}

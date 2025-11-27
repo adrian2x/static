@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JMGRX", "2025-09-30", "FIRST MERCHANTS CORP", "FND", 0.0096, 0.0858, 169203.0, 25525878.0, 150.0], ["JMGRX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0001, null, 1064.0, 160508.0, 150.0]]}

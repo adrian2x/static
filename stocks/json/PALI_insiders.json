@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PALI", "2025-07-18 00:00:00.000000", "CHUANG EMIL", "Director", "A", 0.75, 8000, 6000.0, "Stock Option Right to Buy"]]}

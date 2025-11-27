@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BKUH", "2024-03-05 00:00:00.000000", "POPOLIZIO ARISTOTLE", "Vice President and Secretary", "I", 3.67, -2100000, 6620000.0, "Stock Option"]]}

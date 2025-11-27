@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CMND", "2025-09-30", "ADVISORSHARES INVESTMENTS LLC", "SHR", 0.0004, 0.0896, 224378.0, 229987.0, 1.0], ["CMND", "2025-09-30", "VIRTU FINANCIAL LLC", "SHR", 0.0, null, 28554.0, 29000.0, 1.0]]}

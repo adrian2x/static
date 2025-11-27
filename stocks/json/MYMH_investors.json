@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MYMH", "2025-06-30", "EXCHANGE CAPITAL MANAGEMENT INC", "FND", 0.001, null, 28138.0, 688115.0, 24.0], ["MYMH", "2025-06-30", "VIRTU FINANCIAL LLC", "FND", 0.0001, null, 11927.0, 292000.0, 24.0]]}

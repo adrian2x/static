@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SUNC", "2025-11-17 00:00:00.000000", "JENNINGS MICHAEL", "Director", "P", 49.65, 3000, 149037.0, "SunocoCorp Common Units"]]}

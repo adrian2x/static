@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BIXT", "2025-11-18 00:00:00.000000", "HOBERMAN ALAN M", "Director", "P", 0.6, 210000, 126000.0, "common"]]}

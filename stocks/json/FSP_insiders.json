@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FSP", "2024-12-16 00:00:00.000000", "CARTER JEFFREY B", "President  CIO", "P", 2.12, 18500, 39220.0, "Common Stock"]]}

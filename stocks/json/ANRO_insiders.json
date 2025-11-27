@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ANRO", "2025-08-12 00:00:00.000000", "SANCHEZ RAMIRO", "Director", "A", 3.18, 34502, 109716.0, "Stock Option right to buy"]]}

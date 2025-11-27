@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BNKK", "2024-12-11 00:00:00.000000", "MELTON CHRISTOPHER", "Director", "S", 0.85, -3470, 2967.0, "Common Stock"]]}

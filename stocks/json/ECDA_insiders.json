@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ECDA", "2024-01-11 00:00:00.000000", "PIGGOTT BENJAMIN J", "Director", "A", 10.0, 25000, 250000.0, "Common Stock"]]}

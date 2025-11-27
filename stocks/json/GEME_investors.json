@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GEME", "2025-09-30", "MIRACLE MILE ADVISORS LLC", "FND", 0.0022, null, 466942.0, 14923420.0, 31.0], ["GEME", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0002, null, 24801.0, 792637.0, 31.0]]}

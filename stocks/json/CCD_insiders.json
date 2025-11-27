@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CCD", "2025-04-03 00:00:00.000000", "CALAMOS JOHN P SR", "President and Chairman", "S", 20.84, 0, 20.0, "Common Stock"]]}

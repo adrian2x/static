@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GLGI", "2025-11-11 00:00:00.000000", "KRUGER WARREN F", "CEO  CFO", "P", 0.71, 5000, 3530.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["calendardate", "ticker", "securitytype", "pct", "chg", "price", "units", "value"], "data": [["2025-09-30", "FLUT", "SHR", 0.3538, null, 254.0, 81226.0, 20631404.0], ["2025-09-30", "FWONA", "SHR", 0.3393, null, 104.0, 189403.0, 19783143.0], ["2025-09-30", "NIQ", "SHR", 0.3069, null, 15.0, 1139864.0, 17895865.0]]}

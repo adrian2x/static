@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IGAIX", "2025-06-30", "RIVERFRONT INVESTMENT GROUP LLC", "FND", 0.0001, null, 12713.0, 543338.0, 42.0], ["IGAIX", "2025-06-30", "FINANCIAL GRAVITY COMPANIES INC", "FND", 0.0, null, 34.0, 1435.0, 42.0]]}

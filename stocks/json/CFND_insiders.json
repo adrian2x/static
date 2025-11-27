@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CFND", "2025-08-22 00:00:00.000000", "REED SCOTT A", "Director", "P", 8.46, 10000, 84600.0, "Common Stock"]]}

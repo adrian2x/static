@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VHC", "2025-11-26 00:00:00.000000", "FEINER GARY", "Director", "S", 22.7, -1875, 42562.0, "Common Stock"]]}

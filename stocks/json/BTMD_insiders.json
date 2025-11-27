@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BTMD", "2025-06-09 00:00:00.000000", "BARRERA RICHARD R", "Director", "A", 3.93, 150439, 591225.0, "Stock Option right to buy"]]}

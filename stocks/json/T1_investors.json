@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["T1", "2025-09-30", "ATHENA INVESTMENT MANAGEMENT", "SHR", 0.0067, -0.007, 45566.0, 1286784.0, 28.0], ["T1", "2025-09-30", "HUNTINGTON NATIONAL BANK", "SHR", 0.0, 0.0, 3.0, 51.0, 17.0]]}

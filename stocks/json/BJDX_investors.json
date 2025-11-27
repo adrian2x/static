@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BJDX", "2025-09-30", "DRW SECURITIES LLC", "SHR", 0.0, null, 59767.0, 90845.0, 1.0], ["BJDX", "2025-09-30", "SABBY MANAGEMENT LLC", "SHR", 0.0005, -0.6915, 29628.0, 45035.0, 1.0]]}

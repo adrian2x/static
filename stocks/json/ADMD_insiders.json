@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADMD", "2025-11-20 00:00:00.000000", "KORENKO MICHAEL K", "CEO AND PRESIDENT", "P", 0.06, 100000, 6200.0, "Common Stock"]]}

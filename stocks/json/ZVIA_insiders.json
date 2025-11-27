@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ZVIA", "2025-11-10 00:00:00.000000", "SPENCE PADRAIC L", "Director", "S", 2.64, -200000, 528800.0, "Class A Common Stock"]]}

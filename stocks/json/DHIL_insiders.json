@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DHIL", "2025-09-23 00:00:00.000000", "THOMAS LQUENTUS", "Director", "S", 141.1, -250, 35275.0, "Common"]]}

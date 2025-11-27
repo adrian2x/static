@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RBTC", "2024-09-25 00:00:00.000000", "PALANTIR TECHNOLOGIES INC", "10% Owner", "S", 0.05, -19000, 874.0, "Class A Common Stock"]]}

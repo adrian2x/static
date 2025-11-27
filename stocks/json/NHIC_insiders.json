@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NHIC", "2025-03-03 00:00:00.000000", "NEWHOLD INDUSTRIAL TECHNOLOGY III LLC", "10% Owner", "P", 11.5, 276300, 3177450.0, "Warrant"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NIRLQ", "2023-12-11 00:00:00.000000", "JPMORGAN CHASE CO", "10% Owner", "P", 0.09, 839929, 78953.0, "Common Stock"]]}

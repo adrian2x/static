@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACUT", "2025-06-13 00:00:00.000000", "CERRONE GABRIELE M", "Director", "P", 1.05, 2400, 2440.0, "Common Stock"]]}

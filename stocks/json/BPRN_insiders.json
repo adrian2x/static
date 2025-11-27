@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BPRN", "2025-11-20 00:00:00.000000", "TUCHMAN MARTIN", "Director", "P", 32.3, 2000, 64600.0, "Common Stock"]]}

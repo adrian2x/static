@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SMRT", "2025-11-25 00:00:00.000000", "MARTELL FRANK", "Chief Executive Officer", "P", 1.73, 50435, 87000.0, "Class A Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FCGAX", "2025-09-30", "NORTHSTAR ASSET MANAGEMENT CO", "FND", 0.0005, 0.0, 1457.0, 223346.0, 153.0], ["FCGAX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0, null, 83.0, 12763.0, 153.0]]}

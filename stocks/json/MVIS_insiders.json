@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MVIS", "2025-11-18 00:00:00.000000", "VERMA ANUBHAV", "CFO", "F", 0.94, -4225, 3976.0, "Common Stock"]]}

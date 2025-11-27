@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MSDL", "2025-11-10 00:00:00.000000", "FRANK BRUCE D", "Director", "P", 16.41, 600, 9843.0, "Common Stock par value 0.001 per share"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["YUEIY", "2025-09-30", "RIVERFRONT INVESTMENT GROUP LLC", "SHR", 0.0001, 0.9564, 52658.0, 448383.0, 8.0], ["YUEIY", "2025-09-30", "NBC SECURITIES INC", "SHR", 0.0, null, 94.0, 800.0, 8.0]]}

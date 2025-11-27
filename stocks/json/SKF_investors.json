@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SKF", "2025-09-30", "JTC EMPLOYER SOLUTIONS TRUSTEE LTD", "FND", 0.0, 0.0, 44.0, 1000.0, 22.0], ["SKF", "2025-09-30", "NORTHWESTERN MUTUAL WEALTH MANAGEMENT CO", "FND", 0.0, null, 31.0, 821.0, 26.0]]}

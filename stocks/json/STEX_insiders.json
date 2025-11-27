@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STEX", "2025-11-21 00:00:00.000000", "LEKSTROM MORGAN LEE", "Director", "P", 3.58, 7000, 25060.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BACK", "2024-09-09 00:00:00.000000", "SUCOFF CARY", "Director", "A", 2.5, 10000, 25000.0, "Stock Option right to buy"]]}

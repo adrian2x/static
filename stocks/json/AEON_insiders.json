@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AEON", "2025-05-21 00:00:00.000000", "FISCHER JOST", "Director", "P", 0.49, 60000, 29220.0, "Class A Common Stock"]]}

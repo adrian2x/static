@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IRD", "2025-11-01 00:00:00.000000", "MAGRATH GEORGE", "Chief Executive Officer", "F", 2.3, -60700, 139610.0, "Common Stock"]]}

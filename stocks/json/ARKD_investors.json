@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ARKD", "2025-06-30", "CWM LLC", "FND", 0.0, null, 63.0, 3000.0, 47.0], ["ARKD", "2025-06-30", "GLOBAL RETIREMENT PARTNERS LLC", "FND", 0.0, null, 13.0, 682.0, 52.0]]}

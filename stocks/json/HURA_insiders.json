@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HURA", "2025-03-10 00:00:00.000000", "TENDLER CRAIG", "Director", "A", 1.88, 151883, 285540.0, "Options Right to Buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DESK", "2025-06-30", "NAPA WEALTH MANAGEMENT", "FND", 0.0023, null, 12342.0, 491098.0, 39.0], ["DESK", "2025-06-30", "PARK SQUARE FINANCIAL GROUP LLC", "FND", 0.0002, null, 600.0, 23874.0, 39.0]]}

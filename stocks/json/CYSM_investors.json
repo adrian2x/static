@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CYSM", "2025-09-30", "SIENA CAPITAL PARTNERS GP LLC", "SHR", 0.0073, 0.289, 172595.0, 2533695.0, 14.0], ["CYSM", "2025-09-30", "PL CAPITAL ADVISORS LLC", "SHR", 0.0001, null, 1050.0, 15582.0, 14.0]]}

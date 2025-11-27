@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VNRX", "2025-11-17 00:00:00.000000", "REYNOLDS CAMERON JOHN", "President and CEO", "P", 0.35, 20000, 7000.0, "Common Stock"]]}

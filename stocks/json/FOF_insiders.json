@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FOF", "2024-10-01 00:00:00.000000", "MAGINNIS GERALD J", "Director", "S", 13.04, -975, 12714.0, "Common Stock"]]}

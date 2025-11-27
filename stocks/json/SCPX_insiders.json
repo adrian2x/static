@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SCPX", "2024-05-16 00:00:00.000000", "WOLF JEFFREY ALAN", "Chief Executive Officer", "A", 0.12, 2500000, 300000.0, "Warrant right to buy"]]}

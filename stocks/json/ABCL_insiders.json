@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ABCL", "2025-11-26 00:00:00.000000", "MONTALBANO JOHN S", "Director", "P", 3.57, 50000, 178450.0, "Common Shares"]]}

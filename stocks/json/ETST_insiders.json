@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ETST", "2025-07-22 00:00:00.000000", "SAUMAT GIORGIO R", "CEO", "P", 0.2, 50000, 10250.0, "Common Stock"]]}

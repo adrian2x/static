@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IMII", "2025-09-30 00:00:00.000000", "DAMBROSIO TRENT", "CEOCFO", "C", 5.0, 22415, 112075.0, "Common Stock"]]}

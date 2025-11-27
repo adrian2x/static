@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GLLI", "2025-06-30", "SKYVIEW INVESTMENT ADVISORS LLC", "SHR", 0.0012, null, 75000.0, 830000.0, 11.0], ["GLLI", "2025-06-30", "SKYVIEW INVESTMENT ADVISORS LLC", "WNT", 0.0, 1.6667, 200000.0, 24000.0, 0.0]]}

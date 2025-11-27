@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["QBIG", "2025-09-30", "GENEOS WEALTH MANAGEMENT INC", "FND", 0.0002, null, 17157.0, 648030.0, 37.0], ["QBIG", "2025-09-30", "SUMMIT FINANCIAL LLC", "FND", 0.0001, null, 9444.0, 356700.0, 37.0]]}

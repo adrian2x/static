@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TGVIX", "2025-09-30", "FULTON BANK NA", "FND", 0.0001, 0.0, 8670.0, 290907.0, 33.0], ["TGVIX", "2025-09-30", "KELLEHER FINANCIAL ADVISORS", "FND", 0.0001, null, 1166.0, 39129.0, 33.0]]}

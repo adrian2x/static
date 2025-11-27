@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XBP", "2025-10-06 00:00:00.000000", "LUTNICK HOWARD W", "10% Owner", "S", 11.5, -385000, 4427500.0, "Warrants"]]}

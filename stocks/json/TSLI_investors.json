@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TSLI", "2025-09-30", "SCIENCE TECHNOLOGY PARTNERS LP", "FND", 0.0062, null, 55840.0, 2242931.0, 40.0], ["TSLI", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, null, 4850.0, 194810.0, 40.0]]}

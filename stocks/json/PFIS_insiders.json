@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PFIS", "2025-08-29 00:00:00.000000", "DENAPLES LOUIS A", "Director", "A", 53.0, 1709, 90577.0, "Common Stock"]]}

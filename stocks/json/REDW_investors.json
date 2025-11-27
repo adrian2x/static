@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["REDW", "2025-09-30", "MOLONEY SECURITIES ASSET MANAGEMENT LLC", "SHR", 0.0003, 0.0, 1346.0, 269185.0, 199.0], ["REDW", "2025-09-30", "ABNER HERRMAN BROCK LLC", "SHR", 0.0002, null, 1000.0, 200000.0, 200.0]]}

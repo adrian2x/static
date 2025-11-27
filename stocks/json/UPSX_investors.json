@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["UPSX", "2025-09-30", "MIRAE ASSET SECURITIES USA INC", "FND", 0.0008, null, 160000.0, 2510400.0, 15.0], ["UPSX", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, 2.4585, 2957.0, 46395.0, 15.0]]}

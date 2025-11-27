@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FPAY", "2025-05-01 00:00:00.000000", "DVORKIN HOWARD", "Director", "P", 1.31, 128668, 168555.0, "Common Stock"]]}

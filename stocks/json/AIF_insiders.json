@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AIF", "2024-03-01 00:00:00.000000", "COHEN BARRY J", "Director", "S", 15.19, -6000, 91140.0, "Common Stock"]]}

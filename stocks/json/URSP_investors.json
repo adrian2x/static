@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["URSP", "2025-09-30", "INTEGRATED ADVISORS NETWORK LLC", "FND", 0.0007, null, 38260.0, 1559861.0, 40.0], ["URSP", "2025-09-30", "TOTH FINANCIAL ADVISORY CORP", "FND", 0.0007, null, 15405.0, 628063.0, 40.0]]}

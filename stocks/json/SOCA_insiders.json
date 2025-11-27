@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SOCA", "2025-07-17 00:00:00.000000", "SOLARIUS CAPITAL SPONSOR LLC", "Director", "A", 10.0, 450000, 4500000.0, "Class A Ordinary Shares"]]}

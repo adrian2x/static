@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HOOK", "2025-08-19 00:00:00.000000", "PETERS MALTE", "Chief Executive Officer", "S", 0.82, -25172, 20691.0, "Common Stock"]]}

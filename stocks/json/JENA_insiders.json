@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JENA", "2025-05-30 00:00:00.000000", "JENA ACQUISITION SPONSOR LLC II", "10% Owner", "P", 10.0, 225000, 2250000.0, "Class A ordinary shares"]]}

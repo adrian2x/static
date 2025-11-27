@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AZRE", "2025-09-30", "DONALD SMITH CO INC", "SHR", 0.0001, -0.0001, 299126.0, 299126.0, 1.0], ["AZRE", "2025-09-30", "YOUR ADVOCATES LTD LLP", "SHR", 0.0, 0.0, 100.0, 100.0, 1.0]]}

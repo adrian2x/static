@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RYET", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 35444.0, 50330.0, 1.0], ["RYET", "2025-09-30", "GEODE CAPITAL MANAGEMENT LLC", "SHR", 0.0, 0.0, 20088.0, 28524.0, 1.0], ["RYET", "2025-09-30", "BLACKROCK INC", "SHR", 0.0, 0.0, 1278.0, 1815.0, 1.0]]}

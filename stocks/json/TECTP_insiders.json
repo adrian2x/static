@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TECTP", "2024-12-02 00:00:00.000000", "CAIN DARRELL", "Director", "S", 10.31, -2000, 20620.0, "Series B Non-Cumulative Perpetual Preferred Stock"]]}

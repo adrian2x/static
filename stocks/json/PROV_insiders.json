@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PROV", "2025-11-12 00:00:00.000000", "WERTZ GWENDOLYN", "Senior Vice President", "S", 15.64, -4800, 75072.0, "Common Stock Par Value 0.01"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IPSC", "2025-11-20 00:00:00.000000", "COWAN CHAD", "Chief Scientific Officer", "S", 0.5, -5462, 2736.0, "Common Stock"]]}

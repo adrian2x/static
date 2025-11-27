@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PRUFX", "2025-09-30", "SIPPICAN CAPITAL ADVISORS", "FND", 0.01, -0.1937, 12430.0, 1510742.0, 121.0], ["PRUFX", "2025-09-30", "FULTON BANK NA", "FND", 0.0001, 0.0, 3173.0, 385718.0, 121.0]]}

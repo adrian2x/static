@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VTG", "2025-09-30", "ENVESTNET ASSET MANAGEMENT INC", "FND", 0.0, null, 5340.0, 407929.0, 76.0], ["VTG", "2025-09-30", "HARBOUR INVESTMENTS INC", "FND", 0.0, null, 50.0, 3820.0, 76.0]]}

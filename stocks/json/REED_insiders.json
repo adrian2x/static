@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["REED", "2024-11-19 00:00:00.000000", "DENG SHUFEN", "Director", "J", 1.0, 22478074, 22478074.0, "Common Stock"]]}

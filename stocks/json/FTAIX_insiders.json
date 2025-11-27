@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FTAIX", "2025-11-01 00:00:00.000000", "PARTNERS GROUP USA INC", "", "P", 10.25, 487804, 5000000.0, "Class I Shares"]]}

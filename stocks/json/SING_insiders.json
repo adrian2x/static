@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SING", "2023-12-19 00:00:00.000000", "RALSTON WIL", "Chief Executive Officer", "P", 5.0, 100000, 500000.0, "Common Stock"]]}

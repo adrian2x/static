@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["USCL", "2025-09-30", "ILMARINEN MUTUAL PENSION INSURANCE CO", "FND", 0.1966, 0.0148, 33480268.0, 2619670000.0, 78.0], ["USCL", "2025-09-30", "SUNBELT SECURITIES INC", "FND", 0.0, null, 13.0, 1017.0, 78.0]]}

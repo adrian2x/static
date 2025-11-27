@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JDOC", "2025-09-30", "KRILOGY FINANCIAL LLC", "FND", 0.0001, null, 5958.0, 325179.0, 54.0], ["JDOC", "2025-09-30", "IGNITE PLANNERS LLC", "FND", 0.0003, -0.0148, 3995.0, 209397.0, 52.0]]}

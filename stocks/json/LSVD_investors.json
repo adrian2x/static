@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LSVD", "2025-09-30", "NATIONAL PENSION SERVICE", "FND", 0.004, null, 18162000.0, 511225792.0, 28.0], ["LSVD", "2025-09-30", "BETA WEALTH GROUP INC", "FND", 0.02, 0.0212, 180188.0, 5071950.0, 28.0]]}

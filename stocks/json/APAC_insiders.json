@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["APAC", "2025-11-24 00:00:00.000000", "MIZUHO SECURITIES USA LLC 1", "10% Owner", "S", 9.95, -531255, 5285987.0, "Common Stock"]]}

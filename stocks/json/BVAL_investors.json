@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BVAL", "2025-09-30", "RFG ADVISORY LLC", "FND", 0.0371, 0.2271, 6615045.0, 179532319.0, 27.0], ["BVAL", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0003, 1.2127, 33003.0, 895701.0, 27.0]]}

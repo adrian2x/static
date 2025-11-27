@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FKWL", "2025-05-15 00:00:00.000000", "KIM OC", "President", "S", 3.73, -200000, 746000.0, "Options To Purchase Common Stock"]]}

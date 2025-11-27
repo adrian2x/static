@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GSRTU", "2025-09-30", "LINDEN ADVISORS LP", "SHR", 0.0, null, 20703.0, 53621.0, 2.0], ["GSRTU", "2025-09-30", "LONGFELLOW INVESTMENT MANAGEMENT CO LLC", "SHR", 0.0, 0.0, 143.0, 1852.0, 12.0]]}

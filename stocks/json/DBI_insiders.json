@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DBI", "2025-09-11 00:00:00.000000", "SONNENBERG HARVEY L", "Director", "S", 4.52, -50000, 226000.0, "Class A Common Shares"]]}

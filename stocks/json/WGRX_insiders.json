@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WGRX", "2025-07-02 00:00:00.000000", "PETERSON MICHAEL L", "Director", "A", 0.9, -200000, 180000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CTSO", "2025-11-18 00:00:00.000000", "CHAN PHILLIP P", "Chief Executive Officer", "A", 0.64, 100000, 64000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PTEC", "2025-06-30", "BELVEDERE TRADING LLC", "CLL", 0.0, 0.197, 7900.0, 293801.0, 37.0], ["PTEC", "2025-06-30", "BELVEDERE TRADING LLC", "FND", 0.0, null, 6600.0, 245454.0, 37.0]]}

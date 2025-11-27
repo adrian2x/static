@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CCEL", "2025-11-21 00:00:00.000000", "PORTNOY DAVID", "Chairman Co-CEO", "A", 4.08, 2156, 8781.0, "Common Stock"]]}

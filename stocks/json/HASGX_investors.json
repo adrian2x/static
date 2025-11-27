@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HASGX", "2025-06-30", "GREAT LAKES ADVISORS LLC", "FND", 0.0, null, 23919.0, 335589.0, 14.0], ["HASGX", "2025-06-30", "FINANCIAL GRAVITY COMPANIES INC", "FND", 0.0, null, 200.0, 2803.0, 14.0]]}

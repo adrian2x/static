@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FNLC", "2025-08-19 00:00:00.000000", "TOLMAN SARAH", "EVP Chief Banking Officer", "S", 26.03, -175, 4555.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HFMF", "2025-09-30", "CORIENT PRIVATE WEALTH LLC", "FND", 0.0, null, 60927.0, 1288697.0, 21.0], ["HFMF", "2025-09-30", "NAPA WEALTH MANAGEMENT", "FND", 0.0056, null, 56020.0, 1184907.0, 21.0]]}

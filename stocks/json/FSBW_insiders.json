@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FSBW", "2025-11-21 00:00:00.000000", "COFERWILDSMITH MARINA", "Director", "S", 40.0, -2370, 94821.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OMGAQ", "2024-12-03 00:00:00.000000", "MEHROTRA RAVI", "Director", "A", 0.95, 50000, 47450.0, "Stock Option Right to Buy"]]}

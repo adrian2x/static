@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PETS", "2025-08-13 00:00:00.000000", "SILVERCAPE INVESTMENTS LTD", "10% Owner", "P", 3.17, 101000, 320170.0, "Common Stock par value 0.001"]]}

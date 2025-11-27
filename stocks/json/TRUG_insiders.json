@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TRUG", "2025-07-14 00:00:00.000000", "POLANEN HUMPHREY P", "Director", "S", 5.03, -2500, 12582.0, "Common Stock"]]}

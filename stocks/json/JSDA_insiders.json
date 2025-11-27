@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JSDA", "2024-08-15 00:00:00.000000", "MURRAY MARK F", "Director", "F", 0.44, -210000, 93030.0, "Common Stock"]]}

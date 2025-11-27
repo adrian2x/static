@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FGBI", "2025-11-20 00:00:00.000000", "SMITH EDGAR R III", "Director", "P", 4.89, 19800, 97810.0, "COMMON STOCK"]]}

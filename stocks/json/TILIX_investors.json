@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TILIX", "2025-09-30", "FULTON BANK NA", "FND", 0.023, -0.0058, 839573.0, 65898153.0, 78.0], ["TILIX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0004, -0.0626, 2036.0, 159000.0, 78.0]]}

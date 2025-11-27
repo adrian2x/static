@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AMBO", "2025-09-30", "EVERSOURCE WEALTH ADVISORS LLC", "SHR", 0.0, null, 89.0, 322.0, 3.0], ["AMBO", "2025-09-30", "GLOBAL RETIREMENT PARTNERS LLC", "SHR", 0.0, 0.0, 1.0, 4.0, 4.0]]}

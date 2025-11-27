@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GCAD", "2025-09-30", "GAMCO INVESTORS INC ET AL 1", "FND", 0.0002, -0.5954, 48394.0, 2195844.0, 45.0], ["GCAD", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, 0.5759, 7714.0, 350015.0, 45.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BMTM", "2025-03-07 00:00:00.000000", "RUDIN ETHAN", "Chief Financial Officer", "A", 0.03, 125000, 3750.0, "Stock Option right to buy"]]}

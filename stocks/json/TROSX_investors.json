@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TROSX", "2025-09-30", "FIRST MERCHANTS CORP", "FND", 0.0002, 0.0, 35484.0, 556717.0, 15.0], ["TROSX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 815.0, 12780.0, 15.0]]}

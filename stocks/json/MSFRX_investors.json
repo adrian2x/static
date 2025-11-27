@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MSFRX", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "FND", 0.0003, null, 16561.0, 334694.0, 20.0], ["MSFRX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0, 0.0, 16.0, 0.0, 0.0]]}

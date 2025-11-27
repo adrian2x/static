@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MIRA", "2025-10-01 00:00:00.000000", "SHEKHAT DENIL NANJI", "Director", "A", 1.35, 22378, 30210.0, "Common Stock"]]}

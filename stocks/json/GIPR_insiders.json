@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GIPR", "2025-08-21 00:00:00.000000", "SOBELMAN DAVID", "Chairman President CEO", "P", 1.02, 20200, 20523.0, "Common Stock"]]}

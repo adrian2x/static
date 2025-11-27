@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MSGM", "2025-08-20 00:00:00.000000", "DELTA JOHN", "Director", "P", 2.91, 3500, 10188.0, "Common Stock"]]}

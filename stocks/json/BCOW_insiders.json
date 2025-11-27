@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCOW", "2024-06-06 00:00:00.000000", "HARRIS CLARENCE", "Director", "P", 7.32, 3, 22.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BLHK", "2025-09-30", "BANC FUNDS CO LLC", "SHR", 0.005, 0.0, 96602.0, 2869079.0, 29.0], ["BLHK", "2025-09-30", "BESSEMER GROUP INC", "SHR", 0.0, null, 1124.0, 33000.0, 29.0]]}

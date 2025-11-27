@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["INTG", "2025-09-30", "CALDWELL SUTTER CAPITAL INC", "SHR", 0.0034, 0.0, 39496.0, 796419.0, 20.0], ["INTG", "2025-09-30", "QUBE RESEARCH TECHNOLOGIES LTD", "SHR", 0.0, -0.2576, 18409.0, 377385.0, 20.0]]}

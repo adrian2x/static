@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MRDB", "2024-08-26 00:00:00.000000", "MERIDIAN BIDCO LLC", "10% Owner", "P", 0.55, 7803747, 4292061.0, "Ordinary Shares"]]}

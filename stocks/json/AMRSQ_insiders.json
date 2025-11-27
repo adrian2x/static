@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMRSQ", "2024-05-07 00:00:00.000000", "DOERR L JOHN", "Director", "D", 1.55, -12046036, 20659847.0, "Warrant Right to Buy"]]}

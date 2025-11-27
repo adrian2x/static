@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ETTGX", "2025-09-30", "NEVILLE RODIE SHAW INC", "FND", 0.0001, null, 1561.0, 207000.0, 132.0], ["ETTGX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0001, null, 441.0, 58518.0, 132.0]]}

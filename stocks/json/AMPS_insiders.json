@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMPS", "2025-04-16 00:00:00.000000", "GSO ALTUS HOLDINGS LP", "10% Owner", "D", 5.0, -21116125, 105580625.0, "Class A Common Stock"]]}

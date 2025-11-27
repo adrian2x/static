@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AAWH", "2024-11-15 00:00:00.000000", "MILLSTREET CAPITAL MANAGEMENT LLC", "10% Owner", "S", 0.45, -325000, 144950.0, "Class A Common Stock"]]}

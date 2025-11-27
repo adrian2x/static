@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["XHYT", "2025-09-30", "ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORP", "FND", 0.0203, -0.1797, 1322000.0, 46673210.0, 35.0], ["XHYT", "2025-09-30", "PARTNERS WEALTH MANAGEMENT LLC", "FND", 0.0043, null, 12203.0, 430827.0, 35.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PFL", "2023-12-11 00:00:00.000000", "VANDECRUZE GRACE", "Director", "P", 8.12, 12345, 100266.0, "COMMON SHARES"]]}

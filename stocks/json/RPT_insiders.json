@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RPT", "2025-08-29 00:00:00.000000", "FRIEDMAN PAUL M", "Director", "A", 2.84, 7708, 21891.0, "Common Stock par value 0.01 per share"]]}

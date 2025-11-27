@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GF", "2025-11-20 00:00:00.000000", "SABA CAPITAL MANAGEMENT LP", "10% Owner", "P", 10.5, 11372, 119406.0, "Common Stock"]]}

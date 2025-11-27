@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["WCPB", "2025-09-30", "NEW PERSPECTIVES INC", "FND", 0.0648, null, 568723.0, 14479744.0, 25.0], ["WCPB", "2025-09-30", "SIGMA PLANNING CORP", "FND", 0.0009, null, 119158.0, 3033773.0, 25.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BCOSX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0002, null, 5614.0, 60965.0, 10.0], ["BCOSX", "2025-09-30", "WESTSIDE INVESTMENT MANAGEMENT INC", "FND", 0.0, 0.0099, 1330.0, 14488.0, 10.0]]}

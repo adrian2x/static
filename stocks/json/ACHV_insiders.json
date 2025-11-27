@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACHV", "2025-10-01 00:00:00.000000", "DONNELLY CRAIG", "Chief Operations Officer", "A", 3.1, 50000, 155000.0, "Stock Option right to buy"]]}

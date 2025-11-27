@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FCT", "2024-12-16 00:00:00.000000", "BOWEN JAMES A", "Director", "S", 10.4, -3955, 41152.0, "Common Shares"]]}

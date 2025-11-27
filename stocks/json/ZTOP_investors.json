@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ZTOP", "2025-09-30", "FM INVESTMENTS LLC", "FND", 0.0068, null, 335944.0, 17602083.0, 52.0], ["ZTOP", "2025-09-30", "LIDO ADVISORS LLC", "FND", 0.0003, -0.218, 186062.0, 9764544.0, 52.0]]}

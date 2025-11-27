@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RCEL", "2025-08-28 00:00:00.000000", "MCNAMARA ROBERT", "Director", "P", 4.5, 10000, 45000.0, "Common Stock"]]}

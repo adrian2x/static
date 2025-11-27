@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VGHAX", "2025-09-30", "WILLIAMS JONES WEALTH MANAGEMENT LLC", "FND", 0.0, -0.2441, 4558.0, 354511.0, 77.0], ["VGHAX", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "FND", 0.0002, 0.0, 3739.0, 290745.0, 77.0]]}

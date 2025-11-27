@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RMNY", "2025-09-30", "ROCKEFELLER CAPITAL MANAGEMENT LP", "FND", 0.0001, -0.3409, 278238.0, 6798758.0, 24.0], ["RMNY", "2025-09-30", "ENVESTNET ASSET MANAGEMENT INC", "FND", 0.0, 0.0369, 240546.0, 5877742.0, 24.0]]}

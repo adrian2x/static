@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BULZ", "2025-09-30", "RENAISSANCE TECHNOLOGIES LLC", "FND", 0.0, null, 4400.0, 1134848.0, 257.0], ["BULZ", "2025-09-30", "TWO SIGMA SECURITIES LLC", "FND", 0.0005, -0.2857, 1255.0, 323690.0, 257.0]]}

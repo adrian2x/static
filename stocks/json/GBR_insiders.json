@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GBR", "2025-08-28 00:00:00.000000", "REALTY ADVISORS INC", "10% Owner", "S", 1.15, -246254, 283192.0, "Common Stock par value 0.01 per share"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["KNRG", "2025-09-30", "KAYNE ANDERSON CAPITAL ADVISORS LP", "FND", 0.0017, 0.0, 298594.0, 7777597.0, 26.0], ["KNRG", "2025-09-30", "PEKIN HARDY STRAUSS INC", "FND", 0.0003, null, 11575.0, 301499.0, 26.0]]}

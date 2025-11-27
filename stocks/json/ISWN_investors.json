@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ISWN", "2025-09-30", "CERITY PARTNERS LLC", "FND", 0.0005, -0.0019, 1484063.0, 31335099.0, 21.0], ["ISWN", "2025-09-30", "NEWEDGE ADVISORS LLC", "FND", 0.0, -0.1112, 25375.0, 535778.0, 21.0]]}

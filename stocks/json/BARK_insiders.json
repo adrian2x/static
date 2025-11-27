@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BARK", "2025-11-20 00:00:00.000000", "MEEKER MATT", "Executive Chairman", "F", 0.66, -42258, 27890.0, "Common Stock"]]}

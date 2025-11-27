@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OLPX", "2025-08-14 00:00:00.000000", "DUNLEAVY CATHERINE", "COO and CFO", "S", 1.4, -101798, 142517.0, "Common Stock"]]}

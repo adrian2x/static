@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["STOX", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0002, -0.597, 16741.0, 461784.0, 27.0], ["STOX", "2025-09-30", "HORIZON INVESTMENTS LLC", "FND", 0.0, null, 540.0, 14893.0, 27.0]]}

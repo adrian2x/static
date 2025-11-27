@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SYPR", "2025-06-11 00:00:00.000000", "PETRIE CURTIS S", "VP of Administration", "S", 1.97, -33925, 66832.0, "Common Stock"]]}

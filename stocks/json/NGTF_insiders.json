@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NGTF", "2025-11-13 00:00:00.000000", "FLOCO RIED JORDAN", "President", "P", 0.05, 187521, 9376.0, "Common Stock"]]}

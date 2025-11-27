@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["NXTI", "2025-09-30", "SIMPLIFY ASSET MANAGEMENT INC", "FND", 0.0049, 35.8696, 822303.0, 26864639.0, 32.0], ["NXTI", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 12964.0, 423533.0, 32.0]]}

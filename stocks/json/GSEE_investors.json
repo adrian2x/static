@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GSEE", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0008, 0.0523, 70089.0, 3892743.0, 55.0], ["GSEE", "2025-09-30", "STONEX GROUP INC", "FND", 0.0014, null, 58751.0, 3263031.0, 55.0]]}

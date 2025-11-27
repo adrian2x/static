@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FOMC", "2024-02-16 00:00:00.000000", "GROVER VIKRAM P", "CEO Director", "P", 0.01, 3125001, 18750.0, "Common"]]}

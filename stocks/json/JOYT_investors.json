@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JOYT", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 6558.0, 338946.0, 51.0], ["JOYT", "2025-09-30", "ADVISORY SERVICES NETWORK LLC", "FND", 0.0, null, 3720.0, 192271.0, 51.0]]}

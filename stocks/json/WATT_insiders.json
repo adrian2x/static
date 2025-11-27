@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WATT", "2025-08-21 00:00:00.000000", "BURAK MALLORIE SARA", "CEO  CFO", "P", 7.88, 6400, 50406.0, "Common Stock"]]}

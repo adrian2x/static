@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TLLYF", "2023-12-20 00:00:00.000000", "ANSON FUNDS MANAGEMENT LP", "10% Owner", "S", 0.08, -100000, 8000.0, "Common Shares no par value"]]}

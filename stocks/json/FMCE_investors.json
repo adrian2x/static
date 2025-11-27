@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FMCE", "2025-09-30", "FIRST MANHATTAN CO LLC", "FND", 0.0002, 0.0092, 279616.0, 7582878.0, 27.0], ["FMCE", "2025-09-30", "NBC SECURITIES INC", "FND", 0.0, 0.0, 175.0, 4745.0, 27.0]]}

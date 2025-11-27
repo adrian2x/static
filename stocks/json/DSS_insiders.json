@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DSS", "2025-08-28 00:00:00.000000", "CHAN HENG FAI AMBROSE", "Director", "S", 1.35, -130679, 176025.0, "Common Stock"]]}

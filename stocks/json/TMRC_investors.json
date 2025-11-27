@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TMRC", "2025-09-30", "USADVISORS WEALTH MANAGEMENT LLC", "SHR", 0.0001, 0.0, 40333.0, 37000.0, 0.0], ["TMRC", "2025-09-30", "HURLEY CAPITAL LLC", "SHR", 0.0001, null, 10000.0, 9300.0, 0.0]]}

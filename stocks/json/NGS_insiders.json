@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NGS", "2025-11-20 00:00:00.000000", "TAYLOR STEPHEN CHARLES", "Director", "S", 31.37, -10000, 313700.0, "Common Stock"]]}

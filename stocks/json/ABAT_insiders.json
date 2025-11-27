@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ABAT", "2025-11-10 00:00:00.000000", "FEZELL DONALD RICHARD JR", "Director", "S", 4.34, -90000, 390600.0, "Common Stock"]]}

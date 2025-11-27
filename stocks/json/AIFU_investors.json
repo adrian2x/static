@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AIFU", "2025-09-30", "INVESCO LTD", "SHR", 0.0, null, 12212.0, 63869.0, 5.0], ["AIFU", "2025-09-30", "BLACKROCK INC", "SHR", 0.0, -0.5648, 47.0, 246.0, 5.0], ["AIFU", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, -0.9381, 6.0, 30.0, 5.0]]}

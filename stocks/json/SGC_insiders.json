@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SGC", "2025-11-20 00:00:00.000000", "MELLINI PAUL V", "Director", "P", 8.48, 1000, 8485.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FOSFX", "2025-09-30", "LUMINIST CAPITAL LLC", "FND", 0.0001, 0.0, 95.0, 7209.0, 75.0], ["FOSFX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 19.0, 1411.0, 74.0]]}

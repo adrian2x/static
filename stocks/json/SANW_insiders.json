@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SANW", "2025-04-01 00:00:00.000000", "BAUGHMAN VANESSA", "CHIEF FINANCIAL OFFICER", "F", 7.19, -161, 1158.0, "Common Stock"]]}

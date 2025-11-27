@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CERS", "2025-11-24 00:00:00.000000", "JENSEN CHRYSTAL", "Chief Legal Officer", "S", 1.7, -55000, 93500.0, "Common Stock"]]}

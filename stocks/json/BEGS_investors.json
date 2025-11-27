@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BEGS", "2025-09-30", "BELPOINTE ASSET MANAGEMENT LLC", "FND", 0.0009, -0.0012, 62606.0, 2437215.0, 38.0], ["BEGS", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, null, 5164.0, 201029.0, 38.0]]}

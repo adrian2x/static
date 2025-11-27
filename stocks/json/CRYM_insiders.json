@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CRYM", "2024-06-14 00:00:00.000000", "NOEL CHRISTIAN", "Chief Executive Officer", "P", 0.03, 87500, 2890.0, "Common Stock"]]}

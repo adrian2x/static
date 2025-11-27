@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SKYQ", "2025-11-07 00:00:00.000000", "SEALOCK DAVID", "", "S", 0.4, -38062, 15225.0, "Common Shares"]]}

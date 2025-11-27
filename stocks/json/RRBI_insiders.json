@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RRBI", "2025-11-06 00:00:00.000000", "PRICE TEDDY RAY", "Director", "P", 65.72, 1046, 68788.0, "Common Stock"]]}

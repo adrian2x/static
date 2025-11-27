@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UTGN", "2025-11-18 00:00:00.000000", "CORTINES JOHN", "Director", "S", 55.0, -1181, 64955.0, "Common Stock"]]}

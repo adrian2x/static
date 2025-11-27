@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RMT", "2025-11-05 00:00:00.000000", "ROYCE CHARLES M", "", "S", 10.27, -200000, 2054000.0, "Common Stock"]]}

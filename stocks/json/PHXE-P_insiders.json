@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PHXE-P", "2025-11-20 00:00:00.000000", "ALLEN BRANDON K", "", "S", 20.12, -2500, 50283.0, "Series A Cumulative Redeemable Preferred Shares"]]}

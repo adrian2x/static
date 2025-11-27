@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SPWH", "2025-11-01 00:00:00.000000", "STONE PAUL", "PRESIDENT AND CEO", "F", 2.47, -47947, 118429.0, "Common Stock"]]}

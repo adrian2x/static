@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MISIX", "2025-09-30", "FULTON BANK NA", "FND", 0.0032, -0.0164, 450861.0, 9021738.0, 20.0], ["MISIX", "2025-09-30", "YOUSIF CAPITAL MANAGEMENT LLC", "FND", 0.0001, 0.0, 58646.0, 1173510.0, 20.0]]}

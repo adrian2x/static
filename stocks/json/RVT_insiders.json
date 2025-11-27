@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RVT", "2025-08-26 00:00:00.000000", "CLARK CHRISTOPHER D", "President", "P", 15.99, 1300, 20787.0, "Common Stock"]]}

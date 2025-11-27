@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCML", "2025-03-03 00:00:00.000000", "GUARINI GEORGE J", "President and CEO", "S", 27.5, -27000, 742500.0, "Common Stock"]]}

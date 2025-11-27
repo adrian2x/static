@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["XHYC", "2025-09-30", "SOUNDVIEW ADVISORS INC", "FND", 0.0923, null, 534300.0, 26939000.0, 50.0], ["XHYC", "2025-09-30", "ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORP", "FND", 0.0108, -0.2295, 659000.0, 24815172.0, 37.0]]}

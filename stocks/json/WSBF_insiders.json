@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WSBF", "2025-10-27 00:00:00.000000", "HANSEN MICHAEL L", "Director", "S", 15.16, -81413, 1234222.0, "Common Stock"]]}

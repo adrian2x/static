@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DYNR", "2025-08-13 00:00:00.000000", "DIEPHOLZ KOY W", "10% Owner", "P", 1.5, 50000, 75000.0, "Common Stock"]]}

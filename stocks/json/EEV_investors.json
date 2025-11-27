@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["EEV", "2025-09-30", "VERITY ASSET MANAGEMENT INC", "FND", 0.0008, 0.8074, 22640.0, 231499.0, 10.0], ["EEV", "2025-09-30", "NBC SECURITIES INC", "FND", 0.0, null, 10.0, 102.0, 10.0]]}

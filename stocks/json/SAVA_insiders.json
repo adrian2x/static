@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SAVA", "2025-11-24 00:00:00.000000", "ANDERSON ROBERT EUGENE JR", "Director", "P", 2.9, 8600, 24940.0, "Common Stock"]]}

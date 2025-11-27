@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LYRA", "2025-11-13 00:00:00.000000", "PERCEPTIVE ADVISORS LLC", "10% Owner", "S", 3.9, -31810, 124059.0, "Common Stock"]]}

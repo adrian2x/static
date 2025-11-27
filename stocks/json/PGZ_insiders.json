@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PGZ", "2025-11-10 00:00:00.000000", "SPAHR LATON", "", "P", 10.35, 10000, 103490.0, "Common Shares of Beneficial Ownership"]]}

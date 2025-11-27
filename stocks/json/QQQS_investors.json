@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["QQQS", "2025-09-30", "CWM LLC", "FND", 0.0, 0.0087, 233.0, 8000.0, 34.0], ["QQQS", "2025-09-30", "SBI SECURITIES CO LTD", "FND", 0.0, -0.4895, 121.0, 4047.0, 33.0], ["QQQS", "2025-09-30", "BLAIR WILLIAM CO", "FND", 0.0, 0.0, 25.0, 836.0, 33.0]]}

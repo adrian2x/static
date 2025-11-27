@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CCM", "2025-09-30", "EVERSOURCE WEALTH ADVISORS LLC", "SHR", 0.0, 0.5884, 440.0, 2702.0, 6.0], ["CCM", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, 0.0, 4.0, 25.0, 6.0], ["CCM", "2025-09-30", "BESSEMER GROUP INC", "SHR", 0.0, null, 37.0, 0.0, 0.0]]}

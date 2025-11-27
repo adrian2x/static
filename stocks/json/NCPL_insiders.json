@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NCPL", "2024-04-24 00:00:00.000000", "GEARY STEVEN F", "Director", "P", 0.13, 239274, 31584.0, "Common Stock"]]}

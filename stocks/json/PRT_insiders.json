@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PRT", "2024-01-29 00:00:00.000000", "BOAZ ENERGY II LLC", "10% Owner", "S", 4.75, -3200, 15200.0, "Trust Units representing Beneficial Interest"]]}

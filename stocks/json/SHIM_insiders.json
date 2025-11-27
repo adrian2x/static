@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SHIM", "2025-08-29 00:00:00.000000", "GOLDSTEEN MITCHELL B", "Director", "S", 2.96, -14706, 43530.0, "Common Stock par value 0.01 per share"]]}

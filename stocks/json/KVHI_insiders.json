@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KVHI", "2025-11-14 00:00:00.000000", "RADOFF BRADLEY LOUIS", "10% Owner", "P", 5.78, 40000, 231160.0, "Common Stock"]]}

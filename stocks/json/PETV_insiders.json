@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PETV", "2025-11-24 00:00:00.000000", "RUDELIUS ROBERT JAMES", "Director", "A", 1.14, 4023, 4429.0, "Common Stock"]]}

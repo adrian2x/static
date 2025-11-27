@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["NRES", "2025-09-30", "DEUTSCHE BANK AG", "FND", 0.0001, 0.0072, 1125408.0, 30824925.0, 27.0], ["NRES", "2025-09-30", "LEGACY WEALTH MANAGMENT LLC", "FND", 0.0001, 0.0, 601.0, 16462.0, 27.0]]}

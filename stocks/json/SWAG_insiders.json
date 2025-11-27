@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SWAG", "2025-08-28 00:00:00.000000", "SHAPE ANDREW", "President and CEO", "D", 1.47, -100000, 147000.0, "Common Stock"]]}

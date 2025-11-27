@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BONZ", "2024-09-12 00:00:00.000000", "CHAN SZE YU", "Director", "J", 0.03, 17777778, 480000.0, "Common Stock"]]}

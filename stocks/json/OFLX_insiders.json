@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OFLX", "2025-11-24 00:00:00.000000", "MORAN EDWIN B", "President", "P", 27.29, 500, 13645.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EVEX", "2025-09-30 00:00:00.000000", "EMBRAER SA", "Director", "A", 4.85, 8247422, 39999996.0, "Common Stock"]]}

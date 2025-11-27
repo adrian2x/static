@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AEF", "2025-05-12 00:00:00.000000", "YAO NANCY", "Director", "P", 5.4, 1000, 5400.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FCBC", "2025-08-01 00:00:00.000000", "BROWN DAVID D", "Chief Financial Officer", "P", 36.0, 150, 5400.0, "COMMON STOCK"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NOEM", "2024-11-22 00:00:00.000000", "CO2 ENERGY TRANSITION LLC", "10% Owner", "P", 11.5, 530000, 6095000.0, "Warrants"]]}

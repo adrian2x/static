@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BWEN", "2025-06-09 00:00:00.000000", "SCHUELLER DANIEL E", "Pres. Broadwind Heavy Fab.", "S", 1.94, -3000, 5832.0, "Common Stock"]]}

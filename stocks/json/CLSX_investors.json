@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CLSX", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, null, 10373.0, 481693.0, 46.0], ["CLSX", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0, null, 4687.0, 217651.0, 46.0]]}

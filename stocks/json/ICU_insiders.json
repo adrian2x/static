@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ICU", "2025-08-27 00:00:00.000000", "VAN HEEL KENNETH", "Director", "P", 0.86, 10000, 8570.0, "Common Stock par value 0.0001 per share"]]}

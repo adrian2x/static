@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FOCPX", "2025-09-30", "CARRET ASSET MANAGEMENT LLC", "FND", 0.0008, 0.0, 34995.0, 833927.0, 23.0], ["FOCPX", "2025-09-30", "HURLEY CAPITAL LLC", "FND", 0.0012, null, 8696.0, 207220.0, 23.0]]}

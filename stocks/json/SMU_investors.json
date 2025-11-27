@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SMU", "2025-09-30", "MIRAE ASSET SECURITIES USA INC", "FND", 0.0004, null, 60000.0, 1194000.0, 19.0], ["SMU", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, null, 2425.0, 48258.0, 19.0]]}

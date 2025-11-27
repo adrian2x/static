@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RMTI", "2025-11-18 00:00:00.000000", "COOPER JOHN G", "Director", "S", 0.87, -5079, 4419.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CDT", "2025-09-19 00:00:00.000000", "REGAN ANDREW", "Chief Executive Officer", "A", 0.69, 1120000, 768320.0, "Common Stock"]]}

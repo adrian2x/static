@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FEAT", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0002, 0.6493, 25348.0, 880827.0, 34.0], ["FEAT", "2025-09-30", "SWAN CAPITAL LLC", "FND", 0.0, null, 56.0, 1946.0, 34.0]]}

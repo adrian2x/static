@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALTO", "2025-08-13 00:00:00.000000", "SNEED JAMES R", "Chief Commercial Officer", "P", 1.06, 3176, 3363.0, "Common Stock"]]}

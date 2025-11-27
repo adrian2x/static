@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LFT", "2025-11-26 00:00:00.000000", "FLYNN JAMES PETER", "CEO", "P", 1.6, 55000, 87945.0, "common stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JOUT", "2024-12-09 00:00:00.000000", "JOHNSON DAVID W", "Vice President and CFO", "F", 33.23, -904, 30035.0, "Class A Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["KGLD", "2025-09-30", "IFS ADVISORS LLC", "FND", 0.0, null, 200.0, 5630.0, 28.0], ["KGLD", "2025-09-30", "CITY STATE BANK", "FND", 0.0, null, 150.0, 4223.0, 28.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NXXT", "2025-11-24 00:00:00.000000", "FARKAS MICHAEL D", "CEO and Executive Chairman", "A", 1.04, 1000000, 1040000.0, "Common Stock"]]}

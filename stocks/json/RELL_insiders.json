@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RELL", "2025-10-16 00:00:00.000000", "HALVERSON KENNETH", "Director", "S", 11.33, -4200, 47603.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CIK", "2025-01-21 00:00:00.000000", "DEFELICE LAURA A", "Director", "P", 2.92, 40766, 119037.0, "common stock"]]}

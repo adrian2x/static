@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HAPY", "2025-06-30", "GTS SECURITIES LLC", "FND", 0.0004, null, 38450.0, 917263.0, 23.0], ["HAPY", "2025-06-30", "MANCHESTER CAPITAL MANAGEMENT LLC", "FND", 0.0, null, 55.0, 1313.0, 23.0]]}

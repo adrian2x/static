@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AFLYY", "2025-09-30", "DONALD SMITH CO INC", "SHR", 0.0013, -0.0129, 4592373.0, 6383398.0, 1.0], ["AFLYY", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, null, 502.0, 697.0, 1.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TSBIX", "2025-09-30", "RICHARDSON FINANCIAL SERVICES INC", "FND", 0.0005, -0.1002, 8022.0, 73076.0, 9.0], ["TSBIX", "2025-09-30", "TRANSCE3ND LLC", "FND", 0.0, 0.0, 7.0, 60.0, 8.0]]}

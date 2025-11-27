@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NNUP", "2025-08-28 00:00:00.000000", "WESTENBURG KEVIN CAMERER", "President", "P", 1.65, 4000, 6600.0, "Common Stock"]]}

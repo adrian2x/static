@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CHMG", "2025-10-29 00:00:00.000000", "STREETER JEFFREY B", "Director", "P", 51.92, 2184, 113400.0, "COMMON STOCK"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["EDUT", "2025-09-30", "IMCCHICAGO LLC", "CLL", 0.0, 0.0559, 17000.0, 1194080.0, 70.0], ["EDUT", "2025-09-30", "IMCCHICAGO LLC", "PUT", 0.0, -0.1006, 16100.0, 1130864.0, 70.0]]}

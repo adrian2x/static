@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DRTTF", "2025-09-05 00:00:00.000000", "ROBINSON SCOTT L", "Director", "P", 0.54, 20000, 10884.0, "Common Shares"]]}

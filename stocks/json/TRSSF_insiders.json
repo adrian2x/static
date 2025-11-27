@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TRSSF", "2025-11-24 00:00:00.000000", "SCHUTTER EDWARD J", "Director", "S", 0.44, -296174, 130317.0, "Common Shares"]]}

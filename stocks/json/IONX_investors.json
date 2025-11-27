@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IONX", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, -0.2977, 16815.0, 1967859.0, 117.0], ["IONX", "2025-09-30", "RENAISSANCE TECHNOLOGIES LLC", "FND", 0.0, null, 9200.0, 1076676.0, 117.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JVA", "2024-07-01 00:00:00.000000", "GORDON ANDREW 1", "CEO and President", "P", 2.15, 10000, 21500.0, "Common Stock 0.001 par value"]]}

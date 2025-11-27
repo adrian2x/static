@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RNTX", "2025-11-14 00:00:00.000000", "VOSS CAPITAL LP", "10% Owner", "P", 1.23, 104183, 127624.0, "Common Stock 0.001 par value"]]}

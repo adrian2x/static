@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CURR", "2024-02-22 00:00:00.000000", "COWEN INC", "10% Owner", "S", 11.35, -100574, 1141515.0, "Class A Ordinary Shares"]]}

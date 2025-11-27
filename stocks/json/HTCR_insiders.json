@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HTCR", "2025-05-30 00:00:00.000000", "YASUI DAISHIN", "10% Owner", "S", 0.7, -60000, 42000.0, "Common Stock"]]}

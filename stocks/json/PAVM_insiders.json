@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PAVM", "2024-10-21 00:00:00.000000", "AGRAWAL SUNDEEP", "Director", "A", 1.04, 50000, 52000.0, "Employee stock option right to buy"]]}

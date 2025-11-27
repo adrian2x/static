@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RYM", "2025-11-19 00:00:00.000000", "KOVLER BENJAMIN", "Interim CEO", "F", 19.19, -17526, 336324.0, "Common Stock"]]}

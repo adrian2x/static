@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MDWT", "2023-12-22 00:00:00.000000", "KNOTT DAVID M JR", "10% Owner", "S", 27.0, -390241, 10536507.0, "Common Stock"]]}

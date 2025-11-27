@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OTLC", "2025-07-10 00:00:00.000000", "TRIEU VUONG", "CHAIRMAN AND CEO", "P", 0.01, 104000, 520.0, "Common Stock"]]}

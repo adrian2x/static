@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRAMF", "2025-02-28 00:00:00.000000", "FELDMAN BRIAN", "Chief Legal Officer", "A", 0.03, 1000000, 28000.0, "Options"]]}

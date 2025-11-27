@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CPTK", "2025-09-30", "ANCORA ADVISORS LLC", "WNT", 0.0, 0.0, 12098.0, 121.0, 0.0], ["CPTK", "2025-09-30", "METEORA CAPITAL LLC", "WNT", 0.0, null, 10599.0, 0.0, 0.0]]}

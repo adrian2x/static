@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WETM", "2024-05-20 00:00:00.000000", "SILVERMAN SCOTT R", "CEO", "D", 0.03, 197, 5.0, "Series B Convertible Preferred Stock"]]}

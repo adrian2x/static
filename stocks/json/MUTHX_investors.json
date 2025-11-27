@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MUTHX", "2025-09-30", "ARVEST BANK TRUST DIVISION", "FND", 0.0001, 0.0, 8660.0, 232616.0, 26.0], ["MUTHX", "2025-09-30", "KELLEHER FINANCIAL ADVISORS", "FND", 0.0002, null, 3484.0, 93583.0, 26.0]]}

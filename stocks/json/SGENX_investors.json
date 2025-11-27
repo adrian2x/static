@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SGENX", "2025-09-30", "FULTON BANK NA", "FND", 0.0004, 0.0, 12417.0, 1039384.0, 83.0], ["SGENX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0001, null, 516.0, 43216.0, 83.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BGS", "2025-06-02 00:00:00.000000", "SHERRILL STEPHEN", "Director", "A", 4.15, 398647, 1654385.0, "Stock Option Right to Buy"]]}

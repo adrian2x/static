@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OSTX", "2025-05-07 00:00:00.000000", "AUERBACH SHALOM", "10% Owner", "S", 2.0, -82000, 163918.0, "Common Stock par value 0.001 per share"]]}

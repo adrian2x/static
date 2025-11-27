@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DFTEX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0007, 0.0088, 29099.0, 286000.0, 9.0], ["DFTEX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0005, null, 16974.0, 167359.0, 9.0]]}

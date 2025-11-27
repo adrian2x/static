@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FPURX", "2025-09-30", "NOTISMCCONARTY EDWARD", "FND", 0.0015, 0.0, 11608.0, 312474.0, 26.0], ["FPURX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0001, 0.0044, 1382.0, 37000.0, 26.0]]}

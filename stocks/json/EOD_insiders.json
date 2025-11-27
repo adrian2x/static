@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EOD", "2024-06-07 00:00:00.000000", "LEE CHRISTOPHER M", "", "P", 4.89, 4000, 19559.0, "Common Shares"]]}

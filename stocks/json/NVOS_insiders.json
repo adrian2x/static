@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NVOS", "2024-01-16 00:00:00.000000", "DAVID CHRISTOPHER MEHLIN", "Chief Operating Officer", "A", 0.78, 200000, 156000.0, "Stock Option right to buy"]]}

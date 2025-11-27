@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RVRB", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0003, -0.5489, 20923.0, 731531.0, 34.0], ["RVRB", "2025-09-30", "REDMONT WEALTH ADVISORS LLC", "FND", 0.0086, 0.0, 17713.0, 619305.0, 34.0]]}

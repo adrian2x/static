@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TXMD", "2025-11-03 00:00:00.000000", "WALKER MARLAN D", "Chief Executive Officer", "A", 1.15, 67492, 77616.0, "Non-Qualified Stock Option right to buy"]]}

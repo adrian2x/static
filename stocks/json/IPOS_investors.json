@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IPOS", "2025-09-30", "STEWARD PARTNERS INVESTMENT ADVISORY LLC", "FND", 0.0, null, 29836.0, 523025.0, 17.0], ["IPOS", "2025-09-30", "CORECAP ADVISORS LLC", "FND", 0.0001, -0.0196, 8417.0, 147550.0, 17.0]]}

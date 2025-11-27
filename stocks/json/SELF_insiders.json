@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SELF", "2025-11-26 00:00:00.000000", "WINMILL CO INC", "", "P", 5.17, 4873, 25174.0, "Common Stock"]]}

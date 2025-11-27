@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VNIE", "2025-09-30", "VONTOBEL HOLDING LTD", "FND", 0.0002, 0.0, 309587.0, 7842210.0, 25.0], ["VNIE", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0002, -0.4791, 16402.0, 415479.0, 25.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TRSY", "2025-09-30", "DEUTSCHE BANK AG", "FND", 0.0, 0.0, 80000.0, 2414400.0, 30.0], ["TRSY", "2025-09-30", "BELL INVESTMENT ADVISORS INC", "FND", 0.0001, null, 2576.0, 77744.0, 30.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AVX", "2025-11-05 00:00:00.000000", "GRIFFITH AMY", "Director", "A", 2.45, 30612, 74999.0, "Common Shares"]]}

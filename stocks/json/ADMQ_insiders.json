@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADMQ", "2025-09-23 00:00:00.000000", "JOHNSON MARC", "CEO", "P", 0.44, 227000, 99880.0, "Common Stock"]]}

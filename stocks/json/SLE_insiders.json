@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SLE", "2024-07-24 00:00:00.000000", "GEHL JEFF PATRICK", "Director", "P", 1.33, 25000, 33375.0, "Common Stock"]]}

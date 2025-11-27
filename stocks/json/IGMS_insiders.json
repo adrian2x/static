@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IGMS", "2025-08-14 00:00:00.000000", "REDMILE GROUP LLC", "Director", "D", 0.01, -667666, 6677.0, "Pre-Funded Warrants to Purchase Common Stock"]]}

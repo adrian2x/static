@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TXHPF", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, -0.0205, 13166.0, 86037.0, 6.0], ["TXHPF", "2025-09-30", "WESTSIDE INVESTMENT MANAGEMENT INC", "SHR", 0.0, null, 1960.0, 12918.0, 6.0]]}

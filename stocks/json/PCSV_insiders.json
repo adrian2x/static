@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PCSV", "2025-10-03 00:00:00.000000", "IDDINGS SEAN PATRICK", "Director", "A", 0.13, 20000, 2600.0, "Common Stock"]]}

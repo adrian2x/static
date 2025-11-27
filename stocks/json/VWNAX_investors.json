@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VWNAX", "2025-09-30", "FIRST MERCHANTS CORP", "FND", 0.002, -0.0256, 58882.0, 5205596.0, 88.0], ["VWNAX", "2025-09-30", "NORTHSTAR ASSET MANAGEMENT CO", "FND", 0.0008, 0.0, 4269.0, 377397.0, 88.0]]}

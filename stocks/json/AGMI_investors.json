@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AGMI", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 4685.0, 252733.0, 53.0], ["AGMI", "2025-09-30", "KESTRA ADVISORY SERVICES LLC", "FND", 0.0, null, 4382.0, 236388.0, 53.0]]}

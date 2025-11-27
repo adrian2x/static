@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["YHC", "2025-07-17 00:00:00.000000", "LAMBETH GEORGE PATRICK", "10% Owner", "S", 3.04, -180000, 546300.0, "Common Stock"]]}

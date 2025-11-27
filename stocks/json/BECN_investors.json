@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BECN", "2025-06-30", "CIM INVESTMENT MANAGEMENT INC", "SHR", 0.0005, null, 2665.0, 270711.0, 101.0], ["BECN", "2025-06-30", "SUNBELT SECURITIES INC", "SHR", 0.0, null, 100.0, 10158.0, 101.0]]}

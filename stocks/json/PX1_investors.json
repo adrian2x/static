@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PX1", "2025-09-30", "LOMBARD ODIER ASSET MANAGEMENT SWITZERLAND SA", "SHR", 0.0081, 0.0203, 37918.0, 18011050.0, 475.0], ["PX1", "2025-09-30", "HUNTINGTON NATIONAL BANK", "SHR", 0.0, 0.0, 1.0, 165.0, 165.0]]}

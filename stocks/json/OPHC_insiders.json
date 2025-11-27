@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OPHC", "2025-06-11 00:00:00.000000", "GUBIN MOISHE", "Director", "P", 4.53, 264, 1196.0, "Common Stock"]]}

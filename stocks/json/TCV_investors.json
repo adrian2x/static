@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TCV", "2025-09-30", "MONETA GROUP INVESTMENT ADVISORS LLC", "FND", 0.0001, null, 44338.0, 1132911.0, 25.0], ["TCV", "2025-09-30", "MIRAE ASSET SECURITIES USA INC", "FND", 0.0002, null, 24504.0, 626119.0, 25.0]]}

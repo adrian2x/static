@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SUN1", "2025-09-30", "PINNACLE HOLDINGS LLC", "SHR", 0.0072, 0.0, 41450.0, 2072915.0, 50.0], ["SUN1", "2025-09-30", "HUNTINGTON NATIONAL BANK", "SHR", 0.0, 0.0, 2.0, 83.0, 41.0]]}

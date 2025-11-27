@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EBIXQ", "2023-12-29 00:00:00.000000", "HEBARD GEORGE", "Director", "P", 0.92, 409000, 376280.0, "Common Stock"]]}

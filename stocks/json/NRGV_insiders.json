@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NRGV", "2025-11-14 00:00:00.000000", "PICONI ROBERT", "Chief Executive Officer", "P", 3.0, 10000, 29960.0, "Common Stock"]]}

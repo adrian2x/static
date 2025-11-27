@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCG", "2025-11-17 00:00:00.000000", "GOULD CRAIG", "Chief Executive Officer", "P", 1.55, 5000, 7740.0, "Common Stock"]]}

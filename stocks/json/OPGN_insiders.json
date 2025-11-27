@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OPGN", "2025-07-30 00:00:00.000000", "AEI CAPITAL LTD", "10% Owner", "P", 4.79, 1000, 4790.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BETH", "2025-09-30", "ORION PORFOLIO SOLUTIONS LLC", "FND", 0.0, 0.6852, 7103.0, 578316.0, 81.0], ["BETH", "2025-09-30", "HOEY INVESTMENTS INC", "FND", 0.0, null, 300.0, 24426.0, 81.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LDRR", "2025-06-30", "CAPTRUST FINANCIAL ADVISORS", "FND", 0.0, null, 2335.0, 323336.0, 138.0], ["LDRR", "2025-06-30", "STONE RIDGE HOLDINGS GROUP LP", "FND", 0.0009, null, 1818.0, 251745.0, 138.0]]}

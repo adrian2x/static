@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GEVO", "2025-11-20 00:00:00.000000", "SHAFER ANDREW", "Chief Cust Mkt  Brnd Officer", "S", 1.99, -5000, 9935.0, "Common Stock"]]}

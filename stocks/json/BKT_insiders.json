@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BKT", "2025-01-31 00:00:00.000000", "KRAEGER MATTHEW", "", "D", 11.62, -721, 8382.0, "Common Stock"]]}

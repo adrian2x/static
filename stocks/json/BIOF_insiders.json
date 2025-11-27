@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BIOF", "2025-01-08 00:00:00.000000", "BOLTON GEORGE DENNIS", "Director", "A", 0.15, 663334, 88966.0, "Call Option"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ABOS", "2025-11-06 00:00:00.000000", "GOLUMBESKI GEORGE", "Director", "A", 1.9, 50000, 95000.0, "Stock Option right to buy"]]}

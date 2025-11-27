@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BLBX", "2025-10-23 00:00:00.000000", "SMITH CHARLES BRANDON", "Chief Technology Officer", "S", 9.07, -9167, 83191.0, "Common Stock par value 0.001"]]}

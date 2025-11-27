@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BYFC", "2025-10-15 00:00:00.000000", "DAVIDSON ROBERT C JR", "Director", "S", 7.1, -1000, 7099.0, "Common Stock"]]}

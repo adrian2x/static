@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VGIAX", "2025-09-30", "FULTON BANK NA", "FND", 0.0003, 0.0, 6234.0, 728710.0, 116.0], ["VGIAX", "2025-09-30", "NORTH POINT PORTFOLIO MANAGERS CORP", "FND", 0.0007, 0.0, 3877.0, 453140.0, 116.0]]}

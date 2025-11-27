@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HRTX", "2025-11-08 00:00:00.000000", "CUSACK THOMAS", "Director", "A", 1.1, 227272, 249999.0, "Stock Option Right to Buy"]]}

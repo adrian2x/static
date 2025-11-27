@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NVNO", "2025-09-15 00:00:00.000000", "DUHAY FRANCIS", "Director", "S", 0.83, -4900, 4067.0, "Common Stock"]]}

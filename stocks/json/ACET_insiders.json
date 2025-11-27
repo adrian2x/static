@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACET", "2025-10-08 00:00:00.000000", "ORBIMED ADVISORS LLC", "10% Owner", "P", 1.0, 5000000, 5000000.0, "Common Stock"]]}

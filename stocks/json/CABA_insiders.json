@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CABA", "2025-10-13 00:00:00.000000", "GAVEL STEVE", "CHIEF COMMERCIAL OFFICER", "A", 2.49, 275000, 684750.0, "Stock Option Right to Buy"]]}

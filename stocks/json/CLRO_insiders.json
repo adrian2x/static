@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLRO", "2025-11-24 00:00:00.000000", "BAGLEY EDWARD D", "10% Owner", "S", 3.0, -700000, 2100000.0, "Common Stock"]]}

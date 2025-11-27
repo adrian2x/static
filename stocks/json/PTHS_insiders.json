@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PTHS", "2025-11-25 00:00:00.000000", "FRIEDBERG EZRA M", "Director", "S", 28.16, -10000, 280280.0, "Common Stock"]]}

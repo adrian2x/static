@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ELIS", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, 5.4132, 73489.0, 1862821.0, 25.0], ["ELIS", "2025-09-30", "CSENGE ADVISORY GROUP", "FND", 0.0002, null, 16222.0, 411201.0, 25.0]]}

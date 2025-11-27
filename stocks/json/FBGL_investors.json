@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FBGL", "2025-09-30", "VIRTU FINANCIAL LLC", "SHR", 0.0, null, 25056.0, 19000.0, 0.0], ["FBGL", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, null, 14245.0, 10000.0, 0.0]]}

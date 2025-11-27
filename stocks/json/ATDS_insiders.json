@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATDS", "2025-02-05 00:00:00.000000", "REMILLARD JASON L M", "Chairman and CEO", "A", 0.01, 3000000, 30000.0, "Common Stock"]]}

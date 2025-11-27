@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CPBI", "2025-05-27 00:00:00.000000", "GARNESS DANIEL R", "President  CEO", "A", 14.61, 15000, 219150.0, "Stock Options"]]}

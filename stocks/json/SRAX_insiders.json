@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SRAX", "2023-12-26 00:00:00.000000", "MIGLINO CHRISTOPHER", "Chief Executive Officer", "P", 0.05, 15000, 750.0, "SRAX Common Stock"]]}

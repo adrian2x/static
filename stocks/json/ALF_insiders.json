@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALF", "2025-06-09 00:00:00.000000", "CENTURION SPONSOR LP", "Director", "J", 90.0, -30000, 2700000.0, "Class B Ordinary Shares"]]}

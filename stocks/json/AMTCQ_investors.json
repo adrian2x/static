@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AMTCQ", "2025-09-30", "SCHRODER INVESTMENT MANAGEMENT GROUP", "SHR", 0.0007, null, 285002.0, 89071675.0, 312.0], ["AMTCQ", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "SHR", 0.0, null, 21.0, 6563.0, 312.0]]}

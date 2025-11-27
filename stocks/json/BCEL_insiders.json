@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCEL", "2024-04-01 00:00:00.000000", "SERAFINI TITO", "Director", "S", 0.07, -20788, 1455.0, "Class A Common Stock"]]}

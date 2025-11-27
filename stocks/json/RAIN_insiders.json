@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RAIN", "2025-09-12 00:00:00.000000", "DICKERSON LYMAN B", "Director", "S", 5.78, -4787, 27669.0, "Class A Common Stock"]]}

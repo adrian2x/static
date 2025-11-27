@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SUNWQ", "2024-01-16 00:00:00.000000", "TROUT MARK", "Chief Executive Officer", "F", 0.21, -11090, 2329.0, "Common Stock"]]}

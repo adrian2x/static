@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HTAX", "2025-09-30", "HARBOR GROUP INC", "FND", 0.0254, 11.0677, 655736.0, 15950905.0, 24.0], ["HTAX", "2025-09-30", "PROSPERA FINANCIAL SERVICES INC", "FND", 0.0, -0.2142, 9060.0, 220383.0, 24.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MITQ", "2024-10-30 00:00:00.000000", "GODFREY FRANCOIS", "President COO", "A", 0.65, 200000, 130000.0, "Employee Stock Options right to buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FDEQX", "2025-09-30", "NORTH POINT PORTFOLIO MANAGERS CORP", "FND", 0.0004, 0.0, 2970.0, 228908.0, 77.0], ["FDEQX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0001, null, 465.0, 35867.0, 77.0]]}

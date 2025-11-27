@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DZSI", "2024-12-10 00:00:00.000000", "VOGT CHARLES D", "President  CEO", "P", 0.85, 10000, 8500.0, "Common Stock"]]}

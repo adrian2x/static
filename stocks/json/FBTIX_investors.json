@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FBTIX", "2025-09-30", "SEQUENT ASSET MANAGEMENT LLC", "FND", 0.0034, null, 19698.0, 718779.0, 36.0], ["FBTIX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0001, null, 981.0, 35789.0, 36.0]]}

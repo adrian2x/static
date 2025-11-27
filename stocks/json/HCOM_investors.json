@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HCOM", "2025-06-30", "CORECAP ADVISORS LLC", "FND", 0.0, null, 100.0, 1455.0, 14.0], ["HCOM", "2025-06-30", "EVERSOURCE WEALTH ADVISORS LLC", "FND", 0.0, null, 27.0, 393.0, 14.0]]}

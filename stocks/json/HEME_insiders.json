@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HEME", "2025-08-15 00:00:00.000000", "TIERNEY TERRENCE MCGILL", "President", "A", 2693.0, 7695, 20722635.0, "Common Stock"]]}

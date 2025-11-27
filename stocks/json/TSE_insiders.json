@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TSE", "2025-10-03 00:00:00.000000", "HENDRIKS HAN", "SVP CHIEF TECHNOLOGY OFFICER", "F", 2.33, -2067, 4816.0, "Ordinary Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BXMX", "2025-02-20 00:00:00.000000", "LAMB DAVID J", "Vice President", "S", 14.2, -3000, 42600.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EVFM", "2024-01-12 00:00:00.000000", "ZHANG YAN 1", "CFO", "S", 0.04, -104, 4.0, "Common Stock"]]}

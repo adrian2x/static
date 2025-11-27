@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SHRG", "2025-03-31 00:00:00.000000", "CHAN HENG FAI AMBROSE", "Director", "P", 0.85, 937500, 796875.0, "Common Stock Purchase Warrants"]]}

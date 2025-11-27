@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HOFV", "2025-06-27 00:00:00.000000", "HESS ERIC WILLIAM", "SVP of Finance", "F", 0.79, -113, 89.0, "Common Stock"]]}

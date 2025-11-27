@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FSPSX", "2025-09-30", "ROWLANDMILLER PARTNERSADV", "FND", 0.0007, 0.0, 6152.0, 369046.0, 59.0], ["FSPSX", "2025-09-30", "SEQUENT ASSET MANAGEMENT LLC", "FND", 0.0017, null, 6134.0, 367909.0, 59.0]]}

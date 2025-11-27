@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MCHB1", "2025-06-30", "SIENA CAPITAL PARTNERS GP LLC", "SHR", 0.0121, null, 107.0, 4154900.0, 38830.0], ["MCHB1", "2025-06-30", "EMERALD MUTUAL FUND ADVISERS TRUST", "SHR", 0.0012, null, 53.0, 1934500.0, 36500.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FKGRX", "2025-09-30", "MOODY LYNN LIEBERSON LLC", "FND", 0.0002, null, 2758.0, 417890.0, 151.0], ["FKGRX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0001, null, 453.0, 68602.0, 151.0]]}

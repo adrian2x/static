@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ATGFF", "2025-09-30", "MN SERVICES VERMOGENSBEHEER BV", "SHR", 0.0002, 0.0, 109300.0, 3368000.0, 30.0], ["ATGFF", "2025-09-30", "NBC SECURITIES INC", "SHR", 0.0, 0.0, 950.0, 29355.0, 30.0]]}

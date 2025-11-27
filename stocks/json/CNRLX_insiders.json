@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CNRLX", "2023-12-08 00:00:00.000000", "WOLFORD JAMES R", "Director", "S", 13.72, -3097, 42500.0, "Shares of Beneficial Interest"]]}

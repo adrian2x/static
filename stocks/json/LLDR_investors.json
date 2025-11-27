@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LLDR", "2025-09-30", "MIRAE ASSET GLOBAL INVESTMENTS CO LTD", "FND", 0.0001, 0.0, 53800.0, 2488847.0, 46.0], ["LLDR", "2025-09-30", "MIRAE ASSET GLOBAL ETFS HOLDINGS LTD", "FND", 0.0, null, 25000.0, 1156528.0, 46.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["QUSA", "2025-09-30", "NAVITER WEALTH LLC", "FND", 0.0003, null, 12500.0, 244125.0, 19.0], ["QUSA", "2025-09-30", "HARBOUR INVESTMENTS INC", "FND", 0.0, null, 868.0, 16952.0, 19.0]]}

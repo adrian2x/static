@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["OKLL", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, null, 21906.0, 1319836.0, 60.0], ["OKLL", "2025-09-30", "HRT FINANCIAL LP", "FND", 0.0, null, 9888.0, 595000.0, 60.0]]}

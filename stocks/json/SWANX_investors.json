@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SWANX", "2025-09-30", "GAME PLAN FINANCIAL ADVISORS LLC", "FND", 0.0004, 0.1704, 4024.0, 103170.0, 25.0], ["SWANX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0001, null, 988.0, 25320.0, 25.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATAO", "2025-02-27 00:00:00.000000", "LOVALLO LEONARD", "President", "C", 0.03, 640000, 16000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BSFIX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0002, 0.0, 1961.0, 65000.0, 33.0], ["BSFIX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 108.0, 3598.0, 33.0]]}

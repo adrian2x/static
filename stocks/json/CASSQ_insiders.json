@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CASSQ", "2024-01-01 00:00:00.000000", "DURKIN EDWARD", "Chief Financial Officer", "F", 0.53, -21656, 11478.0, "Common Stock"]]}

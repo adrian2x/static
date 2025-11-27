@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NWPX", "2025-11-24 00:00:00.000000", "BRITTAIN MILES", "Executive Vice President", "S", 56.41, -4000, 225640.0, "Common Stock"]]}

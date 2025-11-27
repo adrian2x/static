@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GEAR", "2024-12-18 00:00:00.000000", "NYMAN ERIC", "President  CEO", "F", 19.01, -23057, 438314.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RR", "2025-09-22 00:00:00.000000", "ZHENG PHIL", "Chief Operating Officer", "S", 5.11, -100000, 511000.0, "Class B Common Stock"]]}

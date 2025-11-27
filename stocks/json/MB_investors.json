@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MB", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0002, null, 49410.0, 422456.0, 8.0], ["MB", "2025-09-30", "GEODE CAPITAL MANAGEMENT LLC", "SHR", 0.0, 0.0, 10878.0, 93006.0, 8.0]]}

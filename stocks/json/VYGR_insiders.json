@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VYGR", "2025-10-03 00:00:00.000000", "JORGENSEN NATHAN D", "Chief Financial Officer", "S", 4.78, -7666, 36643.0, "Common Stock"]]}

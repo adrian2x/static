@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BMXI", "2025-10-07 00:00:00.000000", "PITTMAN JEFFREY STEPHEN", "Director", "S", 0.06, -321200, 18951.0, "COMMON STOCK"]]}

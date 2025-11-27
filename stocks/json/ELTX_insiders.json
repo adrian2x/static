@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ELTX", "2025-06-03 00:00:00.000000", "CHUDNOVSKY YEKATERINA", "Director", "A", 7.75, 103225, 799994.0, "Warrant right to buy"]]}

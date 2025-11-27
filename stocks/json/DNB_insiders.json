@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DNB", "2025-08-14 00:00:00.000000", "FOLEY WILLIAM P II", "Executive Chairman", "S", 9.09, -2500000, 22725000.0, "Common Stock"]]}

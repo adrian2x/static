@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KYN", "2025-11-24 00:00:00.000000", "BAKER JAMES C", "President", "P", 11.74, 25000, 293500.0, "Common Stock"]]}

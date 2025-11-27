@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TSMZ", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, 0.2562, 27086.0, 367438.0, 13.0], ["TSMZ", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, null, 16047.0, 217694.0, 13.0]]}

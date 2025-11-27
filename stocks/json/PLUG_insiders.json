@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PLUG", "2025-11-10 00:00:00.000000", "HAYCRAFT BENJAMIN", "CSO  EVP of EMEA Region", "S", 2.92, -10000, 29200.0, "Common Stock"]]}

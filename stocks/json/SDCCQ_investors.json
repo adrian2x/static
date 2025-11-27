@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SDCCQ", "2025-09-30", "FIRST NATIONAL TRUST CO", "SHR", 0.0, 0.0, 10000.0, 1.0, 0.0], ["SDCCQ", "2025-09-30", "HANTZ FINANCIAL SERVICES INC", "SHR", 0.0, null, 130.0, 0.0, 0.0]]}

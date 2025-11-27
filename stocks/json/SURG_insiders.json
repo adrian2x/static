@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SURG", "2025-06-06 00:00:00.000000", "MAY DAVID ALLEN", "Director", "S", 2.81, -63000, 177282.0, "Shares of Common Stock"]]}

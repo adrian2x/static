@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GNSS", "2025-02-14 00:00:00.000000", "KLAHN DENNIS D", "CFOSecretary", "F", 3.38, -4108, 13885.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["UYSCU", "2025-09-30", "RIVERNORTH CAPITAL MANAGEMENT LLC", "SHR", 0.0004, -0.7381, 65465.0, 676908.0, 10.0], ["UYSCU", "2025-09-30", "CLEAR STREET GROUP INC", "SHR", 0.0, null, 55687.0, 574690.0, 10.0]]}

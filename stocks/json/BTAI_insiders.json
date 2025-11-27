@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BTAI", "2025-01-15 00:00:00.000000", "PATNI RAJIV", "Director", "A", 0.35, 44000, 15224.0, "Stock Option right to buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ARDC", "2024-05-24 00:00:00.000000", "SHAW JOHN JOSEPH", "Director", "S", 14.18, -4124, 58474.0, "Common Stock"]]}

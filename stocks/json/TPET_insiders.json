@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TPET", "2025-10-20 00:00:00.000000", "RANDALL JOHN W", "Director", "S", 1.05, -3500, 3675.0, "Common Stock"]]}

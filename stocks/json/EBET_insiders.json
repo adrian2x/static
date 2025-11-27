@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EBET", "2023-12-29 00:00:00.000000", "SPEACH AARON", "Chief Executive Officer", "S", 0.01, -6667, 67.0, "Common Stock"]]}

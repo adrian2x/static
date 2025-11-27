@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PC", "2025-06-30", "HRT FINANCIAL LP", "SHR", 0.0, null, 25644.0, 17000.0, 0.0], ["PC", "2025-06-30", "TWO SIGMA SECURITIES LLC", "SHR", 0.0, null, 12754.0, 8600.0, 0.0]]}

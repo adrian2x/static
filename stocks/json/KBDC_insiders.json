@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KBDC", "2025-09-29 00:00:00.000000", "SMITH RHONDA SCOTT", "Director", "P", 13.68, 365, 4992.0, "Common Stock"]]}

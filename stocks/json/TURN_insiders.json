@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TURN", "2025-06-10 00:00:00.000000", "BIGELOW ROBERT E III", "VP Head of Fund Development", "P", 3.97, 2000, 7958.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CLCG", "2025-09-30", "BARE FINANCIAL SERVICES INC", "FND", 0.0285, null, 352546.0, 9530482.0, 27.0], ["CLCG", "2025-09-30", "ONEASCENT WEALTH MANAGEMENT LLC", "FND", 0.0016, null, 18112.0, 489627.0, 27.0]]}

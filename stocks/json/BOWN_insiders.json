@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BOWN", "2025-05-12 00:00:00.000000", "HARRADEN CIRCLE INVESTMENTS LLC", "10% Owner", "S", 12.12, -5432, 65820.0, "Ordinary Shares"]]}

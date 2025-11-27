@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AQMS", "2025-11-20 00:00:00.000000", "WEST ERIC", "Chief Financial Officer", "F", 9.8, -720, 7056.0, "Common Stock"]]}

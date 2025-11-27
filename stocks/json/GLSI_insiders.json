@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GLSI", "2025-11-13 00:00:00.000000", "PATEL SNEHAL", "CEO and CFO", "A", 8.2, 100000, 820000.0, "Stock Options"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OPK", "2025-11-21 00:00:00.000000", "FROST PHILLIP MD ET AL", "CEO  Chairman", "P", 1.32, 580000, 768807.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DKL", "2025-11-05 00:00:00.000000", "SPIEGEL REUVEN", "Executive Vice President DKL", "S", 45.0, -250, 11250.0, "Common Units"]]}

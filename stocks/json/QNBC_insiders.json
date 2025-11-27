@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["QNBC", "2025-11-20 00:00:00.000000", "BIMES RANDY S", "Director", "P", 35.1, 1985, 69674.0, "Common Stock"]]}

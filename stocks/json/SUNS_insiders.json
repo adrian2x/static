@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SUNS", "2025-11-24 00:00:00.000000", "TANNENBAUM LEONARD M", "Executive Chairman", "P", 9.72, 13000, 126360.0, "Common Stock"]]}

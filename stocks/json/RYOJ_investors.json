@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RYOJ", "2025-09-30", "BANQUE CANTONALE VAUDOISE", "SHR", 0.0026, null, 144936.0, 6977000.0, 48.0], ["RYOJ", "2025-09-30", "VIRTU FINANCIAL LLC", "SHR", 0.0, null, 10214.0, 20000.0, 1.0]]}

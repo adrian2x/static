@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VPADX", "2025-09-30", "DEMPZE NANCY E", "FND", 0.0017, 0.0, 2851.0, 311534.0, 109.0], ["VPADX", "2025-09-30", "HURLEY CAPITAL LLC", "FND", 0.0015, null, 2451.0, 267831.0, 109.0]]}

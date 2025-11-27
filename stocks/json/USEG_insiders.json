@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["USEG", "2025-10-27 00:00:00.000000", "BATCHELOR JOSHUA LANE", "10% Owner", "S", 1.25, -167438, 209298.0, "Common Stock"]]}

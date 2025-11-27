@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GGRW", "2025-09-30", "ROCKEFELLER CAPITAL MANAGEMENT LP", "FND", 0.0, null, 230.0, 8104.0, 35.0], ["GGRW", "2025-09-30", "FORTITUDE FAMILY OFFICE LLC", "FND", 0.0, null, 22.0, 775.0, 35.0]]}

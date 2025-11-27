@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ELTP", "2025-10-02 00:00:00.000000", "PLASSCHE DOUGLAS", "EVP Operations", "S", 0.62, -800000, 499200.0, "common stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["OTCFX", "2025-09-30", "WESTSIDE INVESTMENT MANAGEMENT INC", "FND", 0.0001, null, 1234.0, 74029.0, 59.0]]}

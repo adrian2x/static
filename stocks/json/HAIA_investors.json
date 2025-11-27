@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HAIA", "2025-09-30", "METEORA CAPITAL LLC", "SHR", 0.0015, null, 109194.0, 1375844.0, 12.0], ["HAIA", "2025-09-30", "METEORA CAPITAL LLC", "WNT", 0.0, 4.0318, 549447.0, 16538.0, 0.0]]}

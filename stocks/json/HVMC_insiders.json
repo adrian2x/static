@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HVMC", "2025-08-11 00:00:00.000000", "HIGHVIEW SPONSOR CO LLC", "Director", "A", 10.0, 372500, 3725000.0, "Class A Common Stock"]]}

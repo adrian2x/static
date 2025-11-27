@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SOAR", "2025-11-01 00:00:00.000000", "LIOTTA MATTHEW", "Chief Executive Officer", "A", 1.67, 15287, 25529.0, "Common Stock"]]}

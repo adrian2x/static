@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ABCS", "2025-09-30", "EVANSON ASSET MANAGEMENT LLC", "FND", 0.0017, -0.0011, 99972.0, 3011427.0, 30.0], ["ABCS", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0002, 0.4674, 14612.0, 440157.0, 30.0]]}

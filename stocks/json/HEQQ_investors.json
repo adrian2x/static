@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HEQQ", "2025-09-30", "KOSHINSKI ASSET MANAGEMENT INC", "FND", 0.0007, 1.5218, 17839.0, 1019713.0, 57.0], ["HEQQ", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, -0.4862, 10938.0, 625244.0, 57.0]]}

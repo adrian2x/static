@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MFI", "2025-09-30", "AWM INVESTMENT COMPANY INC", "SHR", 0.0007, -0.8308, 19146.0, 703615.0, 36.0], ["MFI", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, null, 25.0, 926.0, 37.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PXINX", "2025-09-30", "FIRST MERCHANTS CORP", "FND", 0.0001, 0.0659, 26723.0, 337231.0, 12.0], ["PXINX", "2025-09-30", "RICHARDSON FINANCIAL SERVICES INC", "FND", 0.0, 0.0, 315.0, 3970.0, 12.0]]}

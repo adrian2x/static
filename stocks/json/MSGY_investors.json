@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MSGY", "2025-09-30", "QUADRATURE CAPITAL LTD", "SHR", 0.0001, null, 31781.0, 647379.0, 20.0], ["MSGY", "2025-09-30", "STATE OF WYOMING", "SHR", 0.0001, null, 4802.0, 98201.0, 20.0]]}

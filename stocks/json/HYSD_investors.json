@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HYSD", "2025-09-30", "AMERIPRISE FINANCIAL INC", "FND", 0.0002, 0.0014, 4854850.0, 98990391.0, 20.0], ["HYSD", "2025-09-30", "ENVESTNET ASSET MANAGEMENT INC", "FND", 0.0, null, 53364.0, 1088092.0, 20.0]]}

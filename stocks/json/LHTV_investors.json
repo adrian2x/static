@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LHTV", "2025-09-30", "FIRST NATIONAL BANK OF OMAHA", "SHR", 0.0001, null, 21679.0, 237610.0, 10.0], ["LHTV", "2025-09-30", "AMERIFLEX GROUP INC", "SHR", 0.0001, null, 3346.0, 36673.0, 10.0]]}

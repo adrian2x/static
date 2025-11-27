@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ENFN", "2025-04-21 00:00:00.000000", "BASTONE BRONWEN", "Chief People Officer", "D", 9.86, -10000, 98600.0, "Stock Option Right to Buy"]]}

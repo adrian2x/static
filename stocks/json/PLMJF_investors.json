@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PLMJF", "2025-09-30", "JABODON PT CO", "SHR", 0.0008, 0.0, 333333.0, 78000.0, 0.0], ["PLMJF", "2025-09-30", "METEORA CAPITAL LLC", "SHR", 0.0, null, 217458.0, 36968.0, 0.0]]}

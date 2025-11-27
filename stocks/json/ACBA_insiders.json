@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACBA", "2024-05-23 00:00:00.000000", "HARRADEN CIRCLE INVESTMENTS LLC", "10% Owner", "S", 12.1, -50000, 605000.0, "Ordinary Shares"]]}

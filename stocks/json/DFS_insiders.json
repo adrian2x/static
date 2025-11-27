@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DFS", "2025-05-01 00:00:00.000000", "HELLEN AMY", "EVP Chief Risk Officer", "F", 182.55, -176, 32129.0, "Common Stock"]]}

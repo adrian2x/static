@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CIIT", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, 0.1323, 23674.0, 13000.0, 0.0], ["CIIT", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 19221.0, 10723.0, 0.0]]}

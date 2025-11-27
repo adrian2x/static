@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LOAN", "2025-11-19 00:00:00.000000", "BENTOVIM LYRON L", "Director", "P", 4.52, 1757, 7942.0, "Common Stock"]]}

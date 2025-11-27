@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HFBL", "2025-11-19 00:00:00.000000", "BARLOW JAMES R", "Chairman President  CEO", "D", 15.36, -4179, 64189.0, "Common Stock"]]}

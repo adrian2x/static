@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IBIL", "2025-09-30", "BRADLEY CO PRIVATE WEALTH MANAGEMENT LLC", "FND", 0.0015, null, 10826.0, 279512.0, 25.0], ["IBIL", "2025-09-30", "FLOW TRADERS US LLC", "FND", 0.0001, -0.8637, 8141.0, 210000.0, 25.0]]}

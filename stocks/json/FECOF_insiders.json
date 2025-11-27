@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FECOF", "2025-07-31 00:00:00.000000", "PXP ENERGY CORP", "10% Owner", "J", 0.01, 131563725, 1184074.0, "Common Shares"]]}

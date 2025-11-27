@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PSTR", "2025-09-30", "CALTON ASSOCIATES INC", "FND", 0.0427, 0.1202, 1000495.0, 28458781.0, 28.0], ["PSTR", "2025-09-30", "FMR LLC", "FND", 0.0, null, 1.0, 28.0, 28.0]]}

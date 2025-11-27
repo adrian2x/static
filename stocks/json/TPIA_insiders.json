@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TPIA", "2025-07-25 00:00:00.000000", "KAPLAN BENJAMIN NATHANIEL", "CEO", "A", 0.0, 75000000, 225000.0, "Common Stock"]]}

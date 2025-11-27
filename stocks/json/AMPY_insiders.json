@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMPY", "2025-11-14 00:00:00.000000", "DULANY ERIC EDWARD", null, "F", 5.63, -20090, 113107.0, "Common Stock par value 0.01 per share"]]}

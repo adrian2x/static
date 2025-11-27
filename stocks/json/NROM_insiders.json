@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NROM", "2024-11-24 00:00:00.000000", "HERBST MARCEL", "Director", "S", 0.34, -60000, 20280.0, "Common Stock"]]}

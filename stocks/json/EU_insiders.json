@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EU", "2025-10-14 00:00:00.000000", "STOVER DENNIS", "Director", "S", 3.54, -20000, 70740.0, "Common Shares"]]}

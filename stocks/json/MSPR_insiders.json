@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MSPR", "2024-11-06 00:00:00.000000", "PALANTIR TECHNOLOGIES INC", "", "S", 0.13, -506296, 65818.0, "Class A Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GDMK", "2024-08-29 00:00:00.000000", "ADLER PAUL", "Chairman and CEO", "I", 0.07, 2482347, 178729.0, "Common stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BHILQ", "2024-06-15 00:00:00.000000", "ELSNER ADRIENNE", "CEO", "F", 0.17, -214321, 35363.0, "Common Stock"]]}

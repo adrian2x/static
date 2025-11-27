@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FXBY", "2025-01-03 00:00:00.000000", "WINMILL WOODWORTH BORST", "Director", "P", 17.15, 200, 3430.0, "Common Stock"]]}

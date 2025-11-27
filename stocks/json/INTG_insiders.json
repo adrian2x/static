@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["INTG", "2025-06-27 00:00:00.000000", "WINFIELD JOHN V", "PRESIDENT  CEO", "P", 13.68, 600, 8208.0, "COMMON STOCK"]]}

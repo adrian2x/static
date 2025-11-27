@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ASGI", "2025-09-26 00:00:00.000000", "BAIRD GORDON A", "Director", "P", 20.43, 411, 8397.0, "Common Stock"]]}

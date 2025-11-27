@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RM", "2025-11-25 00:00:00.000000", "BASSWOOD CAPITAL MANAGEMENT LLC", "Director", "S", 37.48, -61032, 2287478.0, "Common Stock"]]}

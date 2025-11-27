@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["WNW", "2025-09-30", "RENAISSANCE TECHNOLOGIES LLC", "SHR", 0.0, null, 13500.0, 26595.0, 1.0], ["WNW", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, -0.4869, 1552.0, 3057.0, 1.0]]}

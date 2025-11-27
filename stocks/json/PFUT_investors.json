@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PFUT", "2025-09-30", "FRANKLIN RESOURCES INC", "FND", 0.0009, 0.04, 14630138.0, 379160508.0, 25.0], ["PFUT", "2025-09-30", "CETERA INVESTMENT ADVISERS", "FND", 0.0, 0.3943, 13091.0, 339272.0, 25.0]]}

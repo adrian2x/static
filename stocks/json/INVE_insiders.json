@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["INVE", "2025-10-15 00:00:00.000000", "NEWQUIST KIRSTEN F", "Chief Executive Officer", "F", 3.45, -6348, 21901.0, "Common Stock"]]}

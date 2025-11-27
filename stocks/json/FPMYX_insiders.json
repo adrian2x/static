@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FPMYX", "2024-11-13 00:00:00.000000", "SMITH BRIAN P", "President", "P", 20.41, 2449, 50000.0, "Felicitas Private Markets Fund"]]}

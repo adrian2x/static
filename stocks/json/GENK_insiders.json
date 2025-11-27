@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GENK", "2025-07-25 00:00:00.000000", "COWAN MICHAEL", "Director", "A", 4.2, 6000, 25200.0, "Class A Common Stock"]]}

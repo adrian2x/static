@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OPBK", "2025-06-24 00:00:00.000000", "OH SANG KYO", "CEO In Transit", "M", 12.25, 9000, 110250.0, "Common Stock"]]}

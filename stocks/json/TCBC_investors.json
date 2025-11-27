@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TCBC", "2025-09-30", "MALTESE CAPITAL MANAGEMENT LLC", "SHR", 0.0016, 0.1239, 49900.0, 1047900.0, 21.0], ["TCBC", "2025-09-30", "THOMASVILLE NATIONAL BANK", "SHR", 0.0004, -0.0601, 29713.0, 623973.0, 21.0]]}

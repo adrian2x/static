@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BKOR", "2025-09-30", "SIENA CAPITAL PARTNERS GP LLC", "SHR", 0.0094, 0.0041, 122152.0, 3267566.0, 26.0], ["BKOR", "2025-09-30", "HORIZON FINANCIAL SERVICES LLC", "SHR", 0.0, null, 100.0, 2680.0, 26.0]]}

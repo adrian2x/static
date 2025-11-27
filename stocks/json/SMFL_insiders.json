@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SMFL", "2024-09-11 00:00:00.000000", "HRT FINANCIAL LP", "10% Owner", "S", 0.86, -39093, 33620.0, "Class A Shares"]]}

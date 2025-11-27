@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADX", "2024-10-31 00:00:00.000000", "NELSON JANE MUSSER 1", "Director", "P", 21.69, 1155, 25048.0, "Common Stock"]]}

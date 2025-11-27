@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VMCS", "2023-12-12 00:00:00.000000", "PETERSON DARRELL L", "CHIEF EXECUTIVE OFFICER", "A", 0.0, 50000, 200.0, "Common Stock 0.0001 par value"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RULE", "2025-09-30", "AE WEALTH MANAGEMENT LLC", "FND", 0.0002, -0.0872, 144517.0, 3299104.0, 22.0], ["RULE", "2025-09-30", "ROGCO LP", "FND", 0.0001, null, 1159.0, 26458.0, 22.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CMCI", "2025-09-30", "VAN ECK ASSOCIATES CORP", "FND", 0.0, 0.0, 60000.0, 1538000.0, 25.0], ["CMCI", "2025-09-30", "JNBA FINANCIAL ADVISORS", "FND", 0.0, 0.0, 260.0, 6664.0, 25.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SRHR", "2025-09-30", "SRH ADVISORS LLC", "FND", 0.142, 0.0, 878259.0, 48646613.0, 55.0], ["SRHR", "2025-09-30", "NEWEDGE ADVISORS LLC", "FND", 0.0, -0.1016, 4413.0, 244456.0, 55.0]]}

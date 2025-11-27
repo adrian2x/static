@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HQIIX", "2025-09-30", "HURLEY CAPITAL LLC", "FND", 0.0019, null, 15753.0, 340260.0, 21.0], ["HQIIX", "2025-09-30", "WESTSIDE INVESTMENT MANAGEMENT INC", "FND", 0.0004, 0.0, 10175.0, 220707.0, 21.0]]}

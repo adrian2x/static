@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BMNM", "2025-08-07 00:00:00.000000", "DWYER ROBERT J", "Director", "P", 1.05, 200, 210.0, "Class A Common Stock"]]}

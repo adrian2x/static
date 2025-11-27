@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NEA", "2025-09-10 00:00:00.000000", "JONES NATHANIEL T", "Vice President", "S", 11.35, -400, 4540.0, "Common Stock"]]}

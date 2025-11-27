@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LFAE", "2025-06-30", "STONE RIDGE HOLDINGS GROUP LP", "FND", 0.0012, null, 2800.0, 332585.0, 118.0], ["LFAE", "2025-06-30", "CWM LLC", "FND", 0.0, null, 640.0, 76000.0, 118.0]]}

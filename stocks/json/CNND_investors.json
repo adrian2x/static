@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CNND", "2025-09-30", "SIENA CAPITAL PARTNERS GP LLC", "SHR", 0.0051, 0.0565, 9355.0, 1777450.0, 190.0], ["CNND", "2025-09-30", "RANSOM ADVISORY LTD", "SHR", 0.0009, null, 1000.0, 190000.0, 190.0]]}

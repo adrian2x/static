@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TEPLX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 1019.0, 31852.0, 31.0], ["TEPLX", "2025-09-30", "ESTABROOK CAPITAL MANAGEMENT", "FND", 0.0, 0.0, 586.0, 18313.0, 31.0]]}

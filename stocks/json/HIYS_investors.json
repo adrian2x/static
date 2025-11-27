@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HIYS", "2025-09-30", "BENJAMIN EDWARDS INC", "FND", 0.0004, 0.1377, 127642.0, 3288642.0, 25.0], ["HIYS", "2025-09-30", "INVESCO LTD", "FND", 0.0, 0.0, 36000.0, 927540.0, 25.0]]}

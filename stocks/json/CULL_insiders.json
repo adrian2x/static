@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CULL", "2024-05-29 00:00:00.000000", "RILEY JOHN A III", "President and CEO", "P", 10.36, 3500, 36260.0, "Common Stock"]]}

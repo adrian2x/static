@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GHIX", "2024-12-06 00:00:00.000000", "MOORE CAPITAL MANAGEMENT LP", "10% Owner", "J", 10.15, -1000000, 10154000.0, "Class A Common Stock"]]}

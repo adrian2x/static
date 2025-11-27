@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ETCO", "2025-09-30", "MADDEN SECURITIES CORP", "FND", 0.0033, null, 34825.0, 1090507.0, 31.0], ["ETCO", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 20473.0, 641089.0, 31.0]]}

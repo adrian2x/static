@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FORH", "2025-09-30", "FORMIDABLE ASSET MANAGEMENT LLC", "FND", 0.0294, -0.0623, 815090.0, 18665316.0, 22.0], ["FORH", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0002, null, 23011.0, 588921.0, 25.0]]}

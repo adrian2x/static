@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EFR", "2024-10-15 00:00:00.000000", "BANK OF AMERICA CORP", "10% Owner", "S", 12.71, -1800, 22869.0, "Common Stock"]]}

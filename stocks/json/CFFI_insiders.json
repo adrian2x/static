@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CFFI", "2025-08-22 00:00:00.000000", "CHERRY THOMAS F", "PRESIDENT  CEO", "S", 71.0, -1205, 85555.0, "Common Stock"]]}

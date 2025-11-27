@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BLUE", "2025-06-30", "RUSSELL INVESTMENTS GROUP LTD", "SHR", 0.0, null, 1386.0, 6888.0, 4.0], ["BLUE", "2025-06-30", "IFP ADVISORS INC", "SHR", 0.0, null, 7.0, 3.0, 0.0]]}

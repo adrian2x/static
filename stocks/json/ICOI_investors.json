@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ICOI", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0003, 1.1379, 42908.0, 1479467.0, 34.0], ["ICOI", "2025-09-30", "ARAX ADVISORY PARTNERS", "FND", 0.0, null, 15.0, 661.0, 44.0]]}

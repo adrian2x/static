@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TLRS", "2024-08-31 00:00:00.000000", "CRESCAT PORTFOLIO MANAGEMENT LLC", "10% Owner", "U", 0.08, -34106, 2728.0, "Warrant"]]}

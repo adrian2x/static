@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["EZJ", "2025-09-30", "SG AMERICAS SECURITIES LLC", "FND", 0.0, 0.0, 11600.0, 567000.0, 48.0], ["EZJ", "2025-09-30", "MONETA GROUP INVESTMENT ADVISORS LLC", "FND", 0.0, null, 4200.0, 205225.0, 48.0]]}

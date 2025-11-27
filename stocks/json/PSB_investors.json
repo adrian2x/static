@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PSB", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "PRF", 0.0001, -0.008, 11650.0, 125005.0, 10.0], ["PSB", "2025-09-30", "ORG PARTNERS LLC", "PRF", 0.0, 0.0, 24.0, 256.0, 10.0]]}

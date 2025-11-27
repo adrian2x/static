@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TRIO", "2025-09-30", "MCCARTHY COX", "FND", 0.2431, 0.0064, 1634430.0, 106561731.0, 65.0], ["TRIO", "2025-09-30", "WOLVERINE TRADING LLC", "FND", 0.0, 0.1985, 6238.0, 405764.0, 65.0]]}

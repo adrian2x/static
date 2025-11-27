@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IQHI", "2025-09-30", "NEW YORK LIFE INVESTMENT MANAGEMENT LLC", "FND", 0.0066, 0.3044, 2812841.0, 74849698.0, 26.0], ["IQHI", "2025-09-30", "TRIUMPH CAPITAL MANAGEMENT", "FND", 0.0, null, 191.0, 5083.0, 26.0]]}

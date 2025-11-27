@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GSFTX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0002, null, 9086.0, 334557.0, 36.0], ["GSFTX", "2025-09-30", "SPIRIT OF AMERICA MANAGEMENT CORP", "FND", 0.0002, 0.0178, 2235.0, 82187.0, 36.0]]}

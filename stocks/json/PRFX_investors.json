@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PRFX", "2025-09-30", "TWO SIGMA SECURITIES LLC", "SHR", 0.0, null, 16186.0, 22660.0, 1.0], ["PRFX", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, 0.0, 6.0, 8.0, 1.0]]}

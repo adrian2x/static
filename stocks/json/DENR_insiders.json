@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DENR", "2023-12-04 00:00:00.000000", "MCKENZIE KEITH J", "CEO", "S", 0.03, -2045000, 61350.0, "Common"]]}

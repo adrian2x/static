@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VSMGX", "2025-09-30", "ARVEST BANK TRUST DIVISION", "FND", 0.0034, -0.0012, 175035.0, 6161238.0, 35.0], ["VSMGX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 892.0, 31388.0, 35.0]]}

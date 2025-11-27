@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RGLS", "2025-06-30", "PEAK6 LLC", "PUT", 0.0, null, 25000.0, 204000.0, 8.0], ["RGLS", "2025-06-30", "IFP ADVISORS INC", "SHR", 0.0, null, 0.0, 760.0, null]]}

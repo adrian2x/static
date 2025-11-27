@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SODI", "2025-11-10 00:00:00.000000", "MATSON MARK", "President and COO", "J", 14.5, 50000, 725000.0, "Common stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CODA", "2025-10-02 00:00:00.000000", "SONDERGAARD NIELS", "10% Owner", "S", 8.15, -150000, 1222500.0, "Common Stock"]]}

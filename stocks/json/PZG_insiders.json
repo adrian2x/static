@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PZG", "2025-06-13 00:00:00.000000", "FCMI PARENT CO", "10% Owner", "P", 0.6, 416000, 249600.0, "Common Stock par value 0.01 per share"]]}

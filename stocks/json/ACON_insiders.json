@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACON", "2025-09-02 00:00:00.000000", "GOULD GREGORY A", "CFO", "A", 7.15, 17000, 121550.0, "Stock Option right to buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["KTCAX", "2025-09-30", "ARVEST BANK TRUST DIVISION", "FND", 0.0002, null, 6738.0, 315565.0, 46.0], ["KTCAX", "2025-09-30", "FERGUSON WELLMAN CAPITAL MANAGEMENT INC", "FND", 0.0, -0.073, 5752.0, 269371.0, 46.0]]}

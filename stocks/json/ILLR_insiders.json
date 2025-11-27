@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ILLR", "2025-02-28 00:00:00.000000", "DIAMOND ROBERT E JR", "Director", "S", 1.04, -129275, 134446.0, "Common Stock"]]}

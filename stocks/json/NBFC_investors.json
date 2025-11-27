@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["NBFC", "2025-09-30", "NEUBERGER BERMAN GROUP LLC", "FND", 0.0004, 0.0003, 1009463.0, 52118474.0, 51.0], ["NBFC", "2025-09-30", "HAREL INSURANCE INVESTMENTS FINANCIAL SERVICES LTD", "FND", 0.0, 0.0, 1.0, 0.0, 0.0]]}

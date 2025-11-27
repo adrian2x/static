@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DVQQ", "2025-09-30", "TACTIVE ADVISORS LLC", "FND", 0.0018, null, 22957.0, 630186.0, 27.0], ["DVQQ", "2025-09-30", "HARBOUR INVESTMENTS INC", "FND", 0.0, 0.0, 170.0, 4667.0, 27.0]]}

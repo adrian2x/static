@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CASS", "2025-10-02 00:00:00.000000", "RESCH MARTIN H", "President  CEO", "P", 38.69, 500, 19345.0, "Common Stock"]]}

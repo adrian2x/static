@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ONFO", "2025-03-26 00:00:00.000000", "TRAINOR ADAM MICHAEL", "Interim CFO COO", "A", 1.08, 200000, 216000.0, "Stock Option Right to Buy"]]}

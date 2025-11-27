@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TLIS", "2024-09-06 00:00:00.000000", "LEONARD BRADEN MICHAEL", "10% Owner", "P", 1.48, 25000, 37100.0, "Common Stock"]]}

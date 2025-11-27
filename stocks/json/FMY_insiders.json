@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FMY", "2025-10-31 00:00:00.000000", "KADLEC THOMAS R", "Director", "P", 12.04, 503, 6056.0, "Common Shares"]]}

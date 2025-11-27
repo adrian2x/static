@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MJSC", "2025-09-30", "VARMA MUTUAL PENSION INSURANCE CO", "FND", 0.0011, null, 355000.0, 17490388.0, 49.0], ["MJSC", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0002, null, 10655.0, 524961.0, 49.0]]}

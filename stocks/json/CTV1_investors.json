@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CTV1", "2025-09-30", "PACER ADVISORS INC", "DBT", 0.0, -0.4792, 138000.0, 138427.0, 1.0], ["CTV1", "2025-09-30", "HUNTINGTON NATIONAL BANK", "SHR", 0.0, 0.0, 1.0, 31.0, 31.0]]}

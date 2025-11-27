@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NATH", "2025-02-11 00:00:00.000000", "GENSON BRIAN S", "Director", "S", 87.22, -1000, 87044.0, "Common Stock"]]}

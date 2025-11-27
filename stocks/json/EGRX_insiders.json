@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EGRX", "2024-02-28 00:00:00.000000", "TARRIFF SCOTT", "10% Owner", "F", 6.27, -2119, 13286.0, "Common Stock"]]}

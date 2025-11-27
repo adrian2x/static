@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HLYK", "2025-03-20 00:00:00.000000", "DENT MICHAEL T", "Chief Executive Officer", "J", 0.04, 1353356, 50074.0, "Warrants"]]}

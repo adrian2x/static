@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BLNE", "2025-11-21 00:00:00.000000", "FREEDMAN JOSEPH DAVID", "Director", "P", 1.46, 3000, 4380.0, "Common Stock"]]}

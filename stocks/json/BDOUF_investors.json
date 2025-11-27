@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BDOUF", "2025-09-30", "BOSTON COMMON ASSET MANAGEMENT LLC", "SHR", 0.0001, -0.0469, 17145.0, 391508.0, 22.0], ["BDOUF", "2025-09-30", "WESTSIDE INVESTMENT MANAGEMENT INC", "SHR", 0.0, null, 298.0, 7226.0, 24.0]]}

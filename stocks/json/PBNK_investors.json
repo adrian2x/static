@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PBNK", "2025-09-30", "SIENA CAPITAL PARTNERS GP LLC", "SHR", 0.0125, 0.0, 211708.0, 4371770.0, 20.0], ["PBNK", "2025-09-30", "BANC FUNDS CO LLC", "SHR", 0.0019, -0.1574, 53514.0, 1102924.0, 20.0]]}

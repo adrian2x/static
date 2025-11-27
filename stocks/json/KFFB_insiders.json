@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KFFB", "2025-06-27 00:00:00.000000", "JOHNSON WILLIAM H", "Director", "S", 2.85, -3597, 10251.0, "Common Stock"]]}

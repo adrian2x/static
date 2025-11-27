@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GXPS", "2025-09-30", "PGIM CUSTOM HARVEST LLC", "FND", 0.0028, null, 756151.0, 18548384.0, 24.0], ["GXPS", "2025-09-30", "COMERICA BANK", "FND", 0.0, null, 1101.0, 27008.0, 24.0]]}

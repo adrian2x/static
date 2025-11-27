@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TGADX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0, null, 508.0, 16020.0, 31.0], ["TGADX", "2025-09-30", "KELLEHER FINANCIAL ADVISORS", "FND", 0.0, null, 211.0, 6654.0, 31.0]]}

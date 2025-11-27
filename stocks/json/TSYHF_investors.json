@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TSYHF", "2025-09-30", "STANLEYLAMAN GROUP LTD", "SHR", 0.0019, 0.0, 995000.0, 1358144.0, 1.0], ["TSYHF", "2025-09-30", "NBC SECURITIES INC", "SHR", 0.0, null, 61.0, 832.0, 13.0]]}

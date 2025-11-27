@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LIVE", "2025-06-24 00:00:00.000000", "ISAAC JON", "CEO  President", "P", 9.24, 21711, 200545.0, "Common Stock"]]}

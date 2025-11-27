@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NCSM", "2025-11-05 00:00:00.000000", "NIPPER ROBERT", "Director", "S", 40.0, -1000, 40000.0, "Common Stock"]]}

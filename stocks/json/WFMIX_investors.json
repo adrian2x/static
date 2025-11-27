@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["WFMIX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0001, null, 570.0, 28697.0, 50.0], ["WFMIX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 123.0, 6192.0, 50.0]]}

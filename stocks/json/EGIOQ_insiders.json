@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EGIOQ", "2024-09-12 00:00:00.000000", "KAPUR AJAY", "Former CTO", "S", 1.72, -143026, 246005.0, "Common Stock"]]}

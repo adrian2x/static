@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VMRXX", "2025-09-30", "TRANSCE3ND LLC", "FND", 0.0055, 0.0105, 61915.0, 61915.0, 1.0], ["VMRXX", "2025-09-30", "KELLEHER FINANCIAL ADVISORS", "FND", 0.0, null, 866.0, 866.0, 1.0]]}

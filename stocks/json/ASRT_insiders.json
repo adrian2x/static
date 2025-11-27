@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ASRT", "2025-11-13 00:00:00.000000", "REISENAUER MARK L", "CEO", "A", 0.82, 1000000, 825000.0, "Stock Option Right to Buy"]]}

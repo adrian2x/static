@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BAIG", "2025-09-30", "BELVEDERE TRADING LLC", "CLL", 0.0, 1.9072, 28200.0, 522546.0, 18.0], ["BAIG", "2025-09-30", "BELVEDERE TRADING LLC", "PUT", 0.0, null, 9700.0, 179741.0, 18.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FRDAX", "2025-09-30", "TOWER BRIDGE ADVISORS", "FND", 0.0003, 0.0027, 2933.0, 288594.0, 98.0], ["FRDAX", "2025-09-30", "VERMILLION WEALTH MANAGEMENT INC", "FND", 0.0, null, 149.0, 14632.0, 98.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VNSE", "2025-09-30", "VAUGHAN NELSON INVESTMENT MANAGEMENT LP", "FND", 0.0008, -0.0715, 220868.0, 8491933.0, 38.0], ["VNSE", "2025-09-30", "CORIENT PRIVATE WEALTH LLC", "FND", 0.0, 0.0, 22355.0, 859498.0, 38.0]]}

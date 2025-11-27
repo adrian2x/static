@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMTX", "2025-08-14 00:00:00.000000", "BARTON FRANCIS P", "Director", "S", 2.53, -26452, 67029.0, "Common Stock"]]}

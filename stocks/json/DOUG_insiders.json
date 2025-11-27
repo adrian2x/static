@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DOUG", "2025-11-24 00:00:00.000000", "LIEBOWITZ MICHAEL", "President and CEO", "F", 2.41, -196750, 474168.0, "Common Stock"]]}

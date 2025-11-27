@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SFHG", "2025-09-30", "ENGINEERS GATE MANAGER LP", "SHR", 0.0, -0.0506, 12379.0, 8841.0, 0.0], ["SFHG", "2025-09-30", "TWO SIGMA SECURITIES LLC", "SHR", 0.0, null, 11514.0, 8223.0, 0.0]]}

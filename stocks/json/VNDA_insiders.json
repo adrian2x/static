@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VNDA", "2025-08-07 00:00:00.000000", "POLYMEROPOULOS MIHAEL HRISTOS", "President and CEO", "P", 4.15, 10000, 41500.0, "Common Stock"]]}

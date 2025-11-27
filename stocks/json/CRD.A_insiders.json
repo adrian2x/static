@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CRD.A", "2025-05-27 00:00:00.000000", "STEVENSON TAMI E", "SVP-GC  Corp Secy", "S", 10.21, -4900, 50044.0, "Class A Common Stock"]]}

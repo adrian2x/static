@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UPYY", "2025-06-03 00:00:00.000000", "EMERGING MARKETS CONSULTING LLC", "10% Owner", "S", 0.7, -75000, 52500.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IGC", "2024-09-25 00:00:00.000000", "MORAN JAMES P", "Director", "P", 0.34, 588235, 200000.0, "Common Stock"]]}

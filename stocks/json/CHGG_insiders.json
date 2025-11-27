@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CHGG", "2025-10-12 00:00:00.000000", "LONGO DAVID", "CFO  Treasurer", "F", 1.28, -1156, 1480.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LDNXF", "2025-09-30", "BOSTON COMMON ASSET MANAGEMENT LLC", "SHR", 0.0026, -0.0662, 81051.0, 9292226.0, 114.0], ["LDNXF", "2025-09-30", "GENERALI INVESTMENTS CEE INVESTICNI SPOLECNOST AS", "SHR", 0.0004, -0.0068, 4851.0, 555302.0, 114.0]]}

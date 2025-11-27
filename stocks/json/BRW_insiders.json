@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BRW", "2024-07-01 00:00:00.000000", "WEINSTEIN BOAZ", "President", "S", 7.1, -3156, 22408.0, "Common Stock"]]}

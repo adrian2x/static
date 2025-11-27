@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SONM", "2025-06-30 00:00:00.000000", "LYTTON LAURENCE W", "10% Owner", "S", 1.39, -400514, 556714.0, "Common Stock"]]}

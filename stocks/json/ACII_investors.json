@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ACII", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0002, null, 45436.0, 1141125.0, 25.0], ["ACII", "2025-09-30", "MILLINGTON FINANCIAL ADVISORS LLC", "FND", 0.0017, null, 13971.0, 348157.0, 24.0]]}

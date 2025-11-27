@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PLBY", "2025-11-21 00:00:00.000000", "EDMONDS TRACEY E", "Director", "S", 1.65, -75000, 123975.0, "Common Stock"]]}

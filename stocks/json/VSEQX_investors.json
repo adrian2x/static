@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VSEQX", "2025-09-30", "FIFTH THIRD WEALTH ADVISORS LLC", "FND", 0.0001, null, 7795.0, 316701.0, 40.0], ["VSEQX", "2025-09-30", "GREY FOX WEALTH ADVISORS LLC", "FND", 0.0004, null, 4823.0, 195966.0, 40.0]]}

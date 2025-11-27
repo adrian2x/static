@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TCX", "2025-09-08 00:00:00.000000", "IVANOV IVAN", "Chief Financial Officer", "A", 17.38, 20000, 347600.0, "Stock Option Right to Buy"]]}

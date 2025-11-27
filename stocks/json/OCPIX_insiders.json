@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OCPIX", "2025-04-02 00:00:00.000000", "THRIVENT FINANCIAL FOR LUTHERANS", "10% Owner", "P", 25.0, 600000, 15000000.0, "Mandatory Redeemable Preferred Shares Series K"]]}

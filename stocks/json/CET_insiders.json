@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CET", "2025-11-07 00:00:00.000000", "HILL JOHN C", "CEO  President", "P", 50.7, 100, 5070.0, "Common Stock"]]}

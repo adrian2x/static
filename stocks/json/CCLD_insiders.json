@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CCLD", "2025-11-10 00:00:00.000000", "DALY JOHN N", "Director", "S", 3.41, -15000, 51150.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CNDT", "2025-10-31 00:00:00.000000", "FUCCI MICHAEL", "Director", "A", 2.36, 13419, 31669.0, "Common Stock"]]}

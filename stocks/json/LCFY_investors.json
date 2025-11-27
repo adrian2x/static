@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LCFY", "2025-09-30", "CLEAR STREET GROUP INC", "WNT", 0.0, null, 114.0, 1140.0, 10.0], ["LCFY", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, -0.9823, 14.0, 102.0, 7.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NXDR", "2025-11-03 00:00:00.000000", "SCHWARTZ SOPHIA", "General Counsel and Secretary", "S", 1.92, -40000, 76840.0, "Class A Common Stock"]]}

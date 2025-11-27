@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CJAX", "2024-08-20 00:00:00.000000", "GUZY JEFFREY J", "CFO Treasurer Secretary", "P", 0.01, 475000, 4750.0, "Common Stock"]]}

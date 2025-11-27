@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AERT", "2025-11-24 00:00:00.000000", "WEBB DANIEL S", "CFO and CIO", "S", 0.6, -50000, 30050.0, "Class A Ordinary Shares"]]}

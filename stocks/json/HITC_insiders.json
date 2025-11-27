@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HITC", "2025-07-15 00:00:00.000000", "HILLIS DUSTIN MICHAEL", "Pres  Chief Strat Officer", "P", 0.42, 122500, 51572.0, "Common Stock"]]}

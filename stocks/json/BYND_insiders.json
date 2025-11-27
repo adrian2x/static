@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BYND", "2025-11-25 00:00:00.000000", "GRAYSON CHELSEA A", "Director", "S", 0.87, -492, 427.0, "Common Stock"]]}

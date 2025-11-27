@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BMN", "2025-11-18 00:00:00.000000", "BANK OF AMERICA CORP", "10% Owner", "S", 24.56, -1164, 28588.0, "COMMON STOCK"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MSTI", "2025-09-30", "MADISON ASSET MANAGEMENT LLC", "FND", 0.0069, -0.0146, 3038297.0, 62725642.0, 20.0], ["MSTI", "2025-09-30", "CENTRIC WEALTH MANAGEMENT", "FND", 0.0023, 0.0534, 50728.0, 1045758.0, 20.0]]}

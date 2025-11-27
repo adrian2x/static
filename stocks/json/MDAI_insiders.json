@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MDAI", "2025-06-10 00:00:00.000000", "DIMAIO JOHN MICHAEL", "Director", "A", 2.11, 9700, 20467.0, "Common Stock"]]}

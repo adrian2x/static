@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALCE", "2023-12-22 00:00:00.000000", "CLEAN EARTH ACQUISITIONS SPONSOR LLC", "10% Owner", "P", 11.5, 445000, 5117500.0, "Warrants to purchase Common Stock"]]}

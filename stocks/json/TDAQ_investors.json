@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TDAQ", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, null, 13005.0, 340601.0, 26.0], ["TDAQ", "2025-09-30", "PIN OAK INVESTMENT ADVISORS INC", "FND", 0.0, null, 50.0, 1310.0, 26.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACNB", "2025-11-20 00:00:00.000000", "KELLEY SCOTT L", "Director", "P", 40.0, 396, 15840.0, "ACNB Corporation Common"]]}

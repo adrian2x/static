@@ -1,0 +1,1 @@
+{"columns": ["calendardate", "ticker", "securitytype", "pct", "chg", "price", "units", "value"], "data": [["2025-09-30", "FWDI", "SHR", 0.6505, null, 25.0, 7947843.0, 203226346.0], ["2025-09-30", "FIGR", "SHR", 0.3495, null, 36.0, 3002442.0, 109198816.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["WTF", "2025-09-30", "GEODE CAPITAL MANAGEMENT LLC", "SHR", 0.0, 0.946, 29578.0, 182496.0, 6.0], ["WTF", "2025-09-30", "SYMMETRY PEAK MANAGEMENT LLC", "SHR", 0.0003, null, 24440.0, 150795.0, 6.0]]}

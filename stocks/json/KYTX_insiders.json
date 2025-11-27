@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KYTX", "2025-06-30 00:00:00.000000", "GRASSO MARC", "Chief Financial Officer", "A", 3.07, -450000, 1381500.0, "Stock Option right to buy"]]}

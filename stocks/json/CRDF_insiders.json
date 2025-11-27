@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CRDF", "2025-07-30 00:00:00.000000", "PACE GARY W", "Director", "P", 2.45, 290000, 710500.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SONX", "2024-06-21 00:00:00.000000", "BERGHEIM BJARNE", "President and CEO", "S", 0.09, -43240, 3762.0, "Common Stock"]]}

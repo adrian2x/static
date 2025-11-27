@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CTMX", "2025-11-06 00:00:00.000000", "MCCARTHY SEAN A", "CEO", "S", 4.54, -101793, 461937.0, "Class A Common Stock"]]}

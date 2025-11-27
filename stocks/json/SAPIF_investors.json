@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SAPIF", "2025-09-30", "CARDINAL CAPITAL MANAGEMENT INC", "SHR", 0.041, 0.0485, 5843711.0, 142014991.0, 24.0], ["SAPIF", "2025-09-30", "MN SERVICES VERMOGENSBEHEER BV", "SHR", 0.0001, 0.0, 90200.0, 2191000.0, 24.0]]}

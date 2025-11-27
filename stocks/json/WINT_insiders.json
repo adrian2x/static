@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WINT", "2024-10-08 00:00:00.000000", "FRASER CRAIG", "President and CEO", "P", 0.91, 5431, 4942.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DMYY", "2024-10-21 00:00:00.000000", "SANDIA INVESTMENT MANAGEMENT LP", "10% Owner", "S", 10.55, -15002, 158271.0, "Class A Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GNTA", "2025-09-30", "ALLIANZ SE", "SHR", 0.0002, 0.0, 234050.0, 744279.0, 3.0], ["GNTA", "2025-09-30", "ALTI GLOBAL INC", "SHR", 0.0001, 0.0, 200288.0, 636916.0, 3.0], ["GNTA", "2025-09-30", "ALGEBRIS UK LTD", "SHR", 0.0004, 0.0, 100000.0, 327749.0, 3.0]]}

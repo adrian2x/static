@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALZN", "2025-10-23 00:00:00.000000", "MCGRATH LYNNE FAHEY", "Director", "S", 2.29, -30, 69.0, "Common Stock"]]}

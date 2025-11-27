@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TCBS", "2025-06-02 00:00:00.000000", "SOBEL JASON", "President and CEO", "S", 15.58, -1615, 25167.0, "Common Stock"]]}

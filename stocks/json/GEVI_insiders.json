@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GEVI", "2025-10-21 00:00:00.000000", "WARMAN NANUK", "CFO  Secretary", "P", 6.0, 5564, 33384.0, "Warrant"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AKREX", "2025-09-30", "NORTH STAR ASSET MANAGEMENT INC", "FND", 0.0001, 0.0, 3602.0, 231273.0, 64.0], ["AKREX", "2025-09-30", "HURLEY CAPITAL LLC", "FND", 0.0001, null, 349.0, 22379.0, 64.0]]}

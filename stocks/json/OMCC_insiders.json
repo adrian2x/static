@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OMCC", "2025-09-10 00:00:00.000000", "KREBS CHARLES", "CHIEF FINANCIAL OFFICER", "P", 5.41, 591, 3197.0, "COMMON STOCK"]]}

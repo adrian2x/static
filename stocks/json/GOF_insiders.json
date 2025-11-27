@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GOF", "2025-11-04 00:00:00.000000", "BARNES RANDALL C", "Director", "P", 13.08, 380, 4970.0, "Common Stock"]]}

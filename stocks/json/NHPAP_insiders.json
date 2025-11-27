@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NHPAP", "2025-09-27 00:00:00.000000", "ANDERSON MICHAEL RAY", "CEO President  director", "F", 32.15, -19041, 612168.0, "Common Stock"]]}

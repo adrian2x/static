@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LOWLF", "2024-10-15 00:00:00.000000", "BEEHOUSE LLC", "10% Owner", "S", 0.01, -271619, 2716.0, "Subordinate Voting Shares"]]}

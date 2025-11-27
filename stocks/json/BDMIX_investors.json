@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BDMIX", "2025-09-30", "WEALTH GROUP LTD 1", "FND", 0.0025, null, 71846.0, 1060442.0, 14.0], ["BDMIX", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "FND", 0.0001, 0.0011, 10802.0, 159437.0, 14.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SATX", "2025-09-30", "TRIUM CAPITAL LLP", "SHR", 0.009, -0.0358, 780316.0, 2309735.0, 2.0], ["SATX", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 16513.0, 48878.0, 2.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ONEG", "2025-09-30", "DISCOVERY CAPITAL MANAGEMENT LLC", "SHR", 0.0001, null, 15000.0, 169500.0, 11.0], ["ONEG", "2025-09-30", "GEODE CAPITAL MANAGEMENT LLC", "SHR", 0.0, null, 11036.0, 124706.0, 11.0]]}

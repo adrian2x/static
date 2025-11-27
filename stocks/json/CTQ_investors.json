@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CTQ", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "DBT", 0.0003, 0.0, 19775.0, 397478.0, 20.0], ["CTQ", "2025-09-30", "ARCHER INVESTMENT CORP", "DBT", 0.0001, 0.0, 3000.0, 60300.0, 20.0]]}

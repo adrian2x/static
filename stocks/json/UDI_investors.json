@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["UDI", "2025-09-30", "ENVESTNET PORTFOLIO SOLUTIONS INC", "FND", 0.0001, 0.0768, 48863.0, 1534681.0, 31.0], ["UDI", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0002, -0.0137, 18270.0, 573824.0, 31.0]]}

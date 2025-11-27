@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PKTX", "2024-09-26 00:00:00.000000", "SMITH CLARENCE EDWARD", "President  CEO", "P", 0.01, 2000000, 20000.0, "Common Stock"]]}

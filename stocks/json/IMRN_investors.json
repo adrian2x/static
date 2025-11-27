@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IMRN", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 17968.0, 34319.0, 1.0], ["IMRN", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, 0.0, 5939.0, 11343.0, 1.0], ["IMRN", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, 0.0, 10.0, 19.0, 1.0]]}

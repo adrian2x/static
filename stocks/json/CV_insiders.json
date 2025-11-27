@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CV", "2025-11-03 00:00:00.000000", "GARCIA DAVID MICHAEL", "Sr. VP of Finance", "A", 4.78, 165000, 788700.0, "Stock Option right to buy"]]}

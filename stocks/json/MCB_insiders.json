@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MCB", "2025-10-30 00:00:00.000000", "FABIANO ANTHONY J", "Director", "P", 67.88, 147, 9978.0, "Common Stock"]]}

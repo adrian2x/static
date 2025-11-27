@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MBBC", "2025-11-13 00:00:00.000000", "ZILLGES NICHOLAS W", "President and CEO", "P", 11.0, 1325, 14575.0, "Common Stock"]]}

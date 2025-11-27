@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALTS", "2025-08-14 00:00:00.000000", "DANZIGER DAVID C", "Director", "P", 7.3, 10000, 73000.0, "Common Stock"]]}

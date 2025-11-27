@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LIXT", "2025-09-01 00:00:00.000000", "STAZZONE PETER", "Chief Financial Officer", "A", 4.45, 50000, 222500.0, "Options to Purchase Common Stock"]]}

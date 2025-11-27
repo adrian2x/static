@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CEPV", "2025-11-05 00:00:00.000000", "CANTOR EP HOLDINGS V LLC", "10% Owner", "P", 10.0, 540000, 5400000.0, "Class A ordinary shares"]]}

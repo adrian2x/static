@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GDC", "2025-09-30", "MARSHALL WACE LLP", "SHR", 0.0, null, 13354.0, 79190.0, 5.0], ["GDC", "2025-09-30", "BLACKROCK INC", "SHR", 0.0, -0.9668, 983.0, 5829.0, 5.0], ["GDC", "2025-09-30", "PHYSICIAN WEALTH ADVISORS INC", "SHR", 0.0, 0.0, 17.0, 101.0, 5.0]]}

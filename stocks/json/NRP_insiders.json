@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NRP", "2025-09-08 00:00:00.000000", "WOOTEN GREGORY F", "Senior VP Chief Engineer", "S", 100.24, -8607, 862740.0, "Common Units"]]}

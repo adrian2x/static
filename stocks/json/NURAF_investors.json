@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["NURAF", "2025-09-30", "PARADIGM ASSET MANAGEMENT CO LLC", "SHR", 0.0026, null, 30000.0, 1152385.0, 38.0], ["NURAF", "2025-09-30", "PACER ADVISORS INC", "SHR", 0.0, -0.0807, 3532.0, 135491.0, 38.0]]}

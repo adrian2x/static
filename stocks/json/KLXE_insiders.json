@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KLXE", "2025-07-01 00:00:00.000000", "GEVERAN INVESTMENTS LTD", "", "J", 2.0, -25200, 50400.0, "Common Stock"]]}

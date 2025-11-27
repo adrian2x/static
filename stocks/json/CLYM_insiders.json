@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLYM", "2025-10-01 00:00:00.000000", "ALTSCHULLER SUSAN", "Chief Financial Officer", "A", 1.97, 600000, 1182000.0, "Stock Option Right to Buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IRIX", "2025-11-20 00:00:00.000000", "DIZON ROMEO R", "Chief Financial Officer", "P", 0.96, 5760, 5530.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RPMGX", "2025-09-30", "OAKWORTH CAPITAL INC", "FND", 0.0, null, 767.0, 78665.0, 102.0], ["RPMGX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0001, 0.0, 368.0, 37000.0, 100.0]]}

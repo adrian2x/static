@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PSHZF", "2025-09-30", "BEDDOW CAPITAL MANAGEMENT INC", "SHR", 0.0023, 0.0, 10175.0, 630000.0, 61.0], ["PSHZF", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "SHR", 0.0, null, 166.0, 10188.0, 61.0]]}

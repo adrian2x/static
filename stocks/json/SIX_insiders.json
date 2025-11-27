@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SIX", "2024-05-21 00:00:00.000000", "SAMPLE DEREK", "Chief Accounting Officer", "S", 26.44, -2300, 60812.0, "Common Stock par value 0.025 per share"]]}

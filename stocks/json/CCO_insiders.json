@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CCO", "2025-09-10 00:00:00.000000", "ARES MANAGEMENT LLC", "10% Owner", "S", 1.13, -26000000, 29432000.0, "Common Stock"]]}

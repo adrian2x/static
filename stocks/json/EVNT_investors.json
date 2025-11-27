@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["EVNT", "2025-09-30", "SONOMA ALLOCATIONS LLC", "FND", 0.0065, null, 151798.0, 1786543.0, 11.0], ["EVNT", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0004, null, 85661.0, 1011656.0, 11.0]]}

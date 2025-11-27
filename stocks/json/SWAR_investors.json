@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SWAR", "2025-09-30", "IMCCHICAGO LLC", "CLL", 0.0003, 0.4841, 3870300.0, 81702033.0, 21.0], ["SWAR", "2025-09-30", "IMCCHICAGO LLC", "PUT", 0.0002, -0.0868, 2607900.0, 55052769.0, 21.0]]}

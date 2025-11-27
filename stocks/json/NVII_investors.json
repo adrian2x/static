@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["NVII", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 18400.0, 591928.0, 32.0], ["NVII", "2025-09-30", "MARINER LLC", "FND", 0.0, 0.5417, 11100.0, 357087.0, 32.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SLMCX", "2025-09-30", "FAIRFIELD FINANCIAL ADVISORS LTD", "FND", 0.0013, 0.0, 2406.0, 391597.0, 162.0], ["SLMCX", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "FND", 0.0002, null, 1502.0, 244431.0, 162.0]]}

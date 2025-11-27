@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GYRO", "2025-09-08 00:00:00.000000", "TOWERVIEW LLC", "10% Owner", "S", 12.55, -1973, 24761.0, "Common Shares"]]}

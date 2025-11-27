@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ESCA", "2025-11-21 00:00:00.000000", "WAWRIN STEPHEN", "CHIEF FINANCIAL OFFICER", "S", 13.0, -2000, 26000.0, "Common Stock"]]}

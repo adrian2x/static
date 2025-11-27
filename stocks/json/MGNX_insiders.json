@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MGNX", "2025-08-20 00:00:00.000000", "HEIDEN WILLIAM K", "Director", "P", 1.49, 49500, 73755.0, "Common Stock"]]}

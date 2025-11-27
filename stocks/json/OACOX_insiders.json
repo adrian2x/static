@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OACOX", "2025-01-02 00:00:00.000000", "SIVERLING JOHN", "", "S", 10.1, -5000, 50500.0, "OneAscent Capital Opportunities Fund"]]}

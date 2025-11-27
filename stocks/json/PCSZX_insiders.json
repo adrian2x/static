@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PCSZX", "2025-03-25 00:00:00.000000", "RAKOWSKI ERIC", "Director", "P", 10.97, 9115, 100000.0, "Class S Shares"]]}

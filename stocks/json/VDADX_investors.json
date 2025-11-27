@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VDADX", "2025-09-30", "ETHOS FINANCIAL GROUP LLC", "FND", 0.0002, null, 3525.0, 206468.0, 58.0], ["VDADX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0001, null, 900.0, 52721.0, 58.0]]}

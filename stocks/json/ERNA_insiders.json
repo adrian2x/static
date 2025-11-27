@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ERNA", "2025-06-09 00:00:00.000000", "CHERINGTON CHARLES", "10% Owner", "P", 0.1, 21241163, 2230322.0, "Common Stock"]]}

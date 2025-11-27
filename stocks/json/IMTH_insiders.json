@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IMTH", "2024-12-17 00:00:00.000000", "FRIEDMAN MICHAEL JORDAN", "President", "J", 0.01, 6500000, 32500.0, "Common Stock"]]}

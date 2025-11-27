@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AGRW", "2025-09-30", "ALLSPRING GLOBAL INVESTMENTS HOLDINGS LLC", "FND", 0.002, 0.0, 4240893.0, 126865042.0, 29.0], ["AGRW", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, -0.8405, 9885.0, 295710.0, 29.0]]}

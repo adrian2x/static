@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLAR", "2025-08-14 00:00:00.000000", "YATES MICHAEL J", "Chief Financial Officer", "P", 3.4, 8800, 29920.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GMHS", "2025-09-30", "VIRTU FINANCIAL LLC", "SHR", 0.0, null, 27250.0, 39000.0, 1.0], ["GMHS", "2025-09-30", "GABELLI CO INVESTMENT ADVISERS INC", "SHR", 0.0, 0.0, 11440.0, 16474.0, 1.0]]}

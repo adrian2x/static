@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ETO", "2025-02-26 00:00:00.000000", "DIGREGORIO DEREK", "", "P", 25.98, 1000, 25980.0, "Common Shares"]]}

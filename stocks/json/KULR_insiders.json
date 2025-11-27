@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KULR", "2025-10-03 00:00:00.000000", "MASSEY JOANNA D", "Director", "S", 5.47, -10000, 54700.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AMDU", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 27173.0, 495714.0, 18.0], ["AMDU", "2025-09-30", "HOLLENCREST CAPITAL MANAGEMENT", "FND", 0.0, null, 5.0, 91.0, 18.0]]}

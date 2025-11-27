@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["QSML", "2025-09-30", "CETERA INVESTMENT ADVISERS", "FND", 0.0001, 0.0327, 237483.0, 6718988.0, 28.0], ["QSML", "2025-09-30", "HIGHTOWER ADVISORS LLC", "FND", 0.0, -0.1215, 7590.0, 214740.0, 28.0]]}

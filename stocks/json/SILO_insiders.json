@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SILO", "2025-11-21 00:00:00.000000", "WEISBLUM ERIC", "Chief Executive Officer", "P", 0.36, 1000, 365.0, "Common Stock"]]}

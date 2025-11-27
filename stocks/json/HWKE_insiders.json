@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HWKE", "2023-12-29 00:00:00.000000", "MULGREW CHRISTOPHER", "CFO and Director", "S", 0.07, -30000, 2100.0, "Common Stock"]]}

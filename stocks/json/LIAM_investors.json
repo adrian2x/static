@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LIAM", "2025-09-30", "STONE RIDGE HOLDINGS GROUP LP", "FND", 0.0081, -0.6691, 4665.0, 1138404.0, 244.0], ["LIAM", "2025-09-30", "PORTER WHITE INVESTMENT ADVISORS INC", "FND", 0.0045, null, 4305.0, 1050553.0, 244.0]]}

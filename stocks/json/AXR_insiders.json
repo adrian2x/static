@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AXR", "2024-12-20 00:00:00.000000", "ROBOTTI ROBERT", "Director", "S", 31.56, -13000, 410254.0, "Common Stock 0.001 Par Value Per Share"]]}

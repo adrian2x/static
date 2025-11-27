@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PLX", "2025-11-18 00:00:00.000000", "BARSHALEV AMOS", "Director", "S", 1.87, -168, 314.0, "Common Stock"]]}

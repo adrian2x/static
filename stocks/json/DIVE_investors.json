@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DIVE", "2025-09-30", "DANA INVESTMENT ADVISORS INC", "FND", 0.0083, null, 1126813.0, 28253475.0, 25.0], ["DIVE", "2025-09-30", "CAPTRUST FINANCIAL ADVISORS", "FND", 0.0001, null, 143911.0, 3608405.0, 25.0]]}

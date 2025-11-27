@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RIGDSLX", "2025-09-30", "COOPER INVESTORS PTY LTD", "SHR", 0.0115, 0.1071, 69320.0, 4228520.0, 61.0], ["RIGDSLX", "2025-09-30", "GENERALI INVESTMENTS CEE INVESTICNI SPOLECNOST AS", "SHR", 0.0012, -0.3522, 25977.0, 1584597.0, 61.0]]}

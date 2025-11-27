@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CPXIX", "2025-09-30", "GREAT LAKES ADVISORS LLC", "FND", 0.0, 0.0, 35186.0, 444050.0, 12.0], ["CPXIX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0002, null, 7856.0, 99141.0, 12.0]]}

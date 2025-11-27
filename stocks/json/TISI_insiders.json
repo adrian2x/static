@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TISI", "2025-11-21 00:00:00.000000", "DAVIS JEFFERY GERALD", "Director", "S", 15.0, -573, 8595.0, "Common Stock"]]}

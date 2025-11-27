@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AKAF", "2025-09-30", "VIDENT ADVISORY LLC", "FND", 0.0002, null, 75782.0, 2154914.0, 28.0], ["AKAF", "2025-09-30", "ICONIQ CAPITAL LLC", "FND", 0.0003, null, 75400.0, 2144376.0, 28.0]]}

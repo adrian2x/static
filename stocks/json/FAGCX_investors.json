@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FAGCX", "2025-09-30", "REDWOOD WEALTH MANAGEMENT GROUP LLC", "FND", 0.015, -0.0307, 14809.0, 3533659.0, 238.0], ["FAGCX", "2025-09-30", "GAME PLAN FINANCIAL ADVISORS LLC", "FND", 0.0, null, 18.0, 4295.0, 238.0]]}

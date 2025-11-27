@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GDL", "2025-03-26 00:00:00.000000", "MELARKEY MICHAEL J", "Director", "J", 50.0, -3038, 151900.0, "Series C Cumulative Puttable and Callable Preferred Shares"]]}

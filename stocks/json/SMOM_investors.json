@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SMOM", "2025-09-30", "SYMMETRY PARTNERS LLC", "FND", 0.0058, null, 204911.0, 5308014.0, 25.0], ["SMOM", "2025-09-30", "SEQUOIA FINANCIAL ADVISORS LLC", "FND", 0.0, null, 8044.0, 208372.0, 25.0]]}

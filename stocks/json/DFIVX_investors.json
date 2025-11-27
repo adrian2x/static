@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DFIVX", "2025-09-30", "DIVERSIFIED TRUST CO", "FND", 0.0003, 0.0, 54389.0, 1462523.0, 26.0], ["DFIVX", "2025-09-30", "COSTON MCISAAC PARTNERS", "FND", 0.0001, 0.0083, 2295.0, 61000.0, 26.0]]}

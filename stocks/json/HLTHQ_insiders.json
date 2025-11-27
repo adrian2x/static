@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HLTHQ", "2024-03-25 00:00:00.000000", "SEVER CLINT", "Chief Executive Officer", "F", 0.19, -20456, 3887.0, "Common Stock"]]}

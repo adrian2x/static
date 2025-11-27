@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FF", "2025-11-20 00:00:00.000000", "POLET ROELAND", "Chief Executive Officer", "P", 3.2, 15000, 48000.0, "Common Stock"]]}

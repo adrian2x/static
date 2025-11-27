@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MKL", "2025-11-25 00:00:00.000000", "WILSON SIMON", "CEO Markel Insurance", "S", 2072.94, -75, 155470.0, "Common Stock"]]}

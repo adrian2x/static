@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PRIVX", "2025-01-30 00:00:00.000000", "MORGAN HERBERT WILLIAM", "Director", "P", 42.98, 465, 20000.0, "Shares of Beneficial Interest"]]}

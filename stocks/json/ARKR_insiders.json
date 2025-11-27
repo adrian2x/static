@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ARKR", "2025-08-18 00:00:00.000000", "WEINSTEIN MICHAEL LAWRENCE", "Chairman  CEO", "P", 7.5, 3000, 22500.0, "Common Stock"]]}

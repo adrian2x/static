@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DAK", "2025-09-30", "DAKOTA WEALTH MANAGEMENT", "FND", 0.0072, null, 1375858.0, 35941959.0, 26.0], ["DAK", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0002, null, 24047.0, 628180.0, 26.0]]}

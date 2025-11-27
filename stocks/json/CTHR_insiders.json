@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CTHR", "2024-03-05 00:00:00.000000", "OCONNELL DON", "President and CEO", "P", 0.37, 15000, 5550.0, "Common Stock"]]}

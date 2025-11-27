@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NTWK", "2025-11-17 00:00:00.000000", "GHAURI NAJEEB", "CEO", "P", 2.99, 5950, 17708.0, "Common Stock"]]}

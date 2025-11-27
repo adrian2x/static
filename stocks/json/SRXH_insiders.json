@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SRXH", "2025-08-25 00:00:00.000000", "WHITE DAVID ALLAN", "Director", "A", 0.4, 154128, 61651.0, "Common Stock"]]}

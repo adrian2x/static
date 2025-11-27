@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRWG", "2025-11-13 00:00:00.000000", "LAMPERT DARREN", "CEO", "S", 1.61, -56540, 91029.0, "Common Stock"]]}

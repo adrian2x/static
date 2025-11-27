@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SBIG", "2025-07-31 00:00:00.000000", "CHRISTOPHER JARET", "Chairman and CEO", "A", 0.04, 772133, 31657.0, "Common Stock"]]}

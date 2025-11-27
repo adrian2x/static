@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ENTO", "2025-01-06 00:00:00.000000", "ROMANO SARAH", "Chief Financial Officer", "S", 0.64, -727, 465.0, "Common Stock"]]}

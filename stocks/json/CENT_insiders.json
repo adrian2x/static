@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CENT", "2025-08-29 00:00:00.000000", "BROWN WILLIAM E 1", "Chairman", "S", 32.71, -83194, 2721026.0, "Class A Common Stock"]]}

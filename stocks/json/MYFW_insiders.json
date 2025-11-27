@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MYFW", "2025-11-25 00:00:00.000000", "WYLIE SCOTT C", "CHAIRMAN CEO AND PRESIDENT", "S", 23.55, -5000, 117750.0, "Common Stock"]]}

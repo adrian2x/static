@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CSLMF", "2025-09-30", "METEORA CAPITAL LLC", "WNT", 0.0004, null, 3228094.0, 365242.0, 0.0], ["CSLMF", "2025-09-30", "PARKWOOD LLC", "WNT", 0.0001, 0.0, 368176.0, 81000.0, 0.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ICDI", "2024-12-19 00:00:00.000000", "BARRETT ROBERT J IV", "Director", "S", 0.01, -42627, 426.0, "Common Stock"]]}

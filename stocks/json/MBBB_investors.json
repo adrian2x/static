@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MBBB", "2025-09-30", "VAN ECK ASSOCIATES CORP", "FND", 0.0001, -0.1262, 277000.0, 6073000.0, 21.0], ["MBBB", "2025-09-30", "MENDEL MONEY MANAGEMENT", "FND", 0.0015, -0.0859, 16481.0, 361326.0, 21.0]]}

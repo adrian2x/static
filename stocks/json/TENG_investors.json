@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TENG", "2025-09-30", "IMCCHICAGO LLC", "CLL", 0.0, 3.5539, 312400.0, 11164740.0, 35.0], ["TENG", "2025-09-30", "IMCCHICAGO LLC", "PUT", 0.0, -0.6973, 68600.0, 2875137.0, 41.0]]}

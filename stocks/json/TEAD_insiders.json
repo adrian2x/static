@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TEAD", "2025-09-11 00:00:00.000000", "KRINDEL YAFFA", "Director", "P", 1.61, 1250, 2013.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["IPDN", "2025-09-30", "GEODE CAPITAL MANAGEMENT LLC", "SHR", 0.0, -0.2077, 11160.0, 41294.0, 3.0], ["IPDN", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, 3594.0, 3595.0, 13302.0, 3.0], ["IPDN", "2025-09-30", "FMR LLC", "SHR", 0.0, null, 8.0, 28.0, 3.0]]}

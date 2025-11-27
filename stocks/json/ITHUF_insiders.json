@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ITHUF", "2024-01-05 00:00:00.000000", "FARAUT PHILIPPE", "Chief Financial Officer", "D", 0.29, -999512, 286860.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PPEM", "2025-09-30", "FRANKLIN RESOURCES INC", "FND", 0.0001, 0.0342, 1933387.0, 53032225.0, 27.0], ["PPEM", "2025-09-30", "OLD MISSION CAPITAL LLC 1", "FND", 0.0001, null, 9227.0, 253093.0, 27.0]]}

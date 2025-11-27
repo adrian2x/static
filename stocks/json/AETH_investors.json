@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AETH", "2025-09-30", "NAPA WEALTH MANAGEMENT", "FND", 0.0073, null, 32478.0, 1555047.0, 47.0], ["AETH", "2025-09-30", "GLOBAL RETIREMENT PARTNERS LLC", "FND", 0.0002, 0.2627, 16977.0, 812859.0, 47.0]]}

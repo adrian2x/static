@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GPRF", "2025-09-30", "MERCER GLOBAL ADVISORS INC", "FND", 0.0, null, 25753.0, 1325062.0, 51.0], ["GPRF", "2025-09-30", "BALBOA WEALTH PARTNERS", "FND", 0.0004, null, 4420.0, 227420.0, 51.0]]}

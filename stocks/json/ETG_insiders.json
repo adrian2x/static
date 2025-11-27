@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ETG", "2025-08-13 00:00:00.000000", "DIGREGORIO DEREK", "", "S", 20.75, -800, 16600.0, "Common Shares"]]}

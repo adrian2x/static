@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ABUS", "2025-08-04 00:00:00.000000", "SAWHNEY ROGER", "Director", "A", 3.34, 157600, 526384.0, "Stock Option Right to Buy"]]}

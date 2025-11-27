@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MNRS", "2025-09-30", "FORMIDABLE ASSET MANAGEMENT LLC", "FND", 0.0003, null, 7976.0, 200281.0, 25.0], ["MNRS", "2025-09-30", "GLOBAL RETIREMENT PARTNERS LLC", "FND", 0.0, 0.2212, 2396.0, 97134.0, 40.0]]}

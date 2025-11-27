@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STEK", "2025-06-23 00:00:00.000000", "KAPLAN BENJAMIN NATHANIEL", "Director", "S", 0.03, -1000000, 30000.0, "Common Stock"]]}

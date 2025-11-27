@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CSBB", "2025-11-17 00:00:00.000000", "BAKER ROBERT K", "Director", "P", 49.64, 250, 12428.0, "Common Stock"]]}

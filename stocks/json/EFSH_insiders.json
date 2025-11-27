@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EFSH", "2025-11-21 00:00:00.000000", "ROBERTS ELLERY", "Chairman and CEO", "P", 0.01, 352006, 3520.0, "Common Shares"]]}

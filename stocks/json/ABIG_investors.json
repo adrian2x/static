@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ABIG", "2025-09-30", "MONETA GROUP INVESTMENT ADVISORS LLC", "FND", 0.0019, 0.3343, 775489.0, 24522202.0, 31.0], ["ABIG", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, -0.781, 6368.0, 201369.0, 31.0]]}

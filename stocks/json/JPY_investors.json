@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JPY", "2025-09-30", "PERMANENS CAPITAL LP", "FND", 0.026, null, 555599.0, 17443253.0, 31.0], ["JPY", "2025-09-30", "WEALTHSPIRE ADVISORS LLC", "FND", 0.0, null, 5.0, 157.0, 31.0]]}

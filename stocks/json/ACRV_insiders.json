@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACRV", "2025-11-21 00:00:00.000000", "BLUMEJENSEN PETER", "President and CEO", "F", 2.3, -19904, 45779.0, "Common Stock"]]}

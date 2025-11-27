@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UCASU", "2025-05-02 00:00:00.000000", "WU XIANGHONG", "Major Member of GP", "P", 0.69, 20000, 13800.0, "Common Units"]]}

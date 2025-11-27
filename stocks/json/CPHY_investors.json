@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CPHY", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0004, null, 18069.0, 918086.0, 50.0], ["CPHY", "2025-09-30", "BLACK SWIFT GROUP LLC", "FND", 0.0007, null, 7500.0, 381075.0, 50.0]]}

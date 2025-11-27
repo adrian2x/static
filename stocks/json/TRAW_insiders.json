@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TRAW", "2025-11-21 00:00:00.000000", "LEAMAN JOHN HAROLD", "Director", "A", 2.31, 12770, 29499.0, "Stock Option right to purchase"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FAT", "2025-05-30 00:00:00.000000", "ELENOWITZ MARK", "Director", "P", 2.2, 1000, 2200.0, "Series B Cumulative Preferred Stock"]]}

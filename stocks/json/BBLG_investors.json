@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BBLG", "2025-09-30", "DRW SECURITIES LLC", "SHR", 0.0, null, 11027.0, 30765.0, 2.0], ["BBLG", "2025-09-30", "SBI SECURITIES CO LTD", "SHR", 0.0, null, 230.0, 642.0, 2.0], ["BBLG", "2025-09-30", "CLEAR STREET GROUP INC", "SHR", 0.0, null, 138.0, 385.0, 2.0]]}

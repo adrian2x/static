@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MEIKX", "2025-09-30", "ARVEST BANK TRUST DIVISION", "FND", 0.0012, -0.0541, 40741.0, 2153976.0, 52.0], ["MEIKX", "2025-09-30", "FULTON BANK NA", "FND", 0.0002, 0.0, 11403.0, 602922.0, 52.0]]}

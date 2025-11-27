@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TSVT", "2025-06-30", "NUVEEN LLC", "SHR", 0.0, null, 93115.0, 465575.0, 5.0], ["TSVT", "2025-06-30", "IFP ADVISORS INC", "SHR", 0.0, null, 0.0, 75.0, null]]}

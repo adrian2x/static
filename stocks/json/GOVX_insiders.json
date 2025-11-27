@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GOVX", "2025-10-17 00:00:00.000000", "SPENCER JOHN N JR", "Director", "P", 0.55, 10000, 5500.0, "Common Stock"]]}

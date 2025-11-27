@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FINS", "2025-08-12 00:00:00.000000", "MULLINS ANDREA", "Director", "P", 13.15, 7585, 99758.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TPHS", "2025-02-06 00:00:00.000000", "MFP PARTNERS LP", "10% Owner", "S", 0.05, -300000, 15000.0, "Common Stock par value 0.01 per share"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMZE", "2025-11-24 00:00:00.000000", "DAY AARON", "Chief Executive Officer", "P", 0.3, 335440, 100632.0, "Common Stock"]]}

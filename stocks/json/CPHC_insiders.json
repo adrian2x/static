@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CPHC", "2025-03-15 00:00:00.000000", "DEHMER RANDY J", "Chief Financial Officer", "F", 19.5, -233, 4544.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACCS", "2025-05-16 00:00:00.000000", "POLLARD WESLEY T", "Director", "P", 9.21, 2000, 18420.0, "Common Stock"]]}

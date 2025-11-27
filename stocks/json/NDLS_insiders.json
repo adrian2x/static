@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NDLS", "2025-07-24 00:00:00.000000", "HYNES MICHAEL", "Chief Financial Officer", "F", 0.95, -4323, 4111.0, "Class A Common Stock"]]}

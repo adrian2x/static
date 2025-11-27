@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EXOZ", "2025-07-02 00:00:00.000000", "HELTZEN MICHAEL", "Chief Executive Officer", "P", 10.22, 1040, 10629.0, "Common Stock"]]}

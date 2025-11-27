@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VENAX", "2025-09-30", "FIRST MERCHANTS CORP", "FND", 0.0001, -0.0014, 5513.0, 346689.0, 62.0], ["VENAX", "2025-09-30", "TRANSCE3ND LLC", "FND", 0.0004, -0.7423, 84.0, 4282.0, 50.0]]}

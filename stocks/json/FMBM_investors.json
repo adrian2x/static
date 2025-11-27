@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FMBM", "2025-09-30", "CUTLER CAPITAL MANAGEMENT LLC", "SHR", 0.0112, -0.0069, 135864.0, 3518878.0, 25.0], ["FMBM", "2025-09-30", "PL CAPITAL ADVISORS LLC", "SHR", 0.0016, null, 18461.0, 478140.0, 25.0]]}

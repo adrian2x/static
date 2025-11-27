@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MDIA", "2025-09-05 00:00:00.000000", "BLACKROCK PORTFOLIO MANAGEMENT LLC", "10% Owner", "S", 1.32, -214, 282.0, "Class A Common Stock"]]}

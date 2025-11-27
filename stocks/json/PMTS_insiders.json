@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PMTS", "2025-11-06 00:00:00.000000", "RILEY H SANFORD", "Director", "P", 14.2, 10000, 142000.0, "Common Stock"]]}

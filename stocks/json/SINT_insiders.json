@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SINT", "2025-11-07 00:00:00.000000", "HONIGBLUM GREGG R", "Chief Investment Officer", "P", 3.19, 10000, 31900.0, "Common Stock"]]}

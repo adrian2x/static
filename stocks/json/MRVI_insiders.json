@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MRVI", "2025-11-14 00:00:00.000000", "DOLAN CHRISTINE", null, "A", 1.79, 4300, 7697.0, "Class A Common Stock"]]}

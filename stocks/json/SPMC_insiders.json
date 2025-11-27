@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SPMC", "2025-11-17 00:00:00.000000", "ASSURED GUARANTY LTD", "10% Owner", "S", 16.4, -102, 1673.0, "Common Stock"]]}

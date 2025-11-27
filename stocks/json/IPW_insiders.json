@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IPW", "2024-11-26 00:00:00.000000", "TAN CHENLONG", "CEO  Chairman", "P", 0.69, 10000, 6850.0, "Common Stock"]]}

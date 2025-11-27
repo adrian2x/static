@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ORGN", "2025-11-03 00:00:00.000000", "PLAVAN MATTHEW T", "CFO and COO", "S", 0.55, -150000, 82500.0, "Common Stock"]]}

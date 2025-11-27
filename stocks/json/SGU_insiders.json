@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SGU", "2025-08-13 00:00:00.000000", "BAXTER SCOTT", "Director", "P", 11.79, 15000, 176850.0, "Common Units"]]}

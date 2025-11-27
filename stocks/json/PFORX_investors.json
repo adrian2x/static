@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PFORX", "2025-09-30", "FULTON BANK NA", "FND", 0.0004, 0.1031, 101863.0, 1010488.0, 9.0], ["PFORX", "2025-09-30", "FINANCIAL GRAVITY ASSET MANAGEMENT INC", "FND", 0.0, null, 2.0, 22.0, 11.0]]}

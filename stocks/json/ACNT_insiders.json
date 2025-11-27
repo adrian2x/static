@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACNT", "2025-09-11 00:00:00.000000", "HUTTER CHRISTOPHER GERALD", "Director", "S", 12.25, -47935, 587204.0, "Common Stock"]]}

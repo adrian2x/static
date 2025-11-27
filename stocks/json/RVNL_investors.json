@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["RVNL", "2025-09-30", "AUSTIN WEALTH MANAGEMENT LLC", "FND", 0.0005, null, 11271.0, 321233.0, 28.0], ["RVNL", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, 0.0348, 7503.0, 281493.0, 37.0]]}

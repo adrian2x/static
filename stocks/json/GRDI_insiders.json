@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRDI", "2024-10-30 00:00:00.000000", "FRASER ALEXANDER G", "General Counsel  Secretary", "D", 1.04, -600000, 623400.0, "Employee Stock Options right to buy"]]}

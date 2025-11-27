@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NWPP", "2025-11-25 00:00:00.000000", "KEENE HAROLD L", "Director", "P", 3.4, 4528, 15395.0, "Common Stock"]]}

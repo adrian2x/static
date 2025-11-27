@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TELO", "2025-05-28 00:00:00.000000", "AMINOV EREZ", "CEO and Chairman", "A", 2.1, 2000000, 4200000.0, "Non-Qualified Options"]]}

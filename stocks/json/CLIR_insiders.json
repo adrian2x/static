@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLIR", "2025-02-24 00:00:00.000000", "HINDS BRENT", "Chief Financial Officer", "F", 0.8, -2636, 2106.0, "Common Stock"]]}

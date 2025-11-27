@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BUKS", "2025-09-30", "MINK BROOK ASSET MANAGEMENT LLC", "SHR", 0.0137, null, 1032137.0, 2037438.0, 1.0], ["BUKS", "2025-09-30", "KORNITZER CAPITAL MANAGEMENT INC", "SHR", 0.0, null, 12000.0, 23688.0, 1.0]]}

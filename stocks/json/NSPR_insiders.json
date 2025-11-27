@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NSPR", "2025-11-12 00:00:00.000000", "STUKA PAUL", "Director", "P", 1.62, 13431, 21758.0, "Common Stock"]]}

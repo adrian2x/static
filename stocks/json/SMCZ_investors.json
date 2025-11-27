@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SMCZ", "2025-09-30", "HRT FINANCIAL LP", "FND", 0.0, null, 82019.0, 327000.0, 3.0], ["SMCZ", "2025-09-30", "MAREX GROUP PLC", "FND", 0.0, null, 20000.0, 85600.0, 4.0], ["SMCZ", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, -0.737, 12848.0, 51264.0, 3.0]]}

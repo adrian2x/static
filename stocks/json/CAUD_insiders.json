@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CAUD", "2025-03-20 00:00:00.000000", "BORDES PETER A JR", "Chief Executive Officer", "S", 0.1, -1211429, 121143.0, "Common Stock"]]}

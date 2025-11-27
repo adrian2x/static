@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AINC", "2024-10-18 00:00:00.000000", "EUBANKS DERIC S", "CFO and Treasurer", "D", 5.0, -47536, 237680.0, "Common Stock"]]}

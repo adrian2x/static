@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VWESQ", "2024-03-07 00:00:00.000000", "JOHNSTON KRISTINA L", "Chief Financial Officer", "F", 0.48, -29655, 14234.0, "Common Stock"]]}

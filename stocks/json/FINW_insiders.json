@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FINW", "2025-11-03 00:00:00.000000", "KEIL ROBERT", "", "S", 19.48, -1500, 29220.0, "Common Stock par value 0.001 per share"]]}

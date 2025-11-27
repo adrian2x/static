@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["LOPP", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, -0.0273, 10315.0, 334505.0, 32.0], ["LOPP", "2025-09-30", "ROCKEFELLER CAPITAL MANAGEMENT LP", "FND", 0.0, null, 393.0, 12745.0, 32.0]]}

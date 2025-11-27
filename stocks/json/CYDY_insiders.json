@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CYDY", "2025-05-15 00:00:00.000000", "HOFFMAN ROBERT E", "Chief Financial Officer", "A", 0.41, 1000000, 410000.0, "Non-qualified stock option right to buy"]]}

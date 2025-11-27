@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LPTV", "2025-02-20 00:00:00.000000", "CASSIDY BRUCE A SR", "Director", "J", 0.04, 26261905, 1103000.0, "Common Stock"]]}

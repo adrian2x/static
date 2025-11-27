@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DWCR", "2025-06-30", "ARROW INVESTMENT ADVISORS LLC", "FND", 0.0464, null, 143966.0, 4875581.0, 33.0], ["DWCR", "2025-06-30", "GTS SECURITIES LLC", "FND", 0.0002, null, 13962.0, 472837.0, 33.0]]}

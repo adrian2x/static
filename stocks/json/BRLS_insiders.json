@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BRLS", "2024-02-28 00:00:00.000000", "OYER STEVEN M", "Director", "P", 9.93, 1000, 9930.0, "Class A Common Stock"]]}

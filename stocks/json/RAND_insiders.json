@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RAND", "2025-09-15 00:00:00.000000", "GUSKY ADAM SAMUEL", "Director", "P", 14.68, 1030, 15247.0, "Common Stock"]]}

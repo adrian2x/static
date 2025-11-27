@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TWIN", "2025-11-12 00:00:00.000000", "BATTEN JOHN H", "President and CEO", "A", 16.14, -9102, 146879.0, "COMMON STOCK"]]}

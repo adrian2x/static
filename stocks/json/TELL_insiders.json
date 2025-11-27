@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TELL", "2024-07-24 00:00:00.000000", "KESSLER DIANA DERYCZ", "Director", "S", 0.95, -1000000, 949000.0, "Common Stock"]]}

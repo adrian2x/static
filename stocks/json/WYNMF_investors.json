@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["WYNMF", "2025-09-30", "PACER ADVISORS INC", "DBT", 0.0, -0.3727, 69000.0, 68914.0, 0.0], ["WYNMF", "2025-09-30", "NBC SECURITIES INC", "SHR", 0.0, null, 25.0, 232.0, 9.0]]}

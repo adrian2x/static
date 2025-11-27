@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LUCD", "2025-10-06 00:00:00.000000", "PALUMBO JOHN R", "Director", "A", 1.03, 215000, 221450.0, "Employee stock option right to buy"]]}

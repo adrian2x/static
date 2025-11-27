@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IMHC", "2025-08-28 00:00:00.000000", "HYPERSCALE DATA INC", "10% Owner", "P", 0.01, 1000000, 7000.0, "Common Stock"]]}

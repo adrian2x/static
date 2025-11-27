@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MONIX", "2025-09-30 00:00:00.000000", "MELI ALI", "President and CEO", "S", 9.97, -26000, 259220.0, "Class I Shares"]]}

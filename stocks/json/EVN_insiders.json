@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EVN", "2025-03-05 00:00:00.000000", "FROST CYNTHIA", "", "S", 10.66, -15000, 159768.0, "Common Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HOTH", "2025-08-28 00:00:00.000000", "KNIE ROBB", "CEO and President", "F", 1.21, -310744, 376000.0, "Common Stock"]]}

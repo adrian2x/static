@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["NRSH", "2025-09-30", "GTS SECURITIES LLC", "FND", 0.0001, 0.3561, 15319.0, 353180.0, 23.0], ["NRSH", "2025-09-30", "SCOTIA CAPITAL INC", "FND", 0.0, 0.0, 12000.0, 276648.0, 23.0]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BIYA", "2025-09-30", "XTX TOPCO LTD", "SHR", 0.0, null, 36249.0, 21195.0, 0.0], ["BIYA", "2025-09-30", "HRT FINANCIAL LP", "SHR", 0.0, -0.4809, 25084.0, 14000.0, 0.0], ["BIYA", "2025-09-30", "GUERRA ADVISORS INC", "SHR", 0.0, null, 700.0, 409.0, 0.0]]}

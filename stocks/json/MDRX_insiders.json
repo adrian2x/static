@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MDRX", "2025-09-02 00:00:00.000000", "TRIGG DONALD", "Chief Executive Officer", "A", 5.25, 571428, 2999997.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SCD", "2025-07-14 00:00:00.000000", "MASON PETER DANIEL CHARLES", "Director", "P", 15.59, 2580, 40222.0, "Common Stock"]]}

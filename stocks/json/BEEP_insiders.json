@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BEEP", "2025-08-29 00:00:00.000000", "GARFINKLE DAVID", "Director", "P", 3.84, 2580, 9891.0, "Common Stock"]]}
